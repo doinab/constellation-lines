@@ -1,0 +1,51 @@
+{
+  "id": "maricopa",
+  "name": "Maricopa",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "1929-1930",
+  "place": "South-central Arizona",
+  "source": ["miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North American",
+  "description": "The Maricopa live in south-central Arizona, in the Southwest. The information is attributed to the anthropologist Leslie Spier and dated 1929-1930 (exact reference unclear). Only 4 constellations have lines; another (Mountain Sheep) is without lines. There are other constellations documented, such as Earth Doctor (2 stars in Scorpius) and Scorpion (other stars in Scorpius), but the exact stars have not been identified. Other constellations are identified with modern ones but without confirming any lines (they are not included here). The constellations represent or refer to myth characters: Coyote, Cold, Spider, Fox, Earth Doctor.",
+  "constellations": [
+    {
+      "id": "CON maricopa 001",
+      "names": [{"english": "Coyote's Fishing Net"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* bet UMa", "* alf UMa", "* del UMa"], ["* alf UMa", "* alf UMi"]],
+      "description": "Coyote is the Big Dipper, and the net extends to UMi. Coyote holds the net at one end. When he hears fish jumping, he turns around, pulling the net behind him and making a bend in it (the slight bend in the Big Dipper handle)."
+    },
+    {
+      "id": "CON maricopa 002",
+      "names": [{"english": "Mountain Sheep", "native": "Amŏ's"}],
+      "lines": [["* zet Ori", "* zet Ori"], ["* eps Ori", "* eps Ori"], ["* del Ori", "* del Ori"]],
+      "certainty": "It is not clear whether the stars should be linked by lines (they are not here). There's also an arrow (Orion's belt plus a top star) shot at the middle animal, also without wiring, and the arrow looks very crooked, so not drawn here.",
+      "description": "The three stars are an antelope, a mountain sheep, and a deer. There is also an arrow going through, but not well identified. The Mountain Sheep Pursuer (Sirius) is stalking and has shot the mountain sheep."
+    },
+    {
+      "id": "CON maricopa 003",
+      "names": [{"english": "Cold's Cottonwood"}],
+      "lines": [["* bet Aql", "* alf Aql", "* gam Aql"]],
+      "description": "Cold is a character in stories. The constellation appears at dawn in January and looks like the flowering part of cottonwood."
+    },
+    {
+      "id": "CON maricopa 004",
+      "names": [{"english": "Spider"}],
+      "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* alf Cas", "* bet Cas"]]
+    },
+    {
+      "id": "CON maricopa 006",
+      "names": [{"english": "Fox"}],
+      "lines": [["* phi Sgr", "* sig Sgr", "* tau Sgr", "* zet Sgr", "* phi Sgr", "* lam Sgr", "* mu. Sgr"]],
+      "description": "Fox is Coyote's twin brother, and looks similar."
+    }
+  ],
+  "common_names": {
+    "* alf CMa": [{"english": "Mountain Sheep Pursuer"}],
+    "* alf UMi": [{"english": "Captain (Chief)", "description": "This is a Spanish name. In the Maricopa/Pima creation story, it forms the pole at one end of Coyote's net."}, {"english": "Pole"}],
+    "NAME Pleiades": [{"english": "Gopher", "native": "Xĭtca'"}],
+    "NAME Venus": [{"english": "Star that Travels through the Sun"}, {"english": "Big Star", "description": "Represents a woman who changes herself into a star."}],
+    "NAME Milky Way": [{"english": "Deer and Antelope Tracks"}, {"english": "Spider's Web"}]
+  }
+}

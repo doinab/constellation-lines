@@ -1,0 +1,39 @@
+{
+  "id": "javanese",
+  "name": "Javanese",
+  "region": "Asia",
+  "subregion": "South-eastern Asia",
+  "period": "1885, 2015",
+  "place": "Java",
+  "source": ["van1885astronomie", "khairuddin2021austronesian"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austronesian",
+  "description": "Java has an agrarian society, cultivating rice. The Pleiades are the main time-keeper to determine cultivation times, followed by Orion. The astronomical traditional are similar to those of the other the ethnic groups of Java (Sunda, Bugis and Makassar) and other related groups in the subregion.",
+  "constellations": [
+    {
+      "id": "CON javanese 001",
+      "names": [{"english": "The Plough", "native": "Lintang Loukouh"}, {"native": "Waluku"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"], ["* zet Ori", "* sig Ori", "* tet01 Ori C", "* iot Ori", "* kap Ori"], ["* iot Ori", "* bet Ori"]],
+      "certainty": "One star (marked 'c' in the source [van1885astronomie]) is replaced with sig Ori, which is the largest star in the area.",
+      "description": "The Orion belt is the plough, and bet plus kap Ori are the oxen pulling the plough [van1885astronomie]. When the natives see the celestial plough rising in the east at dawn in an upright position, it means the plough must be used and it is time to start planting the fields. In contrast, when the plough is seen low in the west in the upside-down position, it means the end of harvesting season [khairuddin2021austronesian]."
+    },
+    {
+      "id": "CON javanese 002",
+      "names": [{"english": "Beautiful Woman", "native": "Lintang Wulanjar Ngirim"}],
+      "lines": [["* bet Cen", "* alf Cen A"]],
+      "version_of": ["CON bugis 004"],
+      "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The line is presumed based on the related Bugis constellation."
+    },
+    {
+      "id": "CON javanese 003",
+      "names": [{"english": "Slanted House", "native": "Lintang Gubug Péncéng"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
+      "version_of": ["CON bugis 001"],
+      "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The polygon shape is presumed based on its identification with the Southern Cross in the same source.",
+      "description": "It marks the direction of the south."
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"native": "Lintang Wolouh"}]
+  }
+}

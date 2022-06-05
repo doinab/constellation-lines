@@ -1,0 +1,21 @@
+{
+  "id": "koyukon",
+  "name": "Koyukon",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "1976-1977",
+  "place": "Huslia and Hughes villages, Alaska",
+  "source": ["nelson1983make", "miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North American",
+  "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subartic tribes do not have extensive astronomical lore. Only one constellation is documented and drawn, identical to the Big Dipper (with a closed bowl), but with a different meaning. They also marked the movement of alf Aql (Altair), Cassiopeia, the Plieades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). This source attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977.",
+  "constellations": [
+    {
+      "id": "CON koyukon 001",
+      "names": [{"english": "It Rotates Its Body", "native": "Nosikghaltaala"}],
+      "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
+      "certainty": "",
+      "description": "The Koyukon call the Big Dipper a man. According to legend, he argues fiercely with Raven and leaves for the sky, where he becomes Nosikghaltaala, a 'measurer of time'. The tip of the handle is his head, the rest of the handle is his back, and the two pointer stars of the bowl are his buttocks. It serves as the tribe's primary clock."
+    }
+  ]
+}

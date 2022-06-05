@@ -1,0 +1,89 @@
+{
+  "id": "bugis",
+  "name": "Bugis",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "period": "1987, 1999, 2021",
+  "place": "Southern Sulawesi",
+  "source": ["orchiston2021seasia", "orchiston2021mandar"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austronesian",
+  "description": "The Bugis are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. This sky culture has 12 constellation line figures (of which two variants overlap in the Big Dipper region, and another two variants overlap in the Orion region). It also has names for four stars and five other sky objects (the Pleiades, the Coalsack Nebula, the Magellanic Cloud(s), the Milky Way, and Venus). Many of the constellations reflect the seafaring tradition; the others are of agricultural origin. This sky culture is sourced from [orchiston2021seasia] (Section 24.4.1.3 Bugis Asterisms on page 706), which provides a unified drawing of Bugis constellations from prior sources. These sources (one from 1999, one from 1987) had overlapping but not identical data. Most stars are identified, and most constellations lines are drawn. The Mandar sky culture in [orchiston2021mandar] is related (they are neighbouring ethnic groups on the island of Sulawesi) and also overlaps in information with [orchiston2021seasia]. Table 18.6 in [orchiston2021mandar] (page 562) compares the star names of the Mandar and Bugis (for Bugis, based on a source from 1999); the asterisms are similar, both in name and in form. Source [orchiston2021mandar] appears to have mistakes in star identification and typos in the native Bugis accents; they are corrected based on [orchiston2021seasia].",
+  "constellations": [
+    {
+      "id": "CON bugis 001",
+      "names": [{"english": "Incomplete House", "native": "Bintoéng Bola Képpang"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru"], ["* bet Cru", "* mu.01 Cru", "* gam Cru"]]
+    },
+    {
+      "id": "CON bugis 002",
+      "names": [{"english": "Shark", "native": "Bintoéng Balé Mangiwéng"}],
+      "lines": [["* G Sco", "* lam Sco", "* ups Sco", "* kap Sco", "* tet Sco", "* alf Ara"]],
+      "certainty": "It is not clear if this line figure is complete. It is described in [orchiston2021seasia] as the southern part of Scorpius, but the drawing in the source is a pictogram for this constellation, not a line figure. To match the pictogram better than the list of stars provided, this data removed iot1 Sco (which makes the shark a simple straight line) and added alf Ara (a longer tail) and lam Sco (the fin as drawn)."
+    },
+    {
+      "id": "CON bugis 003",
+      "names": [{"english": "Ray Fish", "native": "Bintoéng Lambarué"}],
+      "lines": [["* bet01 Sco", "* del Sco", "* pi. Sco", "* rho Sco", "* sig Sco", "* bet01 Sco"], ["* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco"]]
+    },
+    {
+      "id": "CON bugis 004",
+      "names": [{"english": "Widow", "native": "Bintoéng Balué"}, {"native": "Walu"}],
+      "lines": [["* bet UMa", "* alf UMa"]]
+    },
+    {
+      "id": "CON bugis 005",
+      "names": [{"english": "Ship", "native": "Bintoéng Kappala'é"}],
+      "lines": [["* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa", "* gam UMa"]]
+    },
+    {
+      "id": "CON bugis 006",
+      "names": [{"english": "Ship", "native": "Bintoéng Kappala'é"}],
+      "lines": [["* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa", "* gam UMa", "* psi UMa", "* bet UMa", "* alf UMa", "* bet UMi", "* gam UMi", "* del UMa"]],
+      "variant_of": ["CON bugis 005"]
+    },
+    {
+      "id": "CON bugis 007",
+      "names": [{"english": "Sign of Three", "native": "Tanra Tellué"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
+      "variant_of": ["CON Mandar 005"]
+    },
+    {
+      "id": "CON bugis 008",
+      "names": [{"english": "Plow", "native": "Bintoéng Rakkalaé"}, {"native": "Pajjékoé"}],
+      "lines": [["* gam Ori", "* del Ori", "* eps Ori", "* zet Ori", "* kap Ori"], ["* eps Ori", "* bet Ori"]]
+    },
+    {
+      "id": "CON bugis 009",
+      "names": [{"english": "Widow Before Marriage", "native": "Bintoéng Balué"}],
+      "lines": [["* bet Cen", "* alf Cen A"]]
+    },
+    {
+      "id": "CON bugis 010",
+      "names": [{"english": "Chicken", "native": "Manu"}, {"native": "Jangang"}],
+      "lines": [["* alf Car", "* alf CMa", "* alf CMi"]]
+    },
+    {
+      "id": "CON bugis 011",
+      "names": [{"english": "Job’s Tears Stalk", "native": "Watang-mpata"}, {"native": "Batang-bata"}],
+      "lines": [["* alf Leo", "* bet Leo"]]
+    },
+    {
+      "id": "CON bugis 012",
+      "names": [{"english": "Pushed Plough", "native": "Tékkoroso"}],
+      "lines": [["* bet Tri", "* alf Tri", "* gam Tri"]],
+      "certainty": "This is uncertain. Marked as Traingulum? in [orchiston2021seasia]."
+    }
+  ],
+  "common_names": {
+    "* alf Sco": [{"english": "Lost Pleiad"}],
+    "* alf Aql": [{"english": "Eastern Star", "native": "Bintoéng Timoro'"}],
+    "* alf Tau": [{"english": "Burning Coal", "native": "Wara-wara"}],
+    "* bet Ori": [{"native": "Pajjékoé"}],
+    "NAME Pleiades": [{"english": "Seven Stars", "native": "Bintoéng Pitu"}, {"english": "Cluster", "native": "Worong-porongngé"}, {"english": "Tuft", "native": "Worong-mpolong"}],
+    "NAME Coalsack Nebula": [{"english": "Goat", "native": "Bembé'é"}],
+    "NAME Large Magellanic Cloud": [{"english": "Sign of the Bajau", "native": "Tanra Bajoé"}],
+    "NAME Milky Way": [{"native": "Bintoéng Nagaé"}],
+    "NAME Venus": [{"native": "Wari warié"}, {"native": "Bintoéng Bawi"}]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "kalina",
+  "name": "Kalina",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "1980",
+  "place": "three Carib villages (Konomerume, Karawasinde, and Kubarimye) in Suriname",
+  "source": ["magana1982carib"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South American",
+  "description": "The Kalina or Caribs are indigenous people in the northern coastal areas of South America. They lacked written language before the arrival of Europeans. 53 Carib stars and constellations were known between the 16th century and 1980, with many myths attached to them. Many of these are now unknown: only 20 stars and constellations (Table 2 in the source) remain both known and identified (have been drawn in the sky by villagers and referred to Western sky-maps). The drawings of the first 3 constellations are missing from the source for lack of reproduction rights, and the original sources (1931, 1943) could not be found. These missing constellations are: (001) Barbecue of the Sucker Catfish (Pakamu Sura-ri) which corresponds to Corvus, (002) Four-Eyed Fish (Kutaiyuman) which corresponds to Scorpio and Sagitta, and (003) without English gloss (Pakamuyuman) which also corresponds to Scorpio. This sky culture has 8 constellation line figures, one constellation without lines, and names for the Pleiades, the Milky Way, alf CMa (Sirius), alf Vir (Spica), and Venus. Two other constellations are only imprecisely identified and could not be included: Scorpio (Sibirisiyuman) as Scorpio, and Barbecue (Siritjo sura-ri) as unknown parts of Pegasus and of Andromeda.",
+  "constellations": [
+    {
+      "id": "CON kalina 004",
+      "names": [{"english": "Water Boa", "native": "Suluiuyuman"}],
+      "lines": [["* bet Tau", "* iot Aur", "* eps Aur", "* alf Aur", "HD  33167", "*  58 Per", "* zet Per", "* omi Per", "*  16 Per", "* phi Per", "* eta Cas", "* alf Cas", "* phi And", "* bet And", "* pi. And", "HD 224635", "*  14 And", "* tet And", "* mu. And", "* zet Cas", "* bet Cas", "* gam Cas", "* del Cas", "* chi Cas", "* bet Per", "* alf Per", "* mu. Per", "*   9 Aur", "* bet Aur", "* nu. Aur", "* rho Aur", "* mu. Aur", "* bet Tau"]],
+      "certainty": "Eliminated one unnamed star between bet Per and chi Cas (which best matched M34, a galaxy) and two unidentified stars at the end of the tail."
+    },
+    {
+      "id": "CON kalina 005",
+      "names": [{"english": "Jaguar", "native": "Kaitusiyuman"}],
+      "lines": [["* alf Boo", "* eps Boo", "* sig Boo", "* del Boo", "* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* rho CrB", "*   7 CrB A", "* mu.01 Boo", "* chi Her", "* sig Her"], ["* mu.01 Boo", "* bet Boo", "* gam Boo", "* rho Boo", "* sig Boo"], ["* gam Boo", "* lam Boo", "* i Boo A"]],
+      "certainty": "Two faint stars at the end of lines (sig Her, i Boo A) are guesses, but match well in shape. Another star in drawn isolated inside the body, as an eye, but could not be identified, so is not added. No link is drawn in the source between rho Boo and sig Boo (the start of the tail) likely because they're too close together. A link appears logical and is added here, to close the polygon of the body."
+    },
+    {
+      "id": "CON kalina 006",
+      "names": [{"english": "Face", "native": "Onbatapo"}],
+      "lines": [["* eta CMa", "* ome CMa", "* del CMa", "* omi02 CMa", "* eps CMa"], ["* p Pup", "* k02 Pup", "* ksi Pup", "* rho Pup"]],
+      "certainty": "The choice of ome CMa is guesswork: any star on a line between eta and del CMa would fit the drawing. Compared to the star names in the source, this replaced chi Pup with k2 Pup, and prolonged the chain in Puppis by one star (p Pup) in the other direction, since this fits the linear shape much more accurately.",
+      "description": "These two lines represent the earrings. The face is the multitude of small, unidentified stars located between them, which are not linked by lines and are not added here."
+    },
+    {
+      "id": "CON kalina 008",
+      "names": [{"english": "Tapir", "native": "Maipuriyuman"}],
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* alf Tau"]]
+    },
+    {
+      "id": "CON kalina 009",
+      "names": [{"english": "One-Legged Hunter", "native": "Epietembo"}],
+      "lines": [["* alf Ori", "* zet Ori"], ["* lam Ori", "* alf Ori"], ["* gam Ori", "* lam Ori"], ["* del Ori", "* gam Ori"], ["* del Ori", "* bet Ori"], ["* zet Ori", "* eps Ori", "* del Ori"]],
+      "certainty": "The belt zet, eps, del Ori is not explicitly linked together in the source, but likely only because of the lack of space. They are linked here."
+    },
+    {
+      "id": "CON kalina 010",
+      "names": [{"english": "Currasow Bird", "native": "Wokoyuman"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
+      "description": "The bird is followed by two hunters who are twins, alf and bet Cen (CON kalina 011)."
+    },
+    {
+      "id": "CON kalina 011",
+      "names": [{"english": "Twins", "native": "Pio-Kanamo"}, {"english": "The Hunter and His Torch"}],
+      "lines": [["* alf Cen A", "* alf Cen A"], ["* bet Cen", "* bet Cen"]],
+      "certainty": "The two stars are not linked by a line in the drawing, so also not here.",
+      "description": "The hunters are the twins Pia and Kanaima, the 'givers of culture'. Some villagers say, however, that alf Cen is the torch by means of which a single hunter lights his way."
+    },
+    {
+      "id": "CON kalina 012",
+      "names": [{"english": "King Fisher", "native": "Sagasagayuman"}],
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]]
+    },
+    {
+      "id": "CON kalina 013",
+      "names": [{"english": "Canoe", "native": "Kuriala"}],
+      "lines": [["* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
+      "certainty": "This is not drawn in the source, but is identified as the charriot of Ursa Maior. It is not clear whether the rectangle should be open (as is here) or closed."
+    }
+  ],
+  "common_names": {
+    "* alf CMa": [{"english": "Star of Malirubana", "native": "Malirubana", "description": "It causes the hurricanes."}, {"english": "Star of the Spaniards"}],
+    "* alf Vir": [{"english": "Star of the Torch of the Sucker Catfish", "native": "Pakamu turi-rï", "description": "It lights the catfish's head (now unknown)."}],
+    "NAME Venus": [{"english": "Star of Alukuma", "native": "Alukuma"}, {"english": "Star of the Wife of the Moon", "native": "Nunopuite"}],
+    "NAME Pleiades": [{"english": "Stars of the year", "native": "Siritjo"}, {"english": "Seven hunters, sisters, or children"}],
+    "NAME Milky Way": [{"english": "The Road of the Women who went to fetch Clay", "native": "Oriño ka-n-an manbo emalé"}, {"english": "The Road of the Souls", "description": "Represents the path the souls of the dead must follow."}, {"english": "The Road of the Tapir"}]
+  }
+}
