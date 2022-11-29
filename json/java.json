@@ -21,14 +21,14 @@
       "id": "CON javanese 002",
       "names": [{"english": "Beautiful Woman", "native": "Lintang Wulanjar Ngirim"}],
       "lines": [["* bet Cen", "* alf Cen A"]],
-      "version_of": ["CON bugis 004"],
+      "variant_of": ["CON bugis 004"],
       "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The line is presumed based on the related Bugis constellation."
     },
     {
       "id": "CON javanese 003",
       "names": [{"english": "Slanted House", "native": "Lintang Gubug Péncéng"}],
       "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
-      "version_of": ["CON bugis 001"],
+      "variant_of": ["CON bugis 001"],
       "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The polygon shape is presumed based on its identification with the Southern Cross in the same source.",
       "description": "It marks the direction of the south."
     }

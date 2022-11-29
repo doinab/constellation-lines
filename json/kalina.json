@@ -62,14 +62,14 @@
       "id": "CON kalina 013",
       "names": [{"english": "Canoe", "native": "Kuriala"}],
       "lines": [["* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
-      "certainty": "This is not drawn in the source, but is identified as the charriot of Ursa Maior. It is not clear whether the rectangle should be open (as is here) or closed."
+      "certainty": "This is not drawn in the source, but is identified as the chariot of Ursa Major. It is not clear whether the rectangle should be open (as is here) or closed."
     }
   ],
   "common_names": {
     "* alf CMa": [{"english": "Star of Malirubana", "native": "Malirubana", "description": "It causes the hurricanes."}, {"english": "Star of the Spaniards"}],
     "* alf Vir": [{"english": "Star of the Torch of the Sucker Catfish", "native": "Pakamu turi-rï", "description": "It lights the catfish's head (now unknown)."}],
     "NAME Venus": [{"english": "Star of Alukuma", "native": "Alukuma"}, {"english": "Star of the Wife of the Moon", "native": "Nunopuite"}],
-    "NAME Pleiades": [{"english": "Stars of the year", "native": "Siritjo"}, {"english": "Seven hunters, sisters, or children"}],
-    "NAME Milky Way": [{"english": "The Road of the Women who went to fetch Clay", "native": "Oriño ka-n-an manbo emalé"}, {"english": "The Road of the Souls", "description": "Represents the path the souls of the dead must follow."}, {"english": "The Road of the Tapir"}]
+    "NAME Pleiades": [{"english": "Stars of the Year", "native": "Siritjo"}, {"english": "Seven Hunters, Sisters, or Children"}],
+    "NAME Milky Way": [{"english": "The Road of the Women Who Went to Fetch Clay", "native": "Oriño ka-n-an manbo emalé"}, {"english": "The Road of the Souls", "description": "Represents the path the souls of the dead must follow."}, {"english": "The Road of the Tapir"}]
   }
 }
