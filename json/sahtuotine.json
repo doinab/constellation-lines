@@ -1,0 +1,32 @@
+{
+  "id": "sahtuotine",
+  "name": "Sahtúot’įnę",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "2010-2021",
+  "place": "Délı̨nę, Northwest Territories, Canada",
+  "source": ["cannon2021northerndene"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Sahtúot’įnę sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. An additional constellation is unidentified: a malevolent lion/tiger.",
+  "constellations": [
+    {
+      "id": "CON sahtuotine 001",
+      "names": [{"english": "The One Who Went Around the World", "native": "Yámǫréya"}],
+      "lines": [["* iot UMa", "* kap UMa", "*  10 UMa", "HD  77912", "*  38 Lyn", "* alf Lyn", "* mu. Leo"], ["* eps Leo", "* alf Lyn"], ["* mu. Leo", "* eps Leo"], ["* psi UMa", "* chi UMa", "*   5 CVn", "* zet01 UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["*  37 LMi", "* zet Leo", "* gam01 Leo", "* eta Leo", "* alf Leo", "* omi Leo"], ["* nu. UMa", "* ksi UMa", "*  72 Leo", "* del Leo", "* tet Leo", "* bet Leo"], ["* psi UMa", "* nu. UMa", "*  37 LMi", "*  21 LMi", "HD  82741", "* kap UMa"], ["* tet UMa", "* phi UMa", "* ups UMa", "* h UMa", "* tau UMa", "* pi.02 UMa", "* omi UMa", "* f UMa", "* tet UMa"], ["* f UMa", "* iot UMa"], ["* psi UMa", "*  36 UMa", "* phi UMa"], ["* lam UMa", "* lam UMa"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. His right shoulder star is not identified, although it is drawn; it is identified here as 36 UMa based on the drawing. ",
+      "description": "Yámǫréya is said to have invented Sahtúot’įnę technology, transformed flora and fauna, and shaped the landscape. His spirit incarnated in the stars as a protector, teacher, gamekeeper, and source of knowledge and power. He is composed of at least 11 groups of stars named as body parts. His heart (lam UMa) is not connected. The Big Dipper is his container or cooking vessel identified as Yı́hda or lıbóchə́. Aside from the Big Dipper, the stars are relatively inconspicuous, suggesting a specialized domain of knowledge. In comparison to the Gwich'in and Ahtna whole-sky constellations, Yámǫréya is less than half their size, spanning just over 64 degrees. "
+    }
+  ],
+  "common_names": {
+    "* alf Tau": [{"english": "Feather", "native": "K'ı̨ ́t'a", "description": "In four related stories, a family of bears attempts to kill Yámǫréya by sending him on a dangerous quest to obtain materials for making arrows. He perseveres through each obstacle, procuring feathers from a giant eagle, sinew from a giant caribou, flint/obsidian from a giant frog, and spruce pitch from the transformed snot of wolverines. The completed arrow and each of its raw components corresponds to a bright star."}],
+    "* bet Ori": [{"english": "Sinew", "native": "Kw'ə́"}],
+    "* alf CMa": [{"english": "Arrowhead", "native": "K'ı̨ dáre"}],
+    "* alf Ori": [{"english": "Spruce Pitch", "native": "Ts'ı dzéh"}],
+    "* alf Aur": [{"english": "Arrow", "native": "k'ı̨ ́"}],
+    "* bet Ori": [{"english": "Sinew", "native": "Kw'ə́"}],
+    "* alf Aql": [{"english": "That Which Rises After the Sun", "native": "Sak'énaáɂa", "description": "Seen as any spirit rising towards Yámǫréya."}, {"english": "It Goes Down After the Sun", "native": "Sak'éeda", "description": "Name used during its evening appearance in autumn when the animals are fat."}],
+    "* alf Boo": [{"english": "It Makes Light/Whiteness After It", "native": "Bek'éahka", "description": "Used as a clock in conjunction with the handle of the Big Dipper."}],
+    "NAME Milky Way": [{"english": "Yámǫréya's trail", "native": "Télu/tǫlu"}]
+  }
+}
