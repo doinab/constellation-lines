@@ -3,12 +3,12 @@
   "name": "Koyukon",
   "region": "Americas",
   "subregion": "Northern America",
-  "period": "1976-1977",
-  "place": "Huslia and Hughes villages, Alaska",
-  "source": ["nelson1983make", "miller1997stars"],
+  "period": "1976-1977 and 2010-2021",
+  "place": "Huslia, Hughes, and Allakaket, Alaska",
+  "source": ["nelson1983make", "miller1997stars", "cannon2021northerndene"],
   "licence": "CC BY-SA",
   "phylogeny": "North America",
-  "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. Only one constellation is documented and drawn, identical to the Big Dipper (with a closed bowl), but with a different meaning. They also marked the movement of alf Aql (Altair), Cassiopeia, the Pleiades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). The source [miller1997stars] attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977.",
+  "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. There are two sets of sources. (1) In [nelson1983make,miller1997stars], only one constellation is documented and drawn, the Big Dipper (with a closed bowl), but with a different meaning. The Koyukon also marked the movement of alf Aql (Altair), Cassiopeia, the Pleiades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). The source [miller1997stars] attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977. (2) In recent fieldwork [cannon2021northerndene] with Northern Dene peoples (2010-2021), a characteristic principal constellation was documented in Allakaket, Alaska: the incarnated spirit of a Traveler figure who circled the world in Distant Time. Also here were documented names for the Milky Way, alf Aql (Altair), and gam Aql (Tarazed), as morning stars.",
   "constellations": [
     {
       "id": "CON koyukon 001",
@@ -16,6 +16,18 @@
       "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
       "certainty": "Certain.",
       "description": "The Koyukon call the Big Dipper a man. According to legend, he argues fiercely with Raven and leaves for the sky, where he becomes Nosikghaltaala, a 'measurer of time'. The tip of the handle is his head, the rest of the handle is his back, and the two pointer stars of the bowl are his buttocks. It serves as the tribe's primary clock."
+    },
+    {
+      "id": "CON koyukon 002",
+      "names": [{"english": "Those Multiple Objects Which Are Moving Along", "native": "Ghededzuyhdle"}, {"english": "That Which Is Revolving", "native": "Naagheltaale"}],
+      "lines": [["* alf UMi", "HD  81817", "* pi.02 UMa", "* omi UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* pi.02 UMa", "* h UMa", "* alf UMa"], ["* omi UMa", "* iot UMa", "* kap UMa", "* alf Lyn", "* mu. UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* bet CVn", "* alf02 CVn"], ["* iot UMa", "*  31 Lyn"], ["* alf Lyn", "* eps Leo", "* gam01 Leo"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. pi2 UMa is not named in the text, but is in the drawing (so is included here). The head (31 Lyn) is linked here to the body, since a star is identified as the neck.",
+      "description": "A large man-animal constellation composed of 15 groups of stars named as body parts. Like in the Sahtúot’įnę culture, most of the stars are extremely dim. The figure is much smaller than whole-sky: approximately 66 degrees at its greatest width between its left and right hands. It is centered on the Big Dipper as either the man's right leg (native: nełneyhts'ene' betl'ene') or his tail (native: bekaa). The dim star (31 Lyn) that composes the head is located near the heart of the Gwich'in, Ahtna, Upper Tanana, and Lower Tanana whole-sky constellations."
     }
-  ]
+  ],
+  "common_names": {
+    "* alf Aql": [{"english": "It Leads Light Into Day", "native": "Yokkolaaye"}, {"native": "Kk'odehun' huk'etlun"}],
+    "* gam Aql": [{"english": "It Leads Light Into Day", "native": "Yokkolaaye"}, {"native": "Kk'odehun' huk'etlun"}],
+    "NAME Milky Way": [{"english": "Sky Neck", "native": "Yokk'uł"}]
+  }
 }
