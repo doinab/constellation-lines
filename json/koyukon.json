@@ -7,8 +7,8 @@
   "place": "Huslia and Hughes villages, Alaska",
   "source": ["nelson1983make", "miller1997stars"],
   "licence": "CC BY-SA",
-  "phylogeny": "North American",
-  "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. Only one constellation is documented and drawn, identical to the Big Dipper (with a closed bowl), but with a different meaning. They also marked the movement of alf Aql (Altair), Cassiopeia, the Pleiades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). This source attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977.",
+  "phylogeny": "North America",
+  "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. Only one constellation is documented and drawn, identical to the Big Dipper (with a closed bowl), but with a different meaning. They also marked the movement of alf Aql (Altair), Cassiopeia, the Pleiades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). The source [miller1997stars] attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977.",
   "constellations": [
     {
       "id": "CON koyukon 001",

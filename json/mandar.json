@@ -7,8 +7,8 @@
   "place": "Western Sulawesi",
   "source": ["orchiston2021mandar"],
   "licence": "CC BY-SA",
-  "phylogeny": "Austronesian",
-  "description": "The Mandar are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. The sailors used stars and asterisms to pinpoint the cardinal directions. This sky culture has 6 constellation line figures, and names for 3 other identified sky objects (the Pleiades, the Milky Way, and Venus). The source also gives the name of an unidentified sky object: Star of Fishermen or Bittoéng Pambosei, which is a marker towards the north and usually appears in February, during the northwest monsoon season. These constellations reflect the seafaring tradition. The Bugis sky culture is related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar.",
+  "phylogeny": "Austronesia",
+  "description": "The Mandar are an ethnic group on the island of Sulawesi in Indonesia, with a strong seafaring and trading tradition. The sailors used stars and asterisms to pinpoint the cardinal directions. This sky culture has 6 constellation line figures, explicitly drawn with stars identified, so can be considered certain unless specified otherwise. The source also provides names for 3 other identified sky objects (the Pleiades, the Milky Way, and Venus), and the name of an unidentified sky object: Star of Fishermen or Bittoéng Pambosei, which is a marker towards the north and usually appears in February, during the northwest monsoon season. These constellations reflect the seafaring tradition. The Bugis sky culture is related (they are neighbouring ethnic groups on the island of Sulawesi) so it is similar.",
   "constellations": [
     {
       "id": "CON mandar 001",

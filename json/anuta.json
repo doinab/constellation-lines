@@ -1,20 +1,20 @@
 {
-  "id": "anutan",
-  "name": "Anutan",
+  "id": "anuta",
+  "name": "Anuta",
   "region": "Oceania",
   "subregion": "Melanesia",
   "period": "1972–1973 and 1983–1984",
   "place": "Anuta, Solomon Islands",
   "source": ["feinberg1988polynesian"],
   "licence": "CC BY-SA",
-  "phylogeny": "Polynesian",
+  "phylogeny": "Polynesia",
   "description": "Anuta is a small island in the SE of Solomon Islands in Melanesia, inhabited by a culturally Polynesian society. As for most Oceanic seafarers, the stars are the most important tool for long-range navigation. The major guiding stars and constellations are known as carriers (native: kaavenga), and have proper names. A star path or sequence of stars (native: kau panonga porau) is followed from one island to the next. This sky culture has 11 constellation line figures. Two other groups of stars are mentioned in the source, but are not identifiable. Culturally significant themes reflected in Anutan constellations include birds, food, fish, and equipment used to procure or prepare these items. Many of these constellations are identified by similar names on other islands. The source draws each constellation with both stars and lines, and marks the Western constellation where this is placed. However, it only identifies the major stars by name, so marking the minor ones was guesswork based on the author's drawing.",
   "constellations": [
     {
       "id": "CON anutan 001",
       "names": [{"english": "The Bamboo", "native": "Te Kope"}],
       "lines": [["* eps Gru", "* bet Gru", "* del01 Gru", "* lam Gru", "* gam Gru"]],
-      "certainty": "Identified as part of Grus (a subset of five stars are drawn), but no star is named.",
+      "certainty": "Identified as part of Grus, but (based on the shape) doesn't use the brightest star alf Gru. No star is named. A subset of five stars are drawn in the source, taken here to be the brightest five besides alf Gru.",
       "description": "Bamboo is used to make fishing poles, sailing masts, yards, booms, and outrigger supports."
     },
     {
@@ -34,7 +34,7 @@
       "id": "CON anutan 004",
       "names": [{"english": "The Tongs", "native": "Te Angaanga"}],
       "lines": [["* alf Tau", "* tet01 Tau", "*  71 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau"]],
-      "certainty": "The source identifies this as Taurus' forehead, and identifies only the brightest star, alf Tau (Aldebaran).",
+      "certainty": "The source draws a V shape and identifies this as Taurus' forehead, but names only the brightest star, alf Tau (Aldebaran). The minor stars are chosen here to follow the V shape.",
       "description": "Used for moving hot stones, coals, and food in an oven."
     },
     {
@@ -60,7 +60,7 @@
       "id": "CON anutan 008",
       "names": [{"english": "The Carrying Stick", "native": "Te Aamonga"}],
       "lines": [["* gam Aql", "* alf Aql", "* bet Aql"]],
-      "certainty": "The source identifies the middle star with alf Aql (Altair) but isn't completely sure. The other two stars are smaller and not indentified.",
+      "certainty": "The source identifies the middle star with alf Aql (Altair) but isn't completely sure. The other two stars are smaller and not identified.",
       "description": "Used to carry taro, coconuts, or other food."
     },
     {
@@ -73,7 +73,7 @@
       "id": "CON anutan 010",
       "names": [{"english": "Taro Plant", "native": "Taro"}],
       "lines": [["* tau Sco", "* alf Sco", "* sig Sco", "* del Sco", "* bet01 Sco", "* rho Oph", "* del Sco"], ["* sig Sco", "* pi. Sco", "* rho Sco", "* d Sco", "* pi. Sco"]],
-      "certainty": "A complex 3-star stem whose middle is marked alf Sco (Antares), and two 3-star leaves. No other star is precisely identified. The bottom star of both leaves is questionable."
+      "certainty": "A 3-star stem whose middle is marked alf Sco (Antares), and two 3-star leaves. No other star is precisely identified. The bottom star of both leaves is questionable."
     },
     {
       "id": "CON anutan 011",
