@@ -8,7 +8,7 @@
   "source": ["cannon2021northerndene"],
   "licence": "CC BY-SA",
   "phylogeny": "North America",
-  "description": "The Gwich'in sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time.",
+  "description": "The Gwich'in sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. A third constellation is known but was not shared with the researcher: a malevolent tiger-like being, 'the antithesis of everything that Yahdii was and continues to be' [cannon2021northerndene].",
   "constellations": [
     {
       "id": "CON gwichin 001",

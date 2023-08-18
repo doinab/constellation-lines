@@ -1,0 +1,24 @@
+{
+  "id": "lower tanana",
+  "name": "Lower Tanana",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "2010-2021",
+  "place": "Minto, Alaska",
+  "source": ["cannon2021northerndene"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Lower Tanana sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. An additional unidentified constellation represents a malevolent being.",
+  "constellations": [
+    {
+      "id": "CON lower tanana 001",
+      "names": [{"english": "The One Who Continuously Walks", "native": "Nogheyoli"}, {"english": "The One Who Started Paddling Among Things", "native": "Ch'etitadhkanenh"}, {"english": "Big Sky", "native": "Yochwx"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* bet UMa", "* psi UMa", "* nu. UMa", "* ksi UMa", "* bet Leo", "* del Leo"], ["* bet Leo", "* tet Leo"], ["* bet Leo", "* iot Leo"], ["* alf UMa", "* lam Dra", "* kap Dra", "* bet UMi", "* gam UMi", "* zet Dra", "* bet Dra", "* gam Dra"], ["*  31 Lyn", "* iot UMa", "* kap UMa", "* tet UMa", "* bet UMa"], ["* alf UMa", "* h UMa", "* omi UMa", "* del Aur", "* bet Cam", "V* BE Cam", "* eps Cas", "* gam Cas", "* bet Cas"], ["* gam Cas", "* alf Cas"], ["* gam Cas", "* eta Cas"], ["* gam Cas", "* zet Cas"], ["* gam Cas", "* tet Cas"], ["* bet Gem", "* gam Cnc", "* del Cnc", "* eps Hya", "* del Hya"], ["* eps Hya", "* eta Hya"], ["* eps Hya", "* rho Hya"], ["* eps Hya", "* zet Hya"], ["* eps Hya", "* sig Hya"], ["* alf Hya", "* eps Hya", "* bet Cnc", "* lam Gem"], ["* alf Gem", "* bet Gem", "* iot Cnc", "* alf Lyn", "*  38 Lyn", "*  10 UMa", "*  31 Lyn", "* alf Gem", "* del Aur", "* eta Tau", "* zet Tau", "* eta Gem", "* mu. Gem", "* nu. Gem"], ["* mu. Gem", "* alf Gem"], ["*  21 Lyn", "*  21 Lyn"], ["* psi02 Aur", "* psi02 Aur"], ["* psi04 Aur", "* psi04 Aur"], ["* psi05 Aur", "* psi05 Aur"], ["* psi07 Aur", "* psi07 Aur"], ["* psi10 Aur", "* psi10 Aur"], ["* iot Aur", "* iot Aur"], ["* bet Tau", "* bet Tau"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. ",
+      "description": "A whole-sky constellation associated with the Traveler, spans approximately 117 degrees and is composed of at least 25 groups of stars, of which 22 are named body parts. A man-animal figure,  Nogheyoli's heart (native: bedraya') (21 Lyn) is the embodiment of the things that the Traveler worked with while transforming the world. He wears a backpack (native: beghala’) and holds a spear/walking stick/medicine staff (native: bedechena') in his left hand. The constellation is remarkable for its details: five dim stars outline his hair (native: begho'); his right hand is divided into smaller groups of stars for his palm (native: belok'a), fingers (native: belots'ula'), and thumb (native: belochetth); his left foot is composed to two smaller groups that distinguish his toes (native: bekalats'ula') and heel (native: bekatwtl). Nogheyoli is in a defensive posture overhead. His right arm and hand are extended to stave off a malevolent being (an unidentified constellation, as in the Gwich'in sky culture). The toes and heel of his left foot are splayed out like talons, while his right leg and foot appear human. His left hand grips his spear, with distinct thumb, fingers, and wrist. His ears are standing upright like that of an alert animal. Big Dipper is his tail (native: becha'). His heart (21 Lyn) is unconnected. The same for the 5 stars of his hair (psi Aur) and his eyes (iot Aur, bet Tau)."
+    }
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"english": "Nogheyoli's Trail", "native": "Betena"}]
+  }
+}
