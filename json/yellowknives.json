@@ -8,7 +8,7 @@
   "source": ["cannon2021northerndene"],
   "licence": "CC BY-SA",
   "phylogeny": "North America",
-  "description": "The Yellowknives Dene sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. A third constellation is identified, but only as a group of stars without lines, so is not included here: the six brightest stars in Cassiopeia (bet, alf, eta, gam, del, eps) are referred to as Yı̀da’s wife (native: Yı̀da wets’ekeè), an important part of Northern Dene Traveler stories.",
+  "description": "The Yellowknives Dene sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time.",
   "constellations": [
     {
       "id": "CON yellowknives 001",
@@ -24,6 +24,13 @@
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The list of stars for 'his body' doesn't match the drawing; the list is used here. Removed the link bet UMa to gam UMa, which is drawn but unwarranted by the description.",
       "description": "An elder from Ndilǫ identified a variation of the constellation: a big headless man. The handle of the Big Dipper is Yìda's right arm, and the Big Dipper cup forms his upper torso.",
       "variant_of": ["CON yellowknives 001"]
+    },
+    {
+      "id": "CON yellowknives 003",
+      "names": [{"english": "Yı̀da’s wife", "native": "Yı̀da wets’ekeè"}],
+      "lines": [["* eps Cas", "* eps Cas"], ["* del Cas", "* del Cas"], ["* gam Cas", "* gam Cas"], ["* alf Cas", "* alf Cas"], ["* bet Cas", "* bet Cas"], ["* eta Cas", "* eta Cas"]],
+      "certainty": "The stars are identified, but no lines. It is not clear whether it should be lined (it isn't here).",
+      "description": "Yı̀da’s wife is an important character in Northern Dene Traveler stories."
     }
   ],
   "common_names": {
