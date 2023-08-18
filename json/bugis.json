@@ -46,7 +46,7 @@
       "id": "CON bugis 007",
       "names": [{"english": "Sign of Three", "native": "Tanra Tellué"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
-      "variant_of": ["CON Mandar 005"]
+      "variant_of": ["CON mandar 005"]
     },
     {
       "id": "CON bugis 008",

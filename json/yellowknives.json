@@ -1,0 +1,37 @@
+{
+  "id": "yellowknives",
+  "name": "Yellowknives",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "2010-2021",
+  "place": "Dettah and Ndilǫ, Northwest Territories, Canada",
+  "source": ["cannon2021northerndene"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Yellowknives Dene sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. A third constellation is identified, but only as a group of stars without lines, so is not included here: the six brightest stars in Cassiopeia (bet, alf, eta, gam, del, eps) are referred to as Yı̀da’s wife (native: Yı̀da wets’ekeè), an important part of Northern Dene Traveler stories.",
+  "constellations": [
+    {
+      "id": "CON yellowknives 001",
+      "names": [{"english": "Yèhdaa (no gloss)", "native": "Yèhdaa"}],
+      "lines": [["* ups UMa", "* ups UMa"], ["* g UMa", "* g UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* tau UMa", "* omi UMa"], ["* bet UMa", "* tet UMa", "* iot UMa", "* kap UMa"], ["* eta UMa", "* bet Boo", "* alf CrB"], ["* eta UMa", "* gam Boo", "* eps Boo"], ["* tet Boo", "* tet Boo"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The text lists eta UMa in the right arm, incorrectly; corrected acc. drawing to h UMa.",
+      "description": "Humanoid constellation composed of 11 groups of named stars that span 76 degrees across the sky. It is said that an ordinary person shot him with an arrow, and the impact broke his back, which is why he has his hands thrown above his head with fingers splayed out. He kicked his legs and feet into the air, which pushed the sky up to where it is now. His head (ups UMa), the place where he was hit with the arrow (or the arrow itself) (g UMa), and the quiver for arrows (tet Boo) are unconnected."
+    },
+    {
+      "id": "CON yellowknives 002",
+      "names": [{"english": "Yìda (no gloss)", "native": "Yìda"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa"], ["* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* omi UMa"], ["* bet UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* nu. UMa", "* ksi UMa", "*  72 Leo", "* del Leo", "* tet Leo", "* iot Leo"], ["* psi UMa", "*  46 LMi", "* zet Leo", "* gam01 Leo", "* eta Leo", "* alf Leo"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The list of stars for 'his body' doesn't match the drawing; the list is used here. Removed the link bet UMa to gam UMa, which is drawn but unwarranted by the description.",
+      "description": "An elder from Ndilǫ identified a variation of the constellation: a big headless man. The handle of the Big Dipper is Yìda's right arm, and the Big Dipper cup forms his upper torso.",
+      "variant_of": ["CON yellowknives 001"]
+    }
+  ],
+  "common_names": {
+    "* alf Boo": [{"english": "Heavy Object Came Out", "native": "Bek’a yéhká xáı̨ ɂą", "description": "Used as morning star, as a spiritual entity that morning prayers are directed towards, and as an important referent to determine the departure time for traveling and hunting at dawn."}, {"english": "They Go Inside", "native": "Wezhìı nàgede"}],
+    "* g UMa": [{"english": "Place Where He Was Hit With Arrow", "native": "Bek'arełka"}],
+    "* alf UMi": [{"english": "The One That Stands Still", "native": "į̀łǫ wheɂǫ"}],
+    "* alf Aur": [{"english": "Little Yìda", "native": "Yìda tsòa"}],
+    "* bet Ori": [{"english": "It Blinks Its Eyes", "native": "Wendaà at’ı̨̨"}],
+    "NAME Milky Way": [{"english": "Star Trail Altogether", "native": "Whǫ̀ tılı ıłı̨la"}]
+  }
+}
