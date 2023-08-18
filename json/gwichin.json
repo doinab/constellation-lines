@@ -1,0 +1,32 @@
+{
+  "id": "gwichin",
+  "name": "Gwich'in",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "2010-2021",
+  "place": "Fort Yukon, Alaska",
+  "source": ["cannon2021northerndene"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Gwich'in sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time.",
+  "constellations": [
+    {
+      "id": "CON gwichin 001",
+      "names": [{"english": "The Tailed Man", "native": "Yahdii"}],
+      "lines": [["* alf Cyg", "* gam Cyg", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"], ["* del UMa", "* gam UMa", "* lam UMa", "* mu. UMa", "* alf Boo", "* eta Boo"], ["* alf Aur", "* bet Aur", "* alf Gem", "* bet Gem"], ["* bet Aur", "* eta Tau", "* alf Gem"], ["* bet Tau", "* bet Tau"], ["* iot Aur", "* iot Aur"], ["* del UMa", "* alf UMa", "* h UMa", "* omi UMa", "*  15 Lyn", "* bet Aur"], ["* del UMa", "* bet UMa", "*  36 UMa", "* tet UMa", "* iot UMa", "* kap UMa", "*  31 Lyn", "* alf Gem"], ["*  27 Lyn", "*  27 Lyn"], ["* bet Tri", "* gam01 And", "* bet Aur"], ["* alf Gem", "* alf Leo", "* omi Leo"], ["* gam UMa", "* chi UMa", "* psi UMa", "* mu. UMa", "* lam UMa"], ["* alf Leo", "* gam01 Leo", "* zet Leo", "* mu. Leo", "* eps Leo"], ["* omi Leo", "* alf Hya"]],
+      "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The stars are well-corroborated by several people. Legs and arms and a part of the cane are not identified, so are not represented by stars here (they are only crossed by lines). Star eta Leo from the cane is skipped here (it creates an angle that does not match the pictograph). It is not clear whether the abdomen should be delineated from the head with a neckline (bet Aur, alf Gem); that line is included here.",
+      "description": "Yahdii spans more than 143 degrees across the sky and is a meta-, whole-sky constellation; the individual body parts are explicitly separated in a table as at least 16 asterisms. Best observable between late January and March in Alaska's early evening sky. Yahdii wears a single-strapped bag (native: va’ǫhtsùu) on his left side and holds a walking stick/spear/medicine staff (vatòo) in his left hand. The Milky Way (native: vatąįį) is his snow-packed trail that circles the world. He is crouched on all fours facing down over earth in a protective position. The low- altitude asterisms near the horizon (head, hands, feet, stick) are considered to be located closest to earth, while the stars near in the center of the sky (body, heart, tail) are the farthest away. The apparent rotation of stars through the sky is referred to as 'Yahdii is walking' (native: Yahdii ahaa) or 'Yahdii moves/travels over the span' (native: Yahdii geelee nideekhaa). Although described as part human and part animal, the specific type of animal is personal knowledge aligned with the individual's primary animal helper, acquired through dreams or the vision quest. The dim 'red star' depicting Yahdii’s heart (27 Lyn) is his soul or spirit. Seeing this faint star is equivalent to knowing his soul, or having spiritual awareness. The eyes (bet Tau, iot Aur) and heart are unconnected. "
+    },
+    {
+      "id": "CON gwichin 002",
+      "names": [{"english": "They Rose Far Up", "native": "Yeedàak Gahàajil"}],
+      "lines": [["* del Boo", "* eps Boo", "* alf Boo"]],
+      "certainty": "Certain.",
+      "description": "A linear constellation of three morning stars which appear in sequence on the northeast horizon from mid-October to early December. They are used to determine the timing of subsistence activities at dawn. They are also regarded as light and untethered spirits ascending to heaven. One person explained that Yahdii walks each night until he sees Yeedàak Gahàajil, so there is conceptual unity between these two constellations."
+    }
+  ],
+  "common_names": {
+    "* alf UMi": [{"english": "Star in the Middle of the Sky", "native": "Zheetł’an dha’ąįį"}],
+    "NAME Milky Way": [{"english": "Yahdii's Trail", "native": "Vatąįį"}, {"english": "Trail of Stars", "native": "Są’ gwat’an tąįį", "description": "A path that souls follow to the afterlife."}]
+  }
+}
