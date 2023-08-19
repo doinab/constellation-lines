@@ -1,0 +1,66 @@
+{
+  "id": "madura",
+  "name": "Madura",
+  "region": "Asia",
+  "subregion": "South-eastern Asia",
+  "period": "2015-1016",
+  "place": "Madura Island, off the northeastern coast of Java, Indonesia",
+  "source": ["fatima2021madura"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austronesia",
+  "description": "The Madurese have a maritime tradition. Like the Bugis and the Mandar, this probably originated with the Austronesians, who brought an advanced maritime technology with them when migrating to Java and Madura. There are still many fishing villages along the coast of Madura; some of the fishermen still use the stars and asterisms for navigation (alongside modern technology), while in other villages the fishermen still have the knowledge but do not use it any more. Some of the younger fishermen lost this traditional knowledge. The prefix bintang (star) is added to almost all stellar objects. They used the term Bintang tera' (Bright stars) when navigating to the north, with Bintang tera' bhiruh (Blue bright star) recognized as Vega. They also used the asterism Bintang Sekoh (Elbow stars), i.e., the Western Summer triangle (Vega–Altair–Deneb). When navigating to the south, they used Tara laok (alf and bet Cen). Their most popular asterism was Bintang Pe'-Kope'an, a kind of Madurese fish (the constellation Crux). For Madurese farmers, the most popular asterism was Bintang Nangghala (Plough), the central part of Orion. The Madurese culture leans heavily on the Javanese culture, especially wrt farming. Both cultures use the Pleiades and Orion as signs of farming time, and the names of stars and asterisms are quite similar, such as the Plough.",
+  "constellations": [
+    {
+      "id": "CON madura 001",
+      "names": [{"english": "Two Stars in the South", "native": "Bintang Tara Laok"}, {"english": "Two Stars", "native": "Bintang Jejer Duwe'"}],
+      "lines": [["* bet Cen", "* alf Cen A"]],
+      "description": "Point to the south direction.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON madura 002",
+      "names": [{"english": "The Dolphin Stars", "native": "Bintang Ba-lomba"}],
+      "lines": [["* alf Car", "* alf Aur"]],
+      "description": "Point to the east or west direction.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON madura 003",
+      "names": [{"english": "Madurese Fish", "native": "Bintang Pe'-kope'an"}, {"english": "Traditional Rice Cooker", "native": "Bintang Bhuk-soblughan"}, {"english": "Kite", "native": "Bintang Ghendet/ Jeng-lajengan"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
+      "description": "Points to the south direction. Also used as a clock.",
+      "semantics": ["fish", "man-made object"]
+    },
+    {
+      "id": "CON madura 004",
+      "names": [{"english": "Plough", "native": "Bintang Nangghala"}],
+      "lines": [["* gam Ori", "* del Ori", "* eps Ori", "* zet Ori", "* kap Ori"], ["* eps Ori", "* bet Ori"]],
+      "description": "Probably a regional constellation, given the parallel with the Javanese Plough.",
+      "variant_of": ["CON java 001"],
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON madura 005",
+      "names": [{"english": "Circular", "native": "Bintang Lengker"}],
+      "lines": [["* eps CrA", "* gam CrA", "* alf CrA", "* bet CrA", "* del CrA", "* zet CrA"]],
+      "certainty": "Tenuous identification. Not described in any detail. Based on the name, it only uses the part of CrA which is circular.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON madura 006",
+      "names": [{"english": "Right-Angle Triangle", "native": "Bintang Sekoh"}],
+      "lines": [["* alf Lyr", "* alf Aql", "* alf Cyg", "* alf Lyr"]],
+      "description": "Points to the north direction.",
+      "semantics": ["geometric"]
+    }
+  ],
+  "common_names": {
+    "* alf Lyr": [{"english": "Blue Bright Star", "native": "Bintang Tera' Bhiruh", "description": "Used as a north pointer."}],
+    "* alf Boo": [{"english": "Yellow Bright Star", "native": "Bintang Tera' Koning", "description": "Used as a east or west pointer."}],
+    "* alf CMa": [{"english": "Bright Star", "native": "Bintang Tera'", "description": "Used as a east or west pointer."}],
+    "NAME Milky Way": [{"english": "River", "native": "Bintang Ngai-songaian", "description": "Used as a clock."}],
+    "NAME Large Magellanic Cloud": [{"english": "Sack", "native": "Bintang Kaddhu'", "description": "Used as a south pointer."}],
+    "NAME Venus": [{"english": "Star of Subuh (time before sunrise)", "native": "Bintang Terang Sobbhu", "description": "Used as a morning star."}],
+    "NAME Pleiades": [{"english": "Seven Stars", "native": "Bintang Kartikah", "description": "Used as a seasonal/time sign, and for games."}, {"native": "Bintang Portekah"}, {"native": "Bintang Mortekah"}]
+  }
+}
