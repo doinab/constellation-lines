@@ -161,8 +161,7 @@
       "names": [{"english": "Cerberus", "native": "Cerbère"}],
       "lines": [["* mu. Her", "* ksi Her", "* tet Her", "* mu. Her"], ["* ksi Her", "* omi Her", "* tet Her", "* iot Her"]],
       "certainty": "Cerberus is marked on the chart, linked to Hercules: it is an obsolete constellation created by Hevelius in the 17th century, now included in Hercules. They are separated here, since the demarcation line is fairly clear based on the pictorial representation of Hercules from those times.",
-      "semantics": ["mammal"],
-      "iau": "Cer"
+      "semantics": ["mammal"]
     },
     {
       "id": "CON dien Cer_eq",
@@ -514,8 +513,7 @@
       "lines": [["*  35 Ari", "*  39 Ari", "*  41 Ari", "*  35 Ari"]],
       "certainty": "Obsolete constellation; it contained a small group of stars, now called 33, 35, 39, and 41 Ari. Dien draws only 3, so picked the brightest 3 here.",
       "description": "Obsolete constellation, originally called Apes (Bees) by Petrus Plancius when created in 1612.",
-      "semantics": ["arthropod"],
-      "iau": "MuB"
+      "semantics": ["arthropod"]
     },
     {
       "id": "CON dien Mus",

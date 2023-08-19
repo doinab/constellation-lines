@@ -14,36 +14,42 @@
       "id": "CON ruelle UMi",
       "names": [{"english": "Ursa Minor", "native": "La Petite Ourse"}],
       "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi", "* zet UMi"]],
+      "semantics": ["mammal"],
       "iau": "UMi"
     },
     {
       "id": "CON ruelle Dra",
       "names": [{"english": "Draco", "native": "Le Dragon"}],
       "lines": [["* lam Dra", "* kap Dra", "* alf Dra", "* iot Dra", "* tet Dra", "* eta Dra", "* zet Dra", "* ome Dra", "* phi Dra", "* del Dra", "* pi. Dra", "* omi Dra", "* ksi Dra", "* bet Dra", "* gam Dra", "* ksi Dra"], ["*  15 Dra", "* eta Dra"], ["*  15 Dra", "* zet Dra"]],
+      "semantics": ["reptile"],
       "iau": "Dra"
     },
     {
       "id": "CON ruelle Cam",
       "names": [{"english": "Camelopardalis", "native": "La Giraffe"}],
       "lines": [["* bet Cam", "* alf Cam", "*  42 Cam", "* bet Cam"], ["*  42 Cam", "*  43 Cam"]],
+      "semantics": ["mammal"],
       "iau": "Cam"
     },
     {
       "id": "CON ruelle Cas",
       "names": [{"english": "Cassiopeia", "native": "Casiopée"}],
       "lines": [["* bet Cas", "* alf Cas", "* gam Cas", "* del Cas", "* eps Cas"], ["* kap Cas", "* bet Cas"], ["* kap Cas", "* gam Cas"], ["* zet Cas", "* alf Cas"], ["* tet Cas", "* alf Cas"], ["* tet Cas", "* del Cas"]],
+      "semantics": ["humanoid"],
       "iau": "Cas"
     },
     {
       "id": "CON ruelle Cep",
       "names": [{"english": "Cepheus", "native": "Cephée"}],
       "lines": [["* eta Cep", "* alf Cep", "* bet Cep", "* iot Cep"], ["* bet Cep", "* gam Cep"], ["* iot Cep", "* del Cep", "* alf Cep", "* iot Cep"]],
+      "semantics": ["humanoid"],
       "iau": "Cep"
     },
     {
       "id": "CON ruelle UMa",
       "names": [{"english": "Ursa Major", "native": "La Grande Ourse"}],
       "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"], ["* alf UMa", "* ups UMa", "* h UMa"], ["* bet UMa", "* tet UMa", "* kap UMa", "* iot UMa"], ["* gam UMa", "* chi UMa", "* psi UMa", "* mu. UMa", "* lam UMa", "* tet UMa"], ["* psi UMa", "* bet UMa"]],
+      "semantics": ["mammal"],
       "iau": "UMa"
     },
     {
@@ -51,12 +57,14 @@
       "names": [{"english": "Lynx", "native": "Le Linx"}],
       "lines": [["*  10 LMi", "* alf Lyn", "*  38 Lyn", "*  10 UMa", "*   2 Lyn"]],
       "certainty": "Star identification was difficult for the fainter stars. This looks closer in shape to the source.",
+      "semantics": ["mammal"],
       "iau": "Lyn"
     },
     {
       "id": "CON ruelle Gem",
       "names": [{"english": "Gemini", "native": "Les Gémeaux"}],
       "lines": [["* alf Gem", "* eps Gem", "* mu. Gem", "* nu. Gem", "* gam Gem", "* zet Gem", "* del Gem", "* bet Gem", "* alf Gem"], ["* eps Gem", "* zet Gem"]],
+      "semantics": ["humanoid"],
       "iau": "Gem"
     },
     {
@@ -64,86 +72,107 @@
       "names": [{"english": "Auriga", "native": "Le Cocher"}],
       "lines": [["* alf Aur", "* bet Aur", "* tet Aur", "* iot Aur", "* alf Aur", "* eps Aur", "* eta Aur"], ["* eps Aur", "* zet Aur"], ["* eps Aur", "* iot Aur"], ["* alf Aur", "* del Aur", "* bet Aur"], ["* del Aur", "* ksi Aur"]],
       "certainty": "There is a drawn, then erased, diagonal line down the centre (iot Aur to bet Aur); this is eliminated as most likely not wanted by the author. The front of the figure also looks slightly different due to approximately positioned stars, so is partly uncertain.",
+      "semantics": ["humanoid"],
       "iau": "Aur"
     },
     {
       "id": "CON ruelle CMi",
       "names": [{"english": "Canis Minor", "native": "Petit Chien"}],
       "lines": [["* alf CMi", "* bet CMi"]],
+      "semantics": ["mammal"],
       "iau": "CMi"
     },
     {
       "id": "CON ruelle Cnc",
       "names": [{"english": "Cancer", "native": "L'ecrevisse"}],
       "lines": [["* alf Cnc", "* del Cnc", "* bet Cnc"], ["* del Cnc", "* gam Cnc"], ["* alf Cnc", "*  45 Cnc", "* bet Cnc"], ["* chi Cnc", "* gam Cnc"], ["* chi Cnc", "* bet Cnc"]],
+      "semantics": ["arthropod"],
       "iau": "Cnc"
     },
     {
       "id": "CON ruelle Per",
       "names": [{"english": "Perseus", "native": "Persée"}],
       "lines": [["* gam Per", "* alf Per", "* bet Per", "* tet Per", "* gam Per"], ["* alf Per", "* del Per", "* eps Per", "* bet Per", "* zet Per", "* eps Per"], ["* bet Per", "* rho Per", "* pi. Per"], ["* del Per", "* mu. Per", "* lam Per", "* del Per"]],
+      "semantics": ["humanoid"],
       "iau": "Per"
     },
     {
       "id": "CON ruelle Tri",
       "names": [{"english": "Triangulum", "native": "Le Triangle"}],
       "lines": [["* alf Tri", "* bet Tri", "* gam Tri", "* alf Tri"]],
+      "semantics": ["geometric"],
       "iau": "Tri"
     },
     {
       "id": "CON ruelle Ari",
       "names": [{"english": "Aries", "native": "Le Bélier"}],
       "lines": [["* gam01 Ari", "* bet Ari", "* alf Ari", "* del Ari"]],
+      "semantics": ["mammal"],
       "iau": "Ari"
     },
     {
       "id": "CON ruelle MuB",
       "names": [{"english": "Musca Borealis", "native": "La Mouche"}],
       "lines": [["*  35 Ari", "*  39 Ari", "*  41 Ari", "*  35 Ari"]],
-      "certainty": "The obsolete Musca Borealis is documented as having had four stars (now called 33 Ari, 35 Ari, 39 Ari, and 41 Ari, in the north of the constellation of Aries). Ruelle draws only three stars, so picked the brightest ones."
+      "certainty": "The obsolete Musca Borealis is documented as having had four stars (now called 33 Ari, 35 Ari, 39 Ari, and 41 Ari, in the north of the constellation of Aries). Ruelle draws only three stars, so picked the brightest ones.",
+      "semantics": ["arthropod"]
     },
     {
       "id": "CON ruelle Lac",
       "names": [{"english": "Lacerta", "native": "Le Lézard"}],
       "lines": [["*   5 Lac", "* alf Lac"], ["*   5 Lac", "*   1 Lac"]],
+      "semantics": ["reptile"],
       "iau": "Lac"
     },
     {
       "id": "CON ruelle And",
       "names": [{"english": "Andromeda", "native": "Andromède"}],
       "lines": [["* gam01 And", "* ups And", "* bet And", "* del And", "* alf And", "* omi And", "* gam01 And"], ["* del And", "* eps And", "* zet And"], ["* bet And", "* mu. And", "* nu. And", "* ups And"], ["* lam And", "* kap And", "* iot And", "* lam And"]],
-      "certainty": "Star mu. And doesn't appear to be linked into a line, but is drawn just on the side of the line. This is also linked in here. Stars lam, kap, iot form a triangle, although two are too close to tell (I assume there is a line).",
+      "certainty": "Star mu And doesn't appear to be linked into a line, but is drawn just on the side of the line. This is also linked in here. Stars lam, kap, iot form a triangle, although two are too close to tell (I assume there is a line).",
+      "semantics": ["humanoid"],
       "iau": "And"
     },
     {
       "id": "CON ruelle Peg",
       "names": [{"english": "Pegasus", "native": "Pégase"}],
       "lines": [["* alf And", "* bet Peg", "* alf Peg", "* gam Peg", "* alf And"], ["* eps Peg", "* tet Peg", "*  42 Peg", "* alf Peg"], ["* eta Peg", "* bet Peg", "* mu. Peg", "* lam Peg"], ["* eta Peg", "* lam Peg", "* iot Peg", "* kap Peg"]],
-      "certainty": "This constellation appears different in the Equator picture at the bottom, than in the pole picture top-right. Transcribed the pole picture, which is simpler. It is also not clear what is the demarcation between Pegasus and Andromeda by the chart alone.",
+      "certainty": "It is not clear what is the demarcation between Pegasus and Andromeda by the chart alone.",
+      "semantics": ["mammal"],
       "iau": "Peg"
+    },
+    {
+      "id": "CON ruelle Peg_eq",
+      "names": [{"english": "Pegasus (eq)", "native": "Pégase (eq)"}],
+      "lines": [["* alf And", "* bet Peg", "* alf Peg", "* gam Peg", "* alf And", "*  42 Peg", "* eps Peg", "* eta Peg", "* bet Peg"], ["* eps Peg", "*   1 Peg", "* kap Peg", "* iot Peg", "* lam Peg", "* mu. Peg", "* eta Peg", "* iot Peg"]],
+      "certainty": "It is not clear what is the demarcation between Pegasus and Andromeda by the chart alone.",
+      "semantics": ["mammal"]
     },
     {
       "id": "CON ruelle Lyr",
       "names": [{"english": "Lyra", "native": "La Lyre"}],
       "lines": [["* alf Lyr", "* bet Lyr", "* gam Lyr", "* del02 Lyr", "* alf Lyr"]],
+      "semantics": ["man-made object"],
       "iau": "Lyr"
     },
     {
       "id": "CON ruelle Del",
       "names": [{"english": "Delphinus", "native": "Le Dauphin"}],
       "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]],
+      "semantics": ["fish"],
       "iau": "Del"
     },
     {
       "id": "CON ruelle Equ",
       "names": [{"english": "Equuleus", "native": "Petit Cheval"}],
       "lines": [["* alf Equ", "* bet Equ", "* del Equ", "* gam Equ", "* alf Equ"]],
+      "semantics": ["mammal"],
       "iau": "Equ"
     },
     {
       "id": "CON ruelle Cyg",
       "names": [{"english": "Cygnus", "native": "Le Cygne"}],
       "lines": [["* alf Cyg", "* gam Cyg", "* bet Cyg A"], ["* gam Cyg", "* del Cyg"], ["* gam Cyg", "* zet Cyg", "* mu. Cyg"], ["* omi02 Cyg", "* alf Cyg"], ["* omi02 Cyg", "* tet Cyg", "* kap Cyg"], ["* alf Cyg", "* ksi Cyg", "* nu. Cyg", "* lam Cyg", "* eps Cyg", "*  41 Cyg"], ["* nu. Cyg", "* tau Cyg"], ["* ksi Cyg", "* rho Cyg", "* pi.02 Cyg"]],
+      "semantics": ["bird"],
       "iau": "Cyg"
     },
     {
@@ -151,12 +180,14 @@
       "names": [{"english": "Vulpecula", "native": "Le Renard"}],
       "lines": [["* alf Vul", "*  13 Vul A", "*  23 Vul", "*  15 Vul"], ["*  23 Vul", "HD 192685"]],
       "certainty": "A galaxy was also linked in (M27), but is not included here.",
+      "semantics": ["mammal"],
       "iau": "Vul"
     },
     {
       "id": "CON ruelle Sge",
       "names": [{"english": "Sagitta", "native": "La Flèche"}],
       "lines": [["* gam Sge", "* del Sge", "* alf Sge", "* bet Sge"]],
+      "semantics": ["man-made object"],
       "iau": "Sge"
     },
     {
@@ -164,24 +195,28 @@
       "names": [{"english": "Hercules", "native": "Hercule"}],
       "lines": [["* alf Her", "* eps Her", "* eta Her", "* sig Her", "* tau Her"], ["* eps Her", "* zet Her"], ["* eta Her", "* zet Her", "* bet Her", "* gam Her", "* alf Her"], ["* eta Her", "* pi. Her", "* rho Her", "* tet Her", "* ksi Her", "* mu. Her", "* del Her"], ["* rho Her", "* iot Her"]],
       "certainty": "Two galaxies were also linked in (M13, M92) but are not included here. One end-of-chain star after del Her is not identified, so is not included. The star del Her was difficult to identify; it seems a better match than lam Her.",
+      "semantics": ["humanoid"],
       "iau": "Her"
     },
     {
       "id": "CON ruelle Cer",
       "names": [{"english": "Cerberus", "native": "Cerbère"}],
       "lines": [["* ksi Her", "* omi Her", "*  95 Her A", "* 109 Her", "* 110 Her"]],
-      "description": "An obsolete constellation created by Hevelius in the 1600s, whose stars are now included in the constellation Hercules. It was depicted as a three-headed snake that Hercules is holding in his hand."
+      "description": "An obsolete constellation created by Hevelius in the 1600s, whose stars are now included in the constellation Hercules. It was depicted as a three-headed snake that Hercules is holding in his hand.",
+      "semantics": ["mammal"]
     },
     {
       "id": "CON ruelle CrB",
       "names": [{"english": "Corona Borealis", "native": "La Couronne"}],
       "lines": [["* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* bet CrB"]],
+      "semantics": ["man-made object"],
       "iau": "CrB"
     },
     {
       "id": "CON ruelle Ser",
       "names": [{"english": "Serpens", "native": "Le Serpent"}],
       "lines": [["* eps Ser", "* alf Ser"], ["* lam Ser", "* alf Ser", "* del Ser", "* bet Ser", "* gam Ser", "* kap Ser", "* iot Ser", "* rho Ser"]],
+      "semantics": ["reptile"],
       "iau": "Ser"
     },
     {
@@ -189,6 +224,7 @@
       "names": [{"english": "Bootes", "native": "Le Bouvier"}],
       "lines": [["* alf Boo", "* eps Boo", "* del Boo", "* bet Boo", "* gam Boo", "* rho Boo", "* eps Boo"], ["* gam Boo", "* eps Boo", "* ksi Boo", "* pi.01 Boo", "* zet Boo", "* alf Boo", "* eta Boo", "* tau Boo", "* ups Boo", "* eta Boo"], ["* bet Boo", "* mu.01 Boo", "*   7 CrB A"], ["* bet Boo", "* lam Boo", "* tet Boo"], ["* gam Boo", "* lam Boo"], ["* alf Boo", "* ksi Boo"]],
       "certainty": "One star is skipped (was drawn between gam Boo, bet Boo, and lam Boo, but no visible star was identified there. The alf-to-ksi line is only in the equatorial chart, but is added here.",
+      "semantics": ["humanoid"],
       "iau": "Boo"
     },
     {
@@ -196,6 +232,7 @@
       "names": [{"english": "Canes Venatici", "native": "Chiens de Chasse"}],
       "lines": [["* alf02 CVn", "* bet CVn"]],
       "certainty": "A galaxy was also linked in (M94) but is not included here.",
+      "semantics": ["mammal"],
       "iau": "CVn"
     },
     {
@@ -203,24 +240,28 @@
       "names": [{"english": "Coma Berenices", "native": "Chevelure de Berenice"}],
       "lines": [["* alf Com", "*  35 Com", "* bet Com", "* gam Com", "*  14 Com", "*  16 Com", "*  17 Com", "*  18 Com", "*  23 Com", "*  35 Com"], ["* alf Com", "*  27 Com", "*  23 Com"], ["* alf Com", "*  70 Vir"]],
       "certainty": "The star identification is uncertain.",
+      "semantics": ["body part"],
       "iau": "Com"
     },
     {
       "id": "CON ruelle Aql",
       "names": [{"english": "Aquila", "native": "L'Aigle"}],
       "lines": [["* bet Aql", "* alf Aql", "* gam Aql"]],
+      "semantics": ["bird"],
       "iau": "Aql"
     },
     {
       "id": "CON ruelle Aql2",
       "names": [{"english": "Antinoüs", "native": "Antinoüs"}],
       "lines": [["* eta Aql", "* tet Aql", "* l Aql"], ["* eta Aql", "* del Aql", "* zet Aql", "* eps Aql"], ["* eta Aql", "* iot Aql", "* lam Aql", "* kap Aql", "* iot Aql"]],
-      "description": "An obsolete constellation, merged into Aquila. The constellation was created by the emperor Hadrian in 132."
+      "description": "An obsolete constellation, merged into Aquila. The constellation was created by the emperor Hadrian in 132.",
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON ruelle Sct",
       "names": [{"english": "Scutum", "native": "L'Ecu de Sobieski"}],
       "lines": [["* i Aql", "* bet Sct", "* alf Sct", "* i Aql"]],
+      "semantics": ["man-made object"],
       "iau": "Sct"
     },
     {
@@ -228,18 +269,21 @@
       "names": [{"english": "Pisces", "native": "Les Poissons"}],
       "lines": [["* alf Psc", "* zet Psc A", "* eta Psc"], ["* zet Psc A", "* eps Psc", "* del Psc"]],
       "certainty": "Not clear whether this constellation is complete; it is at the right end of the equatorial chart. There is a segment at the left end which may be another component, but the stars are not identified, and there are no great matches.",
+      "semantics": ["fish"],
       "iau": "Psc"
     },
     {
       "id": "CON ruelle PsA",
       "names": [{"english": "Piscis Austrinus", "native": "Le Poisson"}],
       "lines": [["* alf PsA", "* eps PsA", "* bet PsA", "* alf PsA"], ["* bet PsA", "* mu. PsA", "* iot PsA", "* tet PsA", "* mu. PsA"]],
+      "semantics": ["fish"],
       "iau": "PsA"
     },
     {
       "id": "CON ruelle Aqr",
       "names": [{"english": "Aquarius", "native": "Le Verseau"}],
       "lines": [["* bet Aqr", "* alf Aqr", "* gam Aqr", "* zet01 Aqr", "* eta Aqr"], ["* gam Aqr", "* del Aqr", "* c02 Aqr"], ["* gam Aqr", "* lam Aqr", "* del Aqr"], ["* iot Aqr", "* ksi Aqr", "* bet Aqr"], ["* iot Aqr", "* tet Aqr", "* gam Aqr"]],
+      "semantics": ["humanoid"],
       "iau": "Aqr"
     },
     {
@@ -247,18 +291,28 @@
       "names": [{"english": "Capricornus", "native": "Le Capricorne"}],
       "lines": [["* nu. Cap", "* alf02 Cap", "* bet01 Cap", "* del Cap", "* gam Cap", "* eps Cap"]],
       "certainty": "The angles at alf02 Cap, del Cap appear sharper here than in Ruelle's hand-drawn chart.",
+      "semantics": ["mammal"],
       "iau": "Cap"
     },
     {
       "id": "CON ruelle Sgr",
       "names": [{"english": "Sagittarius", "native": "Le Sagittaire"}],
       "lines": [["* eps Sgr", "* gam02 Sgr", "* del Sgr", "* eps Sgr", "* zet Sgr", "* del Sgr", "* lam Sgr", "* mu. Sgr", "* pi. Sgr", "* omi Sgr", "* sig Sgr", "* zet Sgr", "* tau Sgr", "* omi Sgr"]],
+      "semantics": ["humanoid", "mammal"],
       "iau": "Sgr"
+    },
+    {
+      "id": "CON ruelle Sgr_eq",
+      "names": [{"english": "Sagittarius (eq)", "native": "Le Sagittaire (eq)"}],
+      "lines": [["* eps Sgr", "* gam02 Sgr", "* del Sgr", "* eps Sgr", "* zet Sgr", "* del Sgr"], ["* zet Sgr", "* sig Sgr", "* del Sgr", "* lam Sgr", "* mu. Sgr", "* pi. Sgr", "* omi Sgr", "* tau Sgr", "* zet Sgr"]],
+      "certainty": "The choice of tau Sgr doesn't suit the location well (two lines don't intersect any more), but there's no other candidate star. Variant may be slightly partial.",
+      "semantics": ["humanoid", "mammal"]
     },
     {
       "id": "CON ruelle Sco",
       "names": [{"english": "Scorpius", "native": "Le Scorpion"}],
       "lines": [["* ups Sco", "* lam Sco", "* kap Sco", "* iot01 Sco"], ["* kap Sco", "* tet Sco", "* eta Sco", "* zet02 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* pi. Sco", "* del Sco", "* bet01 Sco", "* alf Sco", "* rho Sco", "* pi. Sco"]],
+      "semantics": ["arthropod"],
       "iau": "Sco"
     },
     {
@@ -266,30 +320,35 @@
       "names": [{"english": "Libra", "native": "La Balance"}],
       "lines": [["* alf02 Lib", "* sig Lib", "* iot Lib", "* alf02 Lib", "* bet Lib", "* eps Lib", "* gam Lib", "* iot Lib"], ["* gam Lib", "* eta Lib", "* tet Lib", "*  48 Lib", "* bet Lib"], ["* tet Lib", "* kap Lib", "* sig Lib"], ["* kap Lib", "*  41 Lib", "* zet04 Lib", "* gam Lib"], ["* zet04 Lib", "* iot Lib"]],
       "certainty": "Label gam appears twice. One is sig. The link iot-zet appears only in the equatorial chart, and is added here.",
+      "semantics": ["man-made object"],
       "iau": "Lib"
     },
     {
       "id": "CON ruelle Crv",
       "names": [{"english": "Corvus", "native": "Le Corbeau"}],
       "lines": [["* alf Crv", "* bet Crv", "* del Crv", "* gam Crv", "* eps Crv", "* alf Crv"]],
+      "semantics": ["bird"],
       "iau": "Crv"
     },
     {
       "id": "CON ruelle Crt",
       "names": [{"english": "Crater", "native": "La Coupe"}],
       "lines": [["* alf Crt", "* bet Crt", "* del Crt", "* gam Crt", "* alf Crt"], ["* tet Crt", "* eps Crt", "* del Crt"], ["* eta Crt", "* zet Crt", "* gam Crt"], ["* eps Crt", "* zet Crt"], ["* eta Crt", "* tet Crt"]],
+      "semantics": ["man-made object"],
       "iau": "Crt"
     },
     {
       "id": "CON ruelle Cen",
       "names": [{"english": "Centaurus", "native": "Le Centaure"}],
       "lines": [["* alf Cen A", "* bet Cen", "* eps Cen", "* zet Cen", "* eta Cen"], ["* zet Cen", "* nu. Cen", "* tet Cen", "* eta Cen"], ["* tet Cen", "* iot Cen", "* gam Cen", "* del Cen", "* lam Cen"]],
+      "semantics": ["humanoid", "mammal"],
       "iau": "Cen"
     },
     {
       "id": "CON ruelle Col",
       "names": [{"english": "Columba", "native": "La Colombe"}],
       "lines": [["* alf Col", "* bet Col", "* del Col", "* alf Col"]],
+      "semantics": ["bird"],
       "iau": "Col"
     },
     {
@@ -297,25 +356,35 @@
       "names": [{"english": "Lepus", "native": "Le Lièvre"}],
       "lines": [["* alf Lep", "* bet Lep", "* gam Lep", "* del Lep", "* alf Lep", "* mu. Lep", "* eps Lep", "* bet Lep"], ["* alf Lep", "* zet Lep"]],
       "certainty": "The last link, alf Lep to zet Lep, is not visible on the polar chart (the constellation label is written on top of it). It is drawn in the equatorial chart. The link must have been intended also in the polar chart, or zet Lep wouldn't have been drawn.",
+      "semantics": ["mammal"],
       "iau": "Lep"
     },
     {
       "id": "CON ruelle CMa",
       "names": [{"english": "Canis Major", "native": "Le Grand Chien"}],
       "lines": [["* bet CMa", "* alf CMa", "* iot CMa", "* gam CMa", "* tet CMa", "* iot CMa"], ["* zet CMa", "* eps CMa", "* del CMa", "* eta CMa"], ["* del CMa", "* alf CMa"], ["* del CMa", "* gam CMa"]],
-      "certainty": "Ruelle draws two versions. This is the simplest mix of the two, and very dog-like.",
+      "certainty": "Another faint line links the legs together. It is not included here due to uncertainty.",
+      "semantics": ["mammal"],
       "iau": "CMa"
+    },
+    {
+      "id": "CON ruelle CMa_eq",
+      "names": [{"english": "Canis Major (eq)", "native": "Le Grand Chien (eq)"}],
+      "lines": [["* bet CMa", "* alf CMa", "* gam CMa", "* tet CMa", "* iot CMa", "* gam CMa"], ["* zet CMa", "* eps CMa", "* del CMa"], ["* eta CMa", "* del CMa", "* alf CMa"]],
+      "semantics": ["mammal"]
     },
     {
       "id": "CON ruelle Ori",
       "names": [{"english": "Orion", "native": "Orion"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"], ["* eps Ori", "* eta Ori"], ["* eps Ori", "* alf Ori", "* gam Ori", "* eps Ori", "* kap Ori", "* bet Ori", "* eps Ori"], ["* bet Ori", "* lam Eri"], ["* alf Ori", "* mu. Ori", "* lam Ori", "* gam Ori", "* pi.03 Ori", "* pi.05 Ori"], ["* pi.03 Ori", "* pi.02 Ori", "* pi.01 Ori"]],
+      "semantics": ["humanoid"],
       "iau": "Ori"
     },
     {
       "id": "CON ruelle Tau",
       "names": [{"english": "Taurus", "native": "Le Taureau"}],
       "lines": [["* zet Tau", "* bet Tau", "* 132 Tau", "* zet Tau", "* alf Tau", "* bet Tau"], ["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau"], ["* gam Tau", "* eta Tau"], ["* gam Tau", "* lam Tau", "* nu. Tau", "* mu. Tau", "* gam Tau"], ["* lam Tau", "* ksi Tau", "* omi Tau", "* nu. Tau"]],
+      "semantics": ["mammal"],
       "iau": "Tau"
     },
     {
@@ -323,12 +392,14 @@
       "names": [{"english": "Leo", "native": "Le Lion"}],
       "lines": [["* lam Leo", "* eps Leo"], ["* kap Leo", "* lam Leo"], ["* kap Leo", "* eps Leo"], ["* gam01 Leo", "* zet Leo", "*  30 LMi", "* mu. Leo", "* eps Leo"], ["*  30 LMi", "*  37 LMi", "*  46 LMi", "* bet LMi", "*  21 LMi", "*  30 LMi"], ["* gam01 Leo", "* eta Leo", "* alf Leo", "* tet Leo", "* del Leo", "* bet Leo", "* tet Leo"], ["* del Leo", "*  93 Leo", "* bet Leo", "* iot Leo", "* tau Leo", "* ups Leo", "* phi Leo", "* rho Leo", "* alf Leo"], ["* rho Leo", "* tet Leo"], ["* rho Leo", "* pi. Leo", "* omi Leo", "* ksi Leo", "* lam Leo"], ["* mu. Leo", "* zet Leo"]],
       "certainty": "This follows the equatorial chart, since only that is complete for this constellation. One small star not found next to eta Leo, so not included.",
+      "semantics": ["mammal"],
       "iau": "Leo"
     },
     {
       "id": "CON ruelle Hya",
       "names": [{"english": "Hydra", "native": "L'Hydre Femelle"}],
       "lines": [["* pi. Hya", "* gam Hya", "* bet Hya", "* ksi Hya", "* mu. Hya", "* nu. Hya", "* lam Hya", "* mu. Hya"], ["* lam Hya", "* alf Hya", "* iot Hya", "* lam Hya"], ["* iot Hya", "* tet Hya", "* eta Hya", "* del Hya", "* eps Hya", "* zet Hya", "* eta Hya", "HD  66141"]],
+      "semantics": ["reptile"],
       "iau": "Hya"
     },
     {
@@ -336,30 +407,43 @@
       "names": [{"english": "Argo Navis", "native": "Le Vaisseau"}],
       "lines": [["* alf Car", "* del Vel", "* eps Car", "* iot Car", "* kap Vel", "* ups Car A", "* bet Car", "* ome Car", "* tet Car", "* p Car", "* w Car", "* mu. Vel", "* lam Vel", "* gam02 Vel", "* zet Pup", "* lam Vel"], ["* zet Pup", "* pi. Pup", "* sig Pup", "* a Pup", "* zet Pup"], ["* sig Pup", "* nu. Pup", "* tau Pup", "* alf Car"], ["* zet Pup", "* rho Pup", "* j Pup", "* ksi Pup", "* omi Pup", "* zet Pup"], ["* j Pup", "*  16 Pup", "HD  65810", "* j Pup"]],
       "certainty": "Star w Car (a regular star) replaces (and is located inside) the Carina nebula, which Ruelle links in.",
-      "description": "An obsolete, large constellation in the southern sky. The 1755 catalogue of de Lacaille divided it into the three modern constellations: Carina, Puppis, and Vela."
+      "description": "An obsolete, large constellation in the southern sky. The 1755 catalogue of de Lacaille divided it into the three modern constellations: Carina, Puppis, and Vela.",
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON ruelle Cet",
       "names": [{"english": "Cetus", "native": "La Baleine"}],
       "lines": [["*  30 Psc", "* iot Cet", "* bet Cet", "* eta Cet", "* iot Cet"], ["* eta Cet", "* tet Cet", "* zet Cet", "* omi Cet", "* eps Cet", "* zet Cet", "* tau Cet", "* tet Cet"], ["* tau Cet", "* ups Cet", "* sig Cet", "* rho Cet", "* eps Cet", "* pi. Cet", "* sig Cet"], ["* omi Cet", "* del Cet", "* gam Cet", "* alf Cet", "* kap01 Cet", "* lam Cet", "* alf Cet"], ["* lam Cet", "* mu. Cet", "* gam Cet"]],
+      "semantics": ["fish"],
       "iau": "Cet"
     },
     {
       "id": "CON ruelle Mon",
       "names": [{"english": "Monoceros", "native": "La Licorne"}],
       "lines": [["*  15 Mon", "*  13 Mon", "*  18 Mon", "* bet Mon", "* alf Mon"]],
+      "semantics": ["mammal"],
       "iau": "Mon"
     },
     {
       "id": "CON ruelle Eri",
       "names": [{"english": "Eridanus", "native": "L'Éridan"}],
       "lines": [["* bet Eri", "* nu. Eri", "* ksi Eri", "* omi01 Eri", "* gam Eri", "* pi. Eri", "* del Eri", "* eps Eri", "* zet Eri", "* rho03 Eri", "* eta Eri", "* tau01 Eri", "* tau02 Eri"], ["* nu. Eri", "* l Eri", "*  54 Eri", "* ups02 Eri", "* d Eri", "* ups04 Eri", "* tau06 Eri", "* tau05 Eri", "* tau04 Eri", "* tau03 Eri", "* tet01 Eri", "* chi Eri", "* alf Eri"]],
+      "certainty": "Star d Eri has also other names: HIP 20535, ups03 Eri, 43 Eri.",
+      "semantics": ["landscape"],
       "iau": "Eri"
+    },
+    {
+      "id": "CON ruelle Eri_eq",
+      "names": [{"english": "Eridanus (eq)", "native": "L'Éridan (eq)"}],
+      "lines": [["* bet Eri", "* mu. Eri", "* nu. Eri", "*  47 Eri", "* bet Eri"], ["* nu. Eri", "* ksi Eri", "* omi02 Eri", "* gam Eri", "* omi01 Eri", "* omi02 Eri"], ["* gam Eri", "* pi. Eri", "* del Eri", "* eps Eri", "* zet Eri", "* rho03 Eri", "* eta Eri", "* zet Eri"], ["* ksi Eri", "* l Eri", "*  54 Eri", "* ups02 Eri", "* ups01 Eri", "* tau06 Eri", "* tau05 Eri", "* tau04 Eri", "* alf For", "* tau03 Eri", "* tau02 Eri", "* tau01 Eri"]],
+      "certainty": "This equatorial variant is partial.",
+      "semantics": ["landscape"]
     },
     {
       "id": "CON ruelle Vir",
       "names": [{"english": "Virgo", "native": "La Vierge"}],
       "lines": [["* alf Vir", "* tet Vir", "* gam Vir", "* eta Vir", "* bet Vir", "* c Vir", "* eta Vir"], ["* c Vir", "* eps Vir", "* del Vir", "* c Vir"], ["* del Vir", "* gam Vir"], ["* del Vir", "* zet Vir", "* alf Vir"], ["* zet Vir", "* 109 Vir", "* phi Vir", "* iot Vir", "* kap Vir", "* lam Vir", "* i Vir", "* alf Vir"], ["* phi Vir", "* mu. Vir", "* iot Vir"]],
+      "semantics": ["humanoid"],
       "iau": "Vir"
     },
     {
@@ -367,85 +451,99 @@
       "names": [{"english": "Ophiuchus", "native": "Ophiucus"}],
       "lines": [["* alf Oph", "* alf Ser", "* eps Ser", "* del Oph", "* eps Oph", "* zet Oph", "* eta Oph", "* tet Oph"], ["* eta Oph", "* eta Ser", "* zet Ser"], ["* eta Ser", "* tet01 Ser", "* gam Oph", "* bet Oph", "* alf Oph"], ["* bet Oph", "* sig Oph", "* kap Oph", "* iot Oph", "* gam Ser"], ["* eps Ser", "* mu. Ser", "* psi Sco", "* eps Oph"], ["* psi Sco", "* zet Oph", "HD 155078", "* nu. Ser", "* ksi Ser", "* tet Oph"], ["* ksi Ser", "* eta Oph"]],
       "certainty": "Hard to tell whether the Serpent (whose head is Le Serpent) also has a tail part; none is marked on the chart. Thus, all stars not marked as Le Serpent are written under Ophiucus. A pi. Oph is marked on the chart, but that must instead be tet Oph, based on the position and size.",
+      "semantics": ["humanoid"],
       "iau": "Oph"
     },
     {
       "id": "CON ruelle Dor",
       "names": [{"english": "Dorado", "native": "La Dorade"}],
       "lines": [["* alf Dor", "* bet Dor"]],
+      "semantics": ["fish"],
       "iau": "Dor"
     },
     {
       "id": "CON ruelle Mus",
       "names": [{"english": "Musca", "native": "La Mouche"}],
       "lines": [["* bet Mus", "* alf Mus", "* gam Mus", "* del Mus", "* alf Mus"]],
+      "semantics": ["arthropod"],
       "iau": "Mus"
     },
     {
       "id": "CON ruelle Cru",
       "names": [{"english": "Crux", "native": "La Croix"}],
       "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "semantics": ["geometric"],
       "iau": "Cru"
     },
     {
       "id": "CON ruelle TrA",
       "names": [{"english": "Triangulum Australe", "native": "Le Triangle"}],
       "lines": [["* alf TrA", "* bet TrA", "* gam TrA", "* alf TrA"]],
+      "semantics": ["geometric"],
       "iau": "TrA"
     },
     {
       "id": "CON ruelle Lup",
       "names": [{"english": "Lupus", "native": "Le Loup"}],
       "lines": [["* alf Lup", "* bet Lup", "* gam Lup", "* eps Lup", "* alf Lup"]],
+      "semantics": ["mammal"],
       "iau": "Lup"
     },
     {
       "id": "CON ruelle Ara",
       "names": [{"english": "Ara", "native": "L'Autel"}],
-      "lines": [["* alf Ara", "* del Ara", "* eta Ara", "* eps01 Ara", "* alf Ara"], ["* del Ara", "* eta Pav"]],
-      "certainty": "There are two other stars drawn inside the shape (bet and gam Ara), but not linked to the constellation with lines. They are not included here for lack of certainty on which lines to add.",
+      "lines": [["* alf Ara", "* bet Ara", "* gam Ara", "* del Ara", "* zet Ara", "* eps01 Ara", "* alf Ara"], ["* del Ara", "* eta Pav"]],
+      "certainty": "Two stars (bet Ara, gam Ara) placed near a line are assumed to be linked into the line.",
+      "semantics": ["man-made object"],
       "iau": "Ara"
     },
     {
       "id": "CON ruelle Pav",
       "names": [{"english": "Pavo", "native": "Le Paon"}],
       "lines": [["* alf Pav", "* del Pav", "* bet Pav", "* alf Pav"], ["* bet Pav", "* gam Pav", "* eps Pav", "* del Pav"]],
+      "semantics": ["bird"],
       "iau": "Pav"
     },
     {
       "id": "CON ruelle Ind",
       "names": [{"english": "Indus", "native": "L'Indien"}],
       "lines": [["* alf Ind", "* bet Ind"]],
+      "semantics": ["humanoid"],
       "iau": "Ind"
     },
     {
       "id": "CON ruelle Gru",
       "names": [{"english": "Grus", "native": "La Grue"}],
       "lines": [["* alf Gru", "* bet Gru", "* gam Gru", "* alf Gru"]],
+      "semantics": ["bird"],
       "iau": "Gru"
     },
     {
       "id": "CON ruelle Tuc",
       "names": [{"english": "Tucana", "native": "Le Toucan"}],
       "lines": [["* alf Tuc", "* gam Tuc", "* eta Tuc", "* zet Tuc", "* bet01 Tuc", "* eta Tuc"]],
+      "semantics": ["bird"],
       "iau": "Tuc"
     },
     {
       "id": "CON ruelle Phe",
       "names": [{"english": "Phoenix", "native": "Le Phénix"}],
       "lines": [["* bet Phe", "* gam Phe", "* del Phe", "* bet Phe", "* alf Phe", "* eps Phe", "* bet Phe"]],
+      "semantics": ["bird"],
       "iau": "Phe"
     },
     {
       "id": "CON ruelle Hyi",
       "names": [{"english": "Hydrus", "native": "L'Hydre"}],
       "lines": [["* bet Hyi", "* gam Hyi", "* alf Hyi", "* bet Hyi"]],
+      "semantics": ["reptile"],
       "iau": "Hyi"
     },
     {
       "id": "CON ruelle Ret",
       "names": [{"english": "Reticulum", "native": "Le Réticule"}],
       "lines": [["* alf Ret", "* bet Ret"]],
+      "semantics": ["man-made object"],
       "iau": "Ret"
     }
   ]
