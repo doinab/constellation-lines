@@ -14,55 +14,64 @@
       "id": "CON kalina 004",
       "names": [{"english": "Water Boa", "native": "Suluiuyuman"}],
       "lines": [["* bet Tau", "* iot Aur", "* eps Aur", "* alf Aur", "HD  33167", "*  58 Per", "* zet Per", "* omi Per", "*  16 Per", "* phi Per", "* eta Cas", "* alf Cas", "* phi And", "* bet And", "* pi. And", "HD 224635", "*  14 And", "* tet And", "* mu. And", "* zet Cas", "* bet Cas", "* gam Cas", "* del Cas", "* chi Cas", "* bet Per", "* alf Per", "* mu. Per", "*   9 Aur", "* bet Aur", "* nu. Aur", "* rho Aur", "* mu. Aur", "* bet Tau"]],
-      "certainty": "Eliminated one unnamed star between bet Per and chi Cas (which best matched M34, a galaxy) and two unidentified stars at the end of the tail."
+      "certainty": "Eliminated one unnamed star between bet Per and chi Cas (which best matched M34, a galaxy) and two unidentified stars at the end of the tail.",
+      "semantics": ["reptile"]
     },
     {
       "id": "CON kalina 005",
       "names": [{"english": "Jaguar", "native": "Kaitusiyuman"}],
       "lines": [["* alf Boo", "* eps Boo", "* sig Boo", "* del Boo", "* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* rho CrB", "*   7 CrB A", "* mu.01 Boo", "* chi Her", "* sig Her"], ["* mu.01 Boo", "* bet Boo", "* gam Boo", "* rho Boo", "* sig Boo"], ["* gam Boo", "* lam Boo", "* i Boo A"]],
-      "certainty": "Two faint stars at the end of lines (sig Her, i Boo A) are guesses, but match well in shape. Another star in drawn isolated inside the body, as an eye, but could not be identified, so is not added. No link is drawn in the source between rho Boo and sig Boo (the start of the tail) likely because they're too close together. A link appears logical and is added here, to close the polygon of the body."
+      "certainty": "Two faint stars at the end of lines (sig Her, i Boo A) are guesses, but match well in shape. Another star in drawn isolated inside the body, as an eye, but could not be identified, so is not added. No link is drawn in the source between rho Boo and sig Boo (the start of the tail) likely because they're too close together. A link appears logical and is added here, to close the polygon of the body.",
+      "semantics": ["mammal"]
     },
     {
       "id": "CON kalina 006",
       "names": [{"english": "Face", "native": "Onbatapo"}],
       "lines": [["* eta CMa", "* ome CMa", "* del CMa", "* omi02 CMa", "* eps CMa"], ["* p Pup", "* k02 Pup", "* ksi Pup", "* rho Pup"]],
       "certainty": "The choice of ome CMa is guesswork: any star on a line between eta and del CMa would fit the drawing. Compared to the star names in the source, this replaced chi Pup with k2 Pup, and prolonged the chain in Puppis by one star (p Pup) in the other direction, since this fits the linear shape much more accurately.",
-      "description": "These two lines represent the earrings. The face is the multitude of small, unidentified stars located between them, which are not linked by lines and are not added here."
+      "description": "These two lines represent the earrings. The face is the multitude of small, unidentified stars located between them, which are not linked by lines and are not added here.",
+      "semantics": ["body part"]
     },
     {
       "id": "CON kalina 008",
       "names": [{"english": "Tapir", "native": "Maipuriyuman"}],
-      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* alf Tau"]]
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* alf Tau"]],
+      "semantics": ["mammal"]
     },
     {
       "id": "CON kalina 009",
       "names": [{"english": "One-Legged Hunter", "native": "Epietembo"}],
       "lines": [["* alf Ori", "* zet Ori"], ["* lam Ori", "* alf Ori"], ["* gam Ori", "* lam Ori"], ["* del Ori", "* gam Ori"], ["* del Ori", "* bet Ori"], ["* zet Ori", "* eps Ori", "* del Ori"]],
-      "certainty": "The belt zet, eps, del Ori is not explicitly linked together in the source, but likely only because of the lack of space. They are linked here."
+      "certainty": "The belt zet, eps, del Ori is not explicitly linked together in the source, but likely only because of the lack of space. They are linked here.",
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON kalina 010",
       "names": [{"english": "Currasow Bird", "native": "Wokoyuman"}],
       "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
-      "description": "The bird is followed by two hunters who are twins, alf and bet Cen (CON kalina 011)."
+      "description": "The bird is followed by two hunters who are twins, alf and bet Cen (CON kalina 011).",
+      "semantics": ["bird"]
     },
     {
       "id": "CON kalina 011",
       "names": [{"english": "Twins", "native": "Pio-Kanamo"}, {"english": "The Hunter and His Torch"}],
       "lines": [["* alf Cen A", "* alf Cen A"], ["* bet Cen", "* bet Cen"]],
       "certainty": "The two stars are not linked by a line in the drawing, so also not here.",
-      "description": "The hunters are the twins Pia and Kanaima, the 'givers of culture'. Some villagers say, however, that alf Cen is the torch by means of which a single hunter lights his way."
+      "description": "The hunters are the twins Pia and Kanaima, the 'givers of culture'. Some villagers say, however, that alf Cen is the torch by means of which a single hunter lights his way.",
+      "semantics": ["group"]
     },
     {
       "id": "CON kalina 012",
       "names": [{"english": "King Fisher", "native": "Sagasagayuman"}],
-      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]]
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]],
+      "semantics": ["bird"]
     },
     {
       "id": "CON kalina 013",
       "names": [{"english": "Canoe", "native": "Kuriala"}],
       "lines": [["* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
-      "certainty": "This is not drawn in the source, but is identified as the chariot of Ursa Major. It is not clear whether the rectangle should be open (as is here) or closed."
+      "certainty": "This is not drawn in the source, but is identified as the chariot of Ursa Major. It is not clear whether the rectangle should be open (as is here) or closed.",
+      "semantics": ["man-made object"]
     }
   ],
   "common_names": {

@@ -15,26 +15,30 @@
       "names": [{"english": "Seven Brothers and Their Sister"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* bet UMa", "* alf UMa"], ["* g UMa", "* g UMa"]],
       "certainty": "The source doesn't explicitly provide the constellation lines, but identifies it with the modern Big Dipper, as a bowl with a handle.",
-      "description": "Represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in this version. In a second version of this constellation (not included separately here), the youngest brother becomes the North Star, and the sister (who used to carry him) is the pointer star at the lip of the bowl. This constellation was used for time-keeping before the introduction of clocks."
+      "description": "Represents siblings who escape to the sky when being chased by a bear. The sister is the small star Alcor in this version. In a second version of this constellation (not included separately here), the youngest brother becomes the North Star, and the sister (who used to carry him) is the pointer star at the lip of the bowl. This constellation was used for time-keeping before the introduction of clocks.",
+      "semantics": ["group"]
     },
     {
       "id": "CON blackfoot 002",
       "names": [{"english": "Ashes-Chief and Stuck-Behind"}],
       "lines": [["* alf Gem", "* bet Gem"]],
-      "description": "Represents twins whose story explains how a particular tipi design came into use."
+      "description": "Represents twins whose story explains how a particular tipi design came into use.",
+      "semantics": ["group"]
     },
     {
       "id": "CON blackfoot 003",
       "names": [{"english": "Spider Man's Fingers"}],
       "lines": [["* alf Her", "* gam Her"], ["* iot Her", "* pi. Her", "* eps Her", "* bet Her", "* gam Her"], ["* phi Her", "* tau Her", "* sig Her", "* eta Her", "* zet Her", "* bet Her"], ["* ksi Her", "* mu. Her", "* lam Her", "* del Her", "* gam Her"], ["* 111 Her", "* 110 Her", "* 109 Her", "*  95 Her A", "* gam Her"]],
       "certainty": "Identification is uncertain. This is a possible configuration of stars in Hercules by [miller1997stars], based on the quote 'the five bright stars just beyond [the Northern Crown] in the constellation of Hercules are his five fingers' [mcclintock1910old].",
-      "description": "Represents five fingers spinning a thread to let the legendary Feather Woman (native name: So-at-sa-ki) down from the sky."
+      "description": "Represents five fingers spinning a thread to let the legendary Feather Woman (native name: So-at-sa-ki) down from the sky.",
+      "semantics": ["body part"]
     },
     {
       "id": "CON blackfoot 004",
       "names": [{"english": "Lodge of the Spider Man"}],
       "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB"]],
-      "description": "Represents the stones laid in a circle which used to hold down a tipi."
+      "description": "Represents the stones laid in a circle which used to hold down a tipi.",
+      "semantics": ["architecture"]
     }
   ],
   "common_names": {

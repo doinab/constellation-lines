@@ -14,31 +14,43 @@
       "id": "CON maricopa 001",
       "names": [{"english": "Coyote's Fishing Net"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* bet UMa", "* alf UMa", "* del UMa"], ["* alf UMa", "* alf UMi"]],
-      "description": "Coyote is the Big Dipper, and the net extends to UMi. Coyote holds the net at one end. When he hears fish jumping, he turns around, pulling the net behind him and making a bend in it (the slight bend in the Big Dipper handle)."
+      "description": "Coyote is the Big Dipper, and the net extends to UMi. Coyote holds the net at one end. When he hears fish jumping, he turns around, pulling the net behind him and making a bend in it (the slight bend in the Big Dipper handle).",
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON maricopa 002",
       "names": [{"english": "Mountain Sheep", "native": "Amŏ's"}],
       "lines": [["* zet Ori", "* zet Ori"], ["* eps Ori", "* eps Ori"], ["* del Ori", "* del Ori"]],
       "certainty": "It is not clear whether the stars should be linked by lines (they are not here). There's also an arrow (Orion's belt plus a top star) shot at the middle animal, also without wiring, and the arrow looks very crooked, so not drawn here.",
-      "description": "The three stars are an antelope, a mountain sheep, and a deer. There is also an arrow going through, but not well identified. The Mountain Sheep Pursuer (Sirius) is stalking and has shot the mountain sheep."
+      "description": "The three stars are an antelope, a mountain sheep, and a deer. There is also an arrow going through, but not well identified. The Mountain Sheep Pursuer (Sirius) is stalking and has shot the mountain sheep.",
+      "semantics": ["group"]
     },
     {
       "id": "CON maricopa 003",
       "names": [{"english": "Cold's Cottonwood"}],
       "lines": [["* bet Aql", "* alf Aql", "* gam Aql"]],
-      "description": "Cold is a character in stories. The constellation appears at dawn in January and looks like the flowering part of cottonwood."
+      "description": "Cold is a character in stories. The constellation appears at dawn in January and looks like the flowering part of cottonwood.",
+      "semantics": ["plant"]
     },
     {
       "id": "CON maricopa 004",
       "names": [{"english": "Spider"}],
-      "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* alf Cas", "* bet Cas"]]
+      "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* alf Cas", "* bet Cas"]],
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON maricopa 005",
+      "names": [{"english": "Council"}],
+      "lines": [["* tet CrB", "* tet CrB"], ["* bet CrB", "* bet CrB"], ["* alf CrB", "* alf CrB"], ["* gam CrB A", "* gam CrB A"], ["* del CrB", "* del CrB"], ["* eps CrB", "* eps CrB"]],
+      "certainty": "The source doesn't wire the stars together, so this is unlined.",
+      "semantics": ["group"]
     },
     {
       "id": "CON maricopa 006",
       "names": [{"english": "Fox"}],
       "lines": [["* phi Sgr", "* sig Sgr", "* tau Sgr", "* zet Sgr", "* phi Sgr", "* lam Sgr", "* mu. Sgr"]],
-      "description": "Fox is Coyote's twin brother, and looks similar."
+      "description": "Fox is Coyote's twin brother, and looks similar.",
+      "semantics": ["mammal"]
     }
   ],
   "common_names": {

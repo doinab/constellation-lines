@@ -13,66 +13,78 @@
     {
       "id": "CON bugis 001",
       "names": [{"english": "Incomplete House", "native": "Bintoéng Bola Képpang"}],
-      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru"], ["* bet Cru", "* mu.01 Cru", "* gam Cru"]]
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru"], ["* bet Cru", "* mu.01 Cru", "* gam Cru"]],
+      "semantics": ["architecture"]
     },
     {
       "id": "CON bugis 002",
       "names": [{"english": "Shark", "native": "Bintoéng Balé Mangiwéng"}],
       "lines": [["* G Sco", "* lam Sco", "* ups Sco", "* kap Sco", "* tet Sco", "* alf Ara"]],
-      "certainty": "It is not clear if this line figure is complete. It is described in [orchiston2021seasia] as the southern part of Scorpius, but the drawing in the source is a pictogram for this constellation, not a line figure. To match the pictogram better than the list of stars provided, this data removed iot1 Sco (which makes the shark a simple straight line) and added alf Ara (a longer tail) and lam Sco (the fin as drawn)."
+      "certainty": "It is not clear if this line figure is complete. It is described in [orchiston2021seasia] as the southern part of Scorpius, but the drawing in the source is a pictogram for this constellation, not a line figure. To match the pictogram better than the list of stars provided, this data removed iot1 Sco (which makes the shark a simple straight line) and added alf Ara (a longer tail) and lam Sco (the fin as drawn).",
+      "semantics": ["fish"]
     },
     {
       "id": "CON bugis 003",
       "names": [{"english": "Ray Fish", "native": "Bintoéng Lambarué"}],
-      "lines": [["* bet01 Sco", "* del Sco", "* pi. Sco", "* rho Sco", "* sig Sco", "* bet01 Sco"], ["* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco"]]
+      "lines": [["* bet01 Sco", "* del Sco", "* pi. Sco", "* rho Sco", "* sig Sco", "* bet01 Sco"], ["* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco"]],
+      "semantics": ["fish"]
     },
     {
       "id": "CON bugis 004",
       "names": [{"english": "Widow", "native": "Bintoéng Balué"}, {"native": "Walu"}],
-      "lines": [["* bet UMa", "* alf UMa"]]
+      "lines": [["* bet UMa", "* alf UMa"]],
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON bugis 005",
       "names": [{"english": "Ship", "native": "Bintoéng Kappala'é"}],
-      "lines": [["* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa", "* gam UMa"]]
+      "lines": [["* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa", "* gam UMa"]],
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON bugis 006",
       "names": [{"english": "Ship", "native": "Bintoéng Kappala'é"}],
       "lines": [["* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa", "* gam UMa", "* psi UMa", "* bet UMa", "* alf UMa", "* bet UMi", "* gam UMi", "* del UMa"]],
-      "variant_of": ["CON bugis 005"]
+      "variant_of": ["CON bugis 005"],
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON bugis 007",
       "names": [{"english": "Sign of Three", "native": "Tanra Tellué"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
-      "variant_of": ["CON mandar 005"]
+      "variant_of": ["CON mandar 005"],
+      "semantics": ["group"]
     },
     {
       "id": "CON bugis 008",
       "names": [{"english": "Plow", "native": "Bintoéng Rakkalaé"}, {"native": "Pajjékoé"}],
-      "lines": [["* gam Ori", "* del Ori", "* eps Ori", "* zet Ori", "* kap Ori"], ["* eps Ori", "* bet Ori"]]
+      "lines": [["* gam Ori", "* del Ori", "* eps Ori", "* zet Ori", "* kap Ori"], ["* eps Ori", "* bet Ori"]],
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON bugis 009",
       "names": [{"english": "Widow Before Marriage", "native": "Bintoéng Balué"}],
-      "lines": [["* bet Cen", "* alf Cen A"]]
+      "lines": [["* bet Cen", "* alf Cen A"]],
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON bugis 010",
       "names": [{"english": "Chicken", "native": "Manu"}, {"native": "Jangang"}],
-      "lines": [["* alf Car", "* alf CMa", "* alf CMi"]]
+      "lines": [["* alf Car", "* alf CMa", "* alf CMi"]],
+      "semantics": ["bird"]
     },
     {
       "id": "CON bugis 011",
       "names": [{"english": "Job’s Tears Stalk", "native": "Watang-mpata"}, {"native": "Batang-bata"}],
-      "lines": [["* alf Leo", "* bet Leo"]]
+      "lines": [["* alf Leo", "* bet Leo"]],
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON bugis 012",
       "names": [{"english": "Pushed Plough", "native": "Tékkoroso"}],
       "lines": [["* bet Tri", "* alf Tri", "* gam Tri"]],
-      "certainty": "This is uncertain. Marked as Triangulum? in [orchiston2021seasia]."
+      "certainty": "This is uncertain. Marked as Triangulum? in [orchiston2021seasia].",
+      "semantics": ["man-made object"]
     }
   ],
   "common_names": {

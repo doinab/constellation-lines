@@ -15,14 +15,16 @@
       "names": [{"english": "It Rotates Its Body", "native": "Nosikghaltaala"}],
       "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
       "certainty": "Certain.",
-      "description": "The Koyukon call the Big Dipper a man. According to legend, he argues fiercely with Raven and leaves for the sky, where he becomes Nosikghaltaala, a 'measurer of time'. The tip of the handle is his head, the rest of the handle is his back, and the two pointer stars of the bowl are his buttocks. It serves as the tribe's primary clock."
+      "description": "The Koyukon call the Big Dipper a man. According to legend, he argues fiercely with Raven and leaves for the sky, where he becomes Nosikghaltaala, a 'measurer of time'. The tip of the handle is his head, the rest of the handle is his back, and the two pointer stars of the bowl are his buttocks. It serves as the tribe's primary clock.",
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON koyukon 002",
       "names": [{"english": "Those Multiple Objects Which Are Moving Along", "native": "Ghededzuyhdle"}, {"english": "That Which Is Revolving", "native": "Naagheltaale"}],
       "lines": [["* alf UMi", "HD  81817", "* pi.02 UMa", "* omi UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* pi.02 UMa", "* h UMa", "* alf UMa"], ["* omi UMa", "* iot UMa", "* kap UMa", "* alf Lyn", "* mu. UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* bet CVn", "* alf02 CVn"], ["* iot UMa", "*  31 Lyn"], ["* alf Lyn", "* eps Leo", "* gam01 Leo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. pi2 UMa is not named in the text, but is in the drawing (so is included here). The head (31 Lyn) is linked here to the body, since a star is identified as the neck.",
-      "description": "A large man-animal constellation composed of 15 groups of stars named as body parts. Like in the Sahtúot’įnę culture, most of the stars are extremely dim. The figure is much smaller than whole-sky: approximately 66 degrees at its greatest width between its left and right hands. It is centered on the Big Dipper as either the man's right leg (native: nełneyhts'ene' betl'ene') or his tail (native: bekaa). The dim star (31 Lyn) that composes the head is located near the heart of the Gwich'in, Ahtna, Upper Tanana, and Lower Tanana whole-sky constellations."
+      "description": "A large man-animal constellation composed of 15 groups of stars named as body parts. Like in the Sahtúot’įnę culture, most of the stars are extremely dim. The figure is much smaller than whole-sky: approximately 66 degrees at its greatest width between its left and right hands. It is centered on the Big Dipper as either the man's right leg (native: nełneyhts'ene' betl'ene') or his tail (native: bekaa). The dim star (31 Lyn) that composes the head is located near the heart of the Gwich'in, Ahtna, Upper Tanana, and Lower Tanana whole-sky constellations.",
+      "semantics": ["humanoid"]
     }
   ],
   "common_names": {

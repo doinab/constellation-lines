@@ -14,40 +14,46 @@
       "id": "CON mandar 001",
       "names": [{"english": "Slanted House", "native": "Bittoéng Sapo Kepang"}],
       "lines": [["* del Cen", "* gam Cru", "* del Cru", "* del Cen"], ["* alf01 Cru", "* del Cru"], ["* bet Cru", "* gam Cru"]],
-      "description": "Is used as an indicator for the south. Five stars (including Crux) form a house with uneven foundations."
+      "description": "Is used as an indicator for the south. Five stars (including Crux) form a house with uneven foundations.",
+      "semantics": ["architecture"]
     },
     {
       "id": "CON mandar 006",
       "names": [{"english": "Widow", "native": "Bittoéng Tuwallu"}],
       "lines": [["* bet Cen", "* alf Cen A"]],
       "certainty": "Although the source doesn't link the two stars with a line, the equivalent Bugis data does. They are linked here.",
-      "description": "A pair of stars just below the Slanted House, so also a sign for the south direction."
+      "description": "A pair of stars just below the Slanted House, so also a sign for the south direction.",
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON mandar 002",
       "names": [{"english": "Shark", "native": "Bittoéng Mangiwang"}],
       "lines": [["* G Sco", "* lam Sco", "* ups Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* alf Ara", "* bet Ara", "* tet Ara", "* alf Tel", "* eps Sgr", "* del Sgr", "* sig Sgr", "* phi Sgr", "* lam Sgr", "* mu. Sgr", "* del Sgr", "* gam02 Sgr", "* G Sco"]],
       "certainty": "There is a triangular fin in the middle, and a tail at the back. The drawing in the source has a large open mouth, but the star for the back of the mouth is not identified (nor could we identify it), so none is included here (the mouth is instead closed).",
-      "description": "Marks the entry of the northwest monsoon season."
+      "description": "Marks the entry of the northwest monsoon season.",
+      "semantics": ["fish"]
     },
     {
       "id": "CON mandar 003",
       "names": [{"english": "Stingray", "native": "Bittoéng Lambaru"}],
       "lines": [["* bet01 Sco", "* rho Sco", "* sig Sco", "* bet01 Sco"], ["* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco"], ["* del Sco", "* del Sco"], ["* pi. Sco", "* pi. Sco"]],
-      "description": "Marks the entry of the northwest monsoon season. It consists of a head (with two eyes, which are not linked by lines to the head) and a tail."
+      "description": "Marks the entry of the northwest monsoon season. It consists of a head (with two eyes, which are not linked by lines to the head) and a tail.",
+      "semantics": ["fish"]
     },
     {
       "id": "CON mandar 004",
       "names": [{"english": "Fishing Net", "native": "Bittoéng Panjala"}],
       "lines": [["* bet UMa", "* alf UMa", "* lam Dra", "* kap Dra", "* alf Dra", "* tet Boo"], ["* gam UMa", "* del UMa"], ["* eps UMa", "* eps UMa"], ["* zet01 UMa", "* eta UMa"]],
-      "description": "Is used as an indicator of the entry of the cool season (between the two monsoons) and the appearance of the bambang fish. It consists of fishermen and a boat."
+      "description": "Is used as an indicator of the entry of the cool season (between the two monsoons) and the appearance of the bambang fish. It consists of fishermen and a boat.",
+      "semantics": ["man-made object"]
     },
     {
       "id": "CON mandar 005",
       "names": [{"english": "Group of Three Stars", "native": "Bittoéng Tallu-tallu"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"], ["* pi.03 Ori", "* pi.04 Ori", "* pi.05 Ori"]],
       "certainty": "The stars are not linked into lines in the source, but are linked here, since they're described as being in line.",
-      "description": "Two groups of stars that each have three stars in line. These stars are a mark towards the east from the Pleiades."
+      "description": "Two groups of stars that each have three stars in line. These stars are a mark towards the east from the Pleiades.",
+      "semantics": ["group"]
     }
   ],
   "common_names": {

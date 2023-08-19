@@ -15,7 +15,8 @@
       "names": [{"english": "Yèhdaa (no gloss)", "native": "Yèhdaa"}],
       "lines": [["* ups UMa", "* ups UMa"], ["* g UMa", "* g UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* tau UMa", "* omi UMa"], ["* bet UMa", "* tet UMa", "* iot UMa", "* kap UMa"], ["* eta UMa", "* bet Boo", "* alf CrB"], ["* eta UMa", "* gam Boo", "* eps Boo"], ["* tet Boo", "* tet Boo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The text lists eta UMa in the right arm, incorrectly; corrected acc. drawing to h UMa.",
-      "description": "Humanoid constellation composed of 11 groups of named stars that span 76 degrees across the sky. It is said that an ordinary person shot him with an arrow, and the impact broke his back, which is why he has his hands thrown above his head with fingers splayed out. He kicked his legs and feet into the air, which pushed the sky up to where it is now. His head (ups UMa), the place where he was hit with the arrow (or the arrow itself) (g UMa), and the quiver for arrows (tet Boo) are unconnected."
+      "description": "Humanoid constellation composed of 11 groups of named stars that span 76 degrees across the sky. It is said that an ordinary person shot him with an arrow, and the impact broke his back, which is why he has his hands thrown above his head with fingers splayed out. He kicked his legs and feet into the air, which pushed the sky up to where it is now. His head (ups UMa), the place where he was hit with the arrow (or the arrow itself) (g UMa), and the quiver for arrows (tet Boo) are unconnected.",
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON yellowknives 002",
@@ -23,14 +24,16 @@
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa"], ["* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* omi UMa"], ["* bet UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* nu. UMa", "* ksi UMa", "*  72 Leo", "* del Leo", "* tet Leo", "* iot Leo"], ["* psi UMa", "*  46 LMi", "* zet Leo", "* gam01 Leo", "* eta Leo", "* alf Leo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The list of stars for 'his body' doesn't match the drawing; the list is used here. Removed the link bet UMa to gam UMa, which is drawn but unwarranted by the description.",
       "description": "An elder from Ndilǫ identified a variation of the constellation: a big headless man. The handle of the Big Dipper is Yìda's right arm, and the Big Dipper cup forms his upper torso.",
-      "variant_of": ["CON yellowknives 001"]
+      "variant_of": ["CON yellowknives 001"],
+      "semantics": ["humanoid"]
     },
     {
       "id": "CON yellowknives 003",
       "names": [{"english": "Yı̀da’s wife", "native": "Yı̀da wets’ekeè"}],
       "lines": [["* eps Cas", "* eps Cas"], ["* del Cas", "* del Cas"], ["* gam Cas", "* gam Cas"], ["* alf Cas", "* alf Cas"], ["* bet Cas", "* bet Cas"], ["* eta Cas", "* eta Cas"]],
       "certainty": "The stars are identified, but no lines. It is not clear whether it should be lined (it isn't here).",
-      "description": "Yı̀da’s wife is an important character in Northern Dene Traveler stories."
+      "description": "Yı̀da’s wife is an important character in Northern Dene Traveler stories.",
+      "semantics": ["humanoid"]
     }
   ],
   "common_names": {
