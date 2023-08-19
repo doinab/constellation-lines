@@ -2,7 +2,9 @@
 ## (a referenced dataset)
 
 
-An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellation line figures (or connect-the-dot figures) from _sky cultures_ (traditional astronomies) across the world and through time. This data was digitised from many scholarly sources.
+An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes culture metadata and scholarly sources. The constellations are grouped by culture and annotated with names, text on the degree of certainty in its identification, a description (usually about practical usage or mythological themes for the constellation in that culture), the semantics of the constellation, and pointers to any known related constellations.
+
+The data was digitised from many scholarly sources (see file _sources.bib_).
 
 Analyses of the data:
 
