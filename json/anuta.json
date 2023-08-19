@@ -11,7 +11,7 @@
   "description": "Anuta is a small island in the SE of Solomon Islands in Melanesia, inhabited by a culturally Polynesian society. As for most Oceanic seafarers, the stars are the most important tool for long-range navigation. The major guiding stars and constellations are known as carriers (native: kaavenga), and have proper names. A star path or sequence of stars (native: kau panonga porau) is followed from one island to the next. This sky culture has 11 constellation line figures. Two other groups of stars are mentioned in the source, but are not identifiable. Culturally significant themes reflected in Anutan constellations include birds, food, fish, and equipment used to procure or prepare these items. Many of these constellations are identified by similar names on other islands. The source draws each constellation with both stars and lines, and marks the Western constellation where this is placed. However, it only identifies the major stars by name, so marking the minor ones was guesswork based on the author's drawing.",
   "constellations": [
     {
-      "id": "CON anutan 001",
+      "id": "CON anuta 001",
       "names": [{"english": "The Bamboo", "native": "Te Kope"}],
       "lines": [["* eps Gru", "* bet Gru", "* del01 Gru", "* lam Gru", "* gam Gru"]],
       "certainty": "Identified as part of Grus, but (based on the shape) doesn't use the brightest star alf Gru. No star is named. A subset of five stars are drawn in the source, taken here to be the brightest five besides alf Gru.",
@@ -19,14 +19,14 @@
       "semantics": ["plant"]
     },
     {
-      "id": "CON anutan 002",
+      "id": "CON anuta 002",
       "names": [{"english": "Path of Three", "native": "Ara Toru"}],
       "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
       "certainty": "Certain. Identified as Orion's belt.",
       "semantics": ["landscape"]
     },
     {
-      "id": "CON anutan 003",
+      "id": "CON anuta 003",
       "names": [{"english": "Bird of Flight", "native": "Manu"}],
       "lines": [["* alf CMi", "* alf CMa", "* alf Car", "* alf Pic"]],
       "certainty": "Only the first 3 stars are identified.",
@@ -34,7 +34,7 @@
       "semantics": ["bird"]
     },
     {
-      "id": "CON anutan 004",
+      "id": "CON anuta 004",
       "names": [{"english": "The Tongs", "native": "Te Angaanga"}],
       "lines": [["* alf Tau", "* tet01 Tau", "*  71 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau"]],
       "certainty": "The source draws a V shape and identifies this as Taurus' forehead, but names only the brightest star, alf Tau (Aldebaran). The minor stars are chosen here to follow the V shape.",
@@ -42,21 +42,21 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON anutan 005",
+      "id": "CON anuta 005",
       "names": [{"english": "Octopus Tentacle", "native": "Kaavei"}],
       "lines": [["* bet Ari", "* alf Ari", "*  41 Ari"]],
       "certainty": "Identified as part of Aries (three stars are drawn, but none is named). Aries has four stars in a line, so one other choice is possible but is much smaller in spatial diameter.",
       "semantics": ["body part"]
     },
     {
-      "id": "CON anutan 006",
+      "id": "CON anuta 006",
       "names": [{"english": "Forward Precursor", "native": "Taki Mua"}],
       "lines": [["* kap Peg", "* iot Peg", "* bet Peg", "* alf Peg"]],
       "certainty": "The source marks this as Pegasus's chest and front legs, but only the chest is unambiguous.",
       "semantics": ["abstract"]
     },
     {
-      "id": "CON anutan 007",
+      "id": "CON anuta 007",
       "names": [{"english": "Adze", "native": "Toki"}],
       "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* alf Del"]],
       "certainty": "The source marks these stars as Delphinus and draws the lines to look like an ax. These lines follow the drawing in the source.",
@@ -64,7 +64,7 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON anutan 008",
+      "id": "CON anuta 008",
       "names": [{"english": "The Carrying Stick", "native": "Te Aamonga"}],
       "lines": [["* gam Aql", "* alf Aql", "* bet Aql"]],
       "certainty": "The source identifies the middle star with alf Aql (Altair) but isn't completely sure. The other two stars are smaller and not identified.",
@@ -72,21 +72,21 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON anutan 009",
+      "id": "CON anuta 009",
       "names": [{"english": "Crevalle-like Fish", "native": "Te Paka Poi Ika Tapu"}, {"english": "White Squirrelfish", "native": "Marau Tea"}],
       "lines": [["* gam02 Sgr", "* lam Sgr", "* sig Sgr", "* pi. Sgr"], ["HD 183275", "* sig Sgr", "* eps Sgr", "* gam02 Sgr"]],
       "certainty": "Low certainty. The source identifies the region as Sagittarius, but isn't sure. No star is precisely identified, and the drawing is simplistic.",
       "semantics": ["fish"]
     },
     {
-      "id": "CON anutan 010",
+      "id": "CON anuta 010",
       "names": [{"english": "Taro Plant", "native": "Taro"}],
       "lines": [["* tau Sco", "* alf Sco", "* sig Sco", "* del Sco", "* bet01 Sco", "* rho Oph", "* del Sco"], ["* sig Sco", "* pi. Sco", "* rho Sco", "* d Sco", "* pi. Sco"]],
       "certainty": "A 3-star stem whose middle is marked alf Sco (Antares), and two 3-star leaves. No other star is precisely identified. The bottom star of both leaves is questionable.",
       "semantics": ["plant"]
     },
     {
-      "id": "CON anutan 011",
+      "id": "CON anuta 011",
       "names": [{"english": "The Net", "native": "Te Kupenga"}, {"english": "The Sacred Timber", "native": "Te Rakau Tapu"}],
       "lines": [["* alf Cen A", "* bet Cen", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru", "* bet Cru"]],
       "certainty": "Certain. The net itself (a quadrangle) is identified as The Southern Cross, and the two large stars of the handle are identified (alf Cen, bet Cen). The latter two are also named The Net's Handle, or The Double Man.",
