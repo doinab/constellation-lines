@@ -1,0 +1,41 @@
+{
+  "id": "malay",
+  "name": "Malay",
+  "region": "Asia",
+  "subregion": "South-eastern Asia",
+  "period": "2015-2018",
+  "place": "Kedah, Malaysia",
+  "source": ["jaafar2021folk"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austronesia",
+  "description": "Like the Bugis and Madura (who are also migrated Malays), the Malay culture is a mix of sea- and land usage, with sea traditions, but current farming and fishing practices. The field work attempted to link the local constellations to specific ecological adaptations, and from there, to certain economic lifestyles. Four constellations were identified: 1) Belantik (Orion), 2) Bintang Tujuh (Pleiades), 3) Pari (Crux), and 4) Biduk (Big Dipper). The first two constellations are normally associated with land-based ecological niches, whereas the latter two constellations are usually linked to sea-based ecological adaptations.",
+  "constellations": [
+    {
+      "id": "CON malay 001",
+      "names": [{"english": "Spring-Spear Trap", "native": "Belantik"}],
+      "lines": [["* bet Ori", "* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "The exact below-belt stars are not identified. A spring-spear trap seems to have at least two connected linear elements [https://commons.wikimedia.org/wiki/File:Springing_branch_spear_trap.JPG]: a spear and a spring, rope, or trip wire. I thus draw it as two linear segments: the belt plus bet Ori (Rigel), connected at an angle. A conservative asterism would be only the belt, but the source says otherwise.",
+      "description": "Orion's belt and below. Symbolizes a spring-spear trap that can be used to kill land animals of any size, from as big as an elephant to as small as a porcupine.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON malay 002",
+      "names": [{"english": "Stingray", "native": "Pari"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
+      "certainty": "Lined as a stingray (rhombus), not as a cross. The description implies that the stingray also had a tail (in IAU Musca) but this is not identified any more.",
+      "description": "Used as a marker for the southern direction in the past. Current people only recognize this constellation as pointing towards the south in a general manner: they do not use the (missing) tail of this constellation as a more precise direction of the south.",
+      "semantics": ["fish"]
+    },
+    {
+      "id": "CON malay 003",
+      "names": [{"english": "Paddle Boat", "native": "Biduk"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* bet UMi"]],
+      "certainty": "",
+      "description": "Used to locate the north direction. The five stars that make up the long handles of both Big and Little Dipper are mapped out as the Biduk, a small paddle boat used for catching fish or ferrying goods on the river and coastal areas. Its keel allows it to cut across the waves, thus it is a sea-worthy vessel unlike other riverine vessels. This type of boat has a tall front, low back, and sometimes the paddler is standing. This may explain the shape of the figure.",
+      "semantics": ["man-made object"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "Seven Stars", "native": "Bintang Tujuh", "description": "Seen as a group of four stars forming the head of an unidentified creature and another three stars making up its tail. Both sea-farers and inland dwellers refer to this. The source suspects that this creature might be a stingray. Well-known among the Malays from a folktale about seven princesses who lived in fairyland and were contested by three different parties for their affections. The farmers would refer to the height, colours, and brightness of the Bintang Tujuh when choosing the best seeds for sowing."}, {"english": "Moment Star", "native": "Bintang Ketika"}, {"english": "Quail Star", "native": "Bintang Puyuh"}]
+  }
+}
