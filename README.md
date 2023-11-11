@@ -1,7 +1,7 @@
 # Constellation line figures in sky cultures across the world
 ## (a referenced dataset)
 
-An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable. The many scholarly sources are in file _sources.bib_.
+An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable (usually latinised Bayer ids). The many scholarly sources are in file _sources.bib_.
 
 The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes **culture metadata** and scholarly **sources**. The constellations are annotated with **names**, text on the degree of **certainty** in its identification, a **description** (usually about practical usage or mythological themes for the constellation in that culture), the **semantics** of the constellation, and pointers to any known related constellations.
 
@@ -16,6 +16,6 @@ Analyses of this data:
 
 -------------------
 
-The map of sky cultures below; the number in parentheses counts constellations with line figures.
+The map of sky cultures below. The number in parentheses counts constellations with line figures; the data files additionally contain names for individual stars, star clusters (such as the Pleiades), the Milky Way, and planets.
 
 ![culture_map_annotated](https://github.com/doinab/constellation-lines/assets/3672108/7def8b60-c4a2-48bb-87e0-c959176ef2de)

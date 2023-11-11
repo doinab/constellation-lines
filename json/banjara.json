@@ -1,0 +1,28 @@
+{
+  "id": "banjara",
+  "name": "Banjara",
+  "region": "Asia",
+  "subregion": "S Asia",
+  "period": "2013",
+  "place": "Seven Bajara villages (south of Nagpur, India): Dapora, Phulumari, Katarwadi, Kasola, Chinchkhed, Palaitanda, Nagrala",
+  "source": ["vahia2014banjaraskolam"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austroasia",
+  "description": "The Banjara are an ancient tribe mostly spread in Central and Western India (and connected genetically with the gypsies of Europe), speaking an Austro-Asiatic language. The population size is over 5 million. They are co-located with two other tribes: the Kolam and the Gonds, so these traditions are similar (the source [vahia2014banjaraskolam] provides a comparison). The primary profession of the Banjara used to be trade, with large-scale movement of goods over long distances. Their services were replaced by railways about one hundred years before this documentation. Since then, they have begun a settled, agricultural existence. Their astronomy is basic, and was not used for travel, not for predicting events. The sky objects identified vary between villages, with Saptarshi and the Pleiades the only almost universally recognised constellations among villages. Only one lined constellation (Saptarshi) has the stars identified. Three others are named but only their sky region is identified: Canis Major is called Medi and is a harvest-processing scene, a part of Orion is a deer called Halni, Halini or Harini, and a part of Taurus is a dove (called Kamedi).",
+  "constellations": [
+    {
+      "id": "CON banjara 001",
+      "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Saptarshi"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The lining of the 4-star polygon is certain, but it is less clear whether the remaining 3 stars (a procession of people) should be lined.",
+      "description": "Saptarshi is divided into the four stars of the polygon that form the death bed (called Jamakhat or Jamkhat or Yamakhat), with a procession of three people following the bed.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "Jewelry Worn on the Forehead", "native": "Shirser Jhumko, or Jhumko Tara", "description": "A piece of jewellery worn on the forehead that typically has many little metallic balls (generally silver) strung together like a bunch of grapes."}],
+    "NAME Milky Way": [{"english": "The Path of the Dead", "native": "Mardaar Wat", "description": "Upon dying, Banjaras walk along the Milky Way (the path of the dead) to reach the heavens. This is also the path where the person carried by Jamkhat travels (presumably to heaven)."}, {"english": "The Path of Animals", "native": "Pandi"}],
+    "NAME Venus": [{"english": "The Morning Star", "native": "Porya Tara", "certainty": "Identification not certain. This is any star that tells them that the day has just begun."}, {"english": "The Evening Star", "native": "Subtara, or Shubham (a good omen)", "certainty": "Identification not certain. This can be any star that tells them that the night has just begun, including Venus."}],
+    "* alf UMi": [{"english": "The Pole Star", "native": "Dhruv Tara", "description": "Used as a directional star, showing north."}]
+  }
+}
