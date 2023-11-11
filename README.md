@@ -14,3 +14,9 @@ Analyses of the data:
 The .json format is compatible with that of [Stellarium](https://github.com/Stellarium/stellarium-skycultures), such that the data can be reused there.
 
 (Work in progress.)
+
+-------------------
+
+The map of sky cultures below; the number in parentheses counts constellations with line figures.
+
+![culture_map_annotated](https://github.com/doinab/constellation-lines/assets/3672108/7def8b60-c4a2-48bb-87e0-c959176ef2de)
