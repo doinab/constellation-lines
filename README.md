@@ -5,7 +5,7 @@ An accessible, Creative-Commons-licenced, documented, and referenced dataset of 
 
 The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes **culture metadata** and scholarly **sources**. The constellations are annotated with **names**, text on the degree of **certainty** in its identification, a **description** (usually about practical usage or mythological themes for the constellation in that culture), the **semantics** of the constellation, and pointers to any known related constellations.
 
-The .json format is compatible with that of [Stellarium](https://github.com/Stellarium/stellarium-skycultures), such that the data can be reused there.
+The .json format is compatible with that of the [Stellarium app and Web versions](https://github.com/Stellarium/stellarium-skycultures), such that the data can be reused there.
 
 (Work in progress.)
 
