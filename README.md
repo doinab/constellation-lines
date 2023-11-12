@@ -1,5 +1,4 @@
-# Constellation line figures in sky cultures across the world
-## (a referenced dataset)
+## Constellation line figures in sky cultures across the world (a referenced dataset)
 
 An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable (usually latinised Bayer ids). The many scholarly sources are in file _sources.bib_.
 
