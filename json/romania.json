@@ -1,0 +1,314 @@
+{
+  "id": "romania",
+  "name": "Romania",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "period": "1907",
+  "place": "Villages throughout Romania",
+  "source": ["crtro", "otescu1907"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Mesopotamia",
+  "description": "This culture is the result of ethnographic collection between 1896 and 1907 (the time of writing of the original source, [otescu1907]). The documentation of these 39 constellations was done by village teachers speaking to elderly locals, using sky charts with the standard Western constellations already marked. Line figures were collected for all constellations except the Pleiades cluster. The English translation which is available for [otescu1907] retains the detailed explanations for the constellations, but does not retain the original charts: it instead draws a simplified modern version excluding some minor stars. For the line figures, the leading source is then [crtro] unless otherwise specified. [crtro] is a modern Romanian digital exhibition based on the same [otescu1907]; this has detailed, individually drawn line figures over modern sky charts. Two constellations in Tau are identical, but with different names and semantics. Many stories describing these constellations are local, related to historical, agricultural, and religious traditions in Romania. Others are preserved from the Greek traditions.",
+  "constellations": [
+    {
+      "id": "CON romania UMa",
+      "names": [{"english": "The Great Chariot", "native": "Carul Mare"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "This only includes the Big Dipper asterism, not the larger UMa.",
+      "description": "It is said that the Emperor Trajan transported the Dacian prisoners to Rome with the Great Chariot, and the Dacian captains with the Little Chariot. There is also a Romanian legend explaining that God made this chariot move backwards to humble the charioteer.",
+      "semantics": ["man-made object"],
+      "iau": "UMa"
+    },
+    {
+      "id": "CON romania C3i",
+      "names": [{"english": "The She-Goat with Three Kids", "native": "Capra cu trei iezi"}],
+      "lines": [["* alf Aur", "* eta Aur", "* eps Aur", "* zet Aur", "* eta Aur"]],
+      "certainty": "Despite the group semantic, the stars are indeed lined: the three fainter stars into a triangle, which is linked to alf Aur.",
+      "semantics": ["group"],
+      "iau": "Aur"
+    },
+    {
+      "id": "CON romania Csa",
+      "names": [{"english": "The Scythe", "native": "Coasa"}],
+      "lines": [["* gam Cep", "* bet Cep", "* alf Cep", "* mu. Cep", "* zet Cep", "* del Cep"]],
+      "certainty": "[crtro] uses an invisible star to create a naturalistic handle to the tool; this is not included here. Only stars identified in [otescu1907] are included.",
+      "description": "Traditional Romanian constellations that represent agricultural tools resemble (are naturalistic for) that tool.",
+      "semantics": ["man-made object"],
+      "iau": "Cep"
+    },
+    {
+      "id": "CON romania Tdz",
+      "names": [{"english": "God's Chair", "native": "Scaunul lui Dumnezeu"}, {"english": "The Monastery", "native": "Mănăstirea"}],
+      "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* kap Cas", "* bet Cas"], ["* del Cas", "* tet Cas"], ["* gam Cas", "* alf Cas"]],
+      "description": "The second name is because a monastery is also God's seat or chair. The names illustrate the religious component of the Romanian peasant view upon the sky.",
+      "semantics": ["man-made object"],
+      "iau": "Cas"
+    },
+    {
+      "id": "CON romania Hra",
+      "names": [{"english": "The Ring Dance", "native": "Hora"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* tet CrB"]],
+      "description": "Hora is a traditional Romanian folk dance, a symbol for the joy of life and for group membership, probably corresponding to an ancient ritual around the wheel of life.",
+      "semantics": ["group"],
+      "iau": "CrB"
+    },
+    {
+      "id": "CON romania Fap",
+      "names": [{"english": "The Emperor's Daughter with a Yoke", "native": "Fata de împarat cu cobilița"}, {"english": "God's Eagle", "native": "Vulturul Domnului"}],
+      "lines": [["* gam Aql", "* alf Aql", "* bet Aql"]],
+      "description": "Altair is the girl. The other two stars form a yoke that supports the pails in which she carries water in order to refresh the souls of the sinful dead in hell.",
+      "semantics": ["humanoid", "bird"],
+      "iau": "Aql"
+    },
+    {
+      "id": "CON romania Cio",
+      "names": [{"english": "The Shepherd with His Sheep", "native": "Ciobanul cu oile"}],
+      "lines": [["* alf Lyr", "* zet01 Lyr", "* del02 Lyr", "* gam Lyr", "* bet Lyr", "* zet01 Lyr"]],
+      "description": "Vega is the shepherd, and the four stars which seem to follow him, forming a quadrilateral, are the sheep.",
+      "semantics": ["group"],
+      "iau": "Lyr"
+    },
+    {
+      "id": "CON romania Jgb",
+      "names": [{"english": "The Well with a Drain", "native": "Puțul cu jgheab"}, {"english": "The Bell Board", "native": "Toaca"}],
+      "lines": [["* gam01 And", "* bet And", "* del And", "* alf And", "* bet Peg", "* alf Peg"], ["* alf And", "* gam Peg"]],
+      "description": "The alternative name The Bell Board is a religious ritual object of great significance for Orthodox Christians.",
+      "semantics": ["architecture", "man-made object"]
+    },
+    {
+      "id": "CON romania UMi",
+      "names": [{"english": "The Little Chariot", "native": "Carul mic"}],
+      "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi", "* zet UMi"]],
+      "description": "It is said that the Roman Emperor Trajan transported the Dacian prisoners to Rome with the Great Chariot, and the Dacian captains with the Little Chariot.",
+      "semantics": ["man-made object"],
+      "iau": "UMi"
+    },
+    {
+      "id": "CON romania Gem",
+      "names": [{"english": "The Brothers", "native": "Frații"}],
+      "lines": [["* alf Gem", "* bet Gem"]],
+      "certainty": "Only the two heads are documented in the text of [otescu1907], and on the chart in [crtro].",
+      "description": "The Romanians call these stars Romulus and Remus, reminiscent of the formation of Rome.",
+      "semantics": ["group"],
+      "iau": "Gem"
+    },
+    {
+      "id": "CON romania Pma",
+      "names": [{"english": "The Great Cross", "native": "Crucea mare"}],
+      "lines": [["* eps Cyg", "* gam Cyg", "* del Cyg"], ["* alf Cyg", "* gam Cyg", "* eta Cyg", "* bet Cyg A"]],
+      "certainty": "This line figure matches [crtro], so it does not include the end stars on the wings of modern Cyg.",
+      "description": "Romanian peasants recognized in the Cygnus constellation the huge cross on which Jesus Christ was crucified.",
+      "semantics": ["geometric"],
+      "iau": "Cyg"
+    },
+    {
+      "id": "CON romania Pmi",
+      "names": [{"english": "The Little Cross", "native": "Crucea mica"}],
+      "lines": [["* eps Del", "* bet Del", "* gam02 Del"], ["* del Del", "* alf Del"]],
+      "description": "This represents the beautifully adorned cross carried by the Orthodox priests from house to house at the beginning of the new year.",
+      "semantics": ["geometric"],
+      "iau": "Del"
+    },
+    {
+      "id": "CON romania Cap",
+      "names": [{"english": "The He-Goat", "native": "Țapul"}],
+      "lines": [["* del Cap", "* kap Cap", "* eps Cap", "* zet Cap", "* ome Cap", "* psi Cap", "* bet01 Cap", "* alf02 Cap", "* tet Cap", "* iot Cap", "* gam Cap", "* del Cap"]],
+      "certainty": "This includes alf02 Cap, which should be there according to both sources.",
+      "description": "In the Romanian peasant imagination, when lightning strikes this sky region, rainy weather will surely follow.",
+      "semantics": ["mammal"],
+      "iau": "Cap"
+    },
+    {
+      "id": "CON romania Rac",
+      "names": [{"english": "The Crayfish", "native": "Racul"}],
+      "lines": [["* alf Cnc", "* del Cnc", "* gam Cnc", "* iot Cnc"], ["* bet Cnc", "* del Cnc"]],
+      "description": "A legend of the peasants in Argeș county says that while Jesus was on the cross, his torturers wanted to stick a nail in his navel. A crayfish came out of nowhere and stole the nail, thus thwarting their plan. In gratitude, Jesus blessed the animal by placing it in the sky.",
+      "semantics": ["arthropod"],
+      "iau": "Cnc"
+    },
+    {
+      "id": "CON romania Cal",
+      "names": [{"english": "The Horse", "native": "Calul"}],
+      "lines": [["* alf Leo", "* tet Leo", "* bet Leo", "* del Leo", "* gam01 Leo", "* eta Leo", "* alf Leo"], ["* gam01 Leo", "* zet Leo", "* mu. Leo", "* eps Leo"]],
+      "semantics": ["mammal"],
+      "iau": "Leo"
+    },
+    {
+      "id": "CON romania Dra",
+      "names": [{"english": "The Dragon", "native": "Balaurul"}],
+      "lines": [["* ksi Dra", "* gam Dra", "* bet Dra", "* nu.02 Dra", "* ksi Dra", "* del Dra", "* eps Dra", "* tau Dra", "* chi Dra", "* zet Dra", "* eta Dra", "* tet Dra", "* iot Dra", "* alf Dra", "* kap Dra", "* lam Dra"]],
+      "description": "This dragon is not the usual snake, but the local Zmeu or Balaur: a fearsome character in Romanian folk tales and ballads, which fights with Prince Charming.",
+      "semantics": ["reptile"],
+      "iau": "Dra"
+    },
+    {
+      "id": "CON romania Crb",
+      "names": [{"english": "The Raven", "native": "Corbul"}],
+      "lines": [["* del Crv", "* gam Crv", "* eps Crv", "* alf Crv", "* bet Crv", "* del Crv"]],
+      "description": "In the Romanian peasant vision, the bird (together with The Dove) is linked to the tradition of Noah and the ark: the bird was sent to look for land after the flood.",
+      "semantics": ["bird"],
+      "iau": "Crv"
+    },
+    {
+      "id": "CON romania Cat",
+      "names": [{"english": "The Scales", "native": "Cântarul"}],
+      "lines": [["* sig Lib", "* gam Lib", "* bet Lib", "* alf02 Lib", "* sig Lib"]],
+      "description": "In Romanian tales about the sky and stars, these are the scales used by Christ to weigh the sins of the people.",
+      "semantics": ["man-made object"],
+      "iau": "Lib"
+    },
+    {
+      "id": "CON romania Vir",
+      "names": [{"english": "The Virgin", "native": "Fecioara"}],
+      "lines": [["* alf Vir", "* gam Vir", "* eta Vir", "* bet Vir", "* nu. Vir", "* pi. Vir", "* omi Vir"], ["* gam Vir", "* del Vir", "* zet Vir", "* alf Vir"], ["HD 132833", "*  11 Lib", "* 109 Vir", "HD 132525", "*  31 Boo", "* tau Vir", "* zet Vir"], ["* del Vir", "* eps Vir"]],
+      "certainty": "The shape of this line figure doesn't follow the IAU Vir lines, but is consistent in the Romanian sources.",
+      "description": "The constellation is associated with the Virgin Mary. Spica is her heart.",
+      "semantics": ["humanoid"],
+      "iau": "Vir"
+    },
+    {
+      "id": "CON romania Psc",
+      "names": [{"english": "The Carp", "native": "Crapii"}],
+      "lines": [["* bet Psc", "* gam Psc", "* kap Psc", "* lam Psc", "* ome Psc", "* del Psc", "* eps Psc", "* zet Psc A", "* mu. Psc", "* nu. Psc", "* ksi Psc", "* alf Psc", "* omi Psc", "* eta Psc", "* chi Psc", "*  74 Psc A", "* tau Psc", "* ups Psc", "* phi Psc", "* chi Psc"], ["* bet Psc", "* tet Psc", "* iot Psc", "* ome Psc"]],
+      "certainty": "The chart at [crtro] for this constellation is incorrect (it shows a different constellation). This line figure is then from [otescu1907].",
+      "description": "These are the two fish that Jesus fed to thousands of people.",
+      "semantics": ["fish"],
+      "iau": "Psc"
+    },
+    {
+      "id": "CON romania Ber",
+      "names": [{"english": "The Ram", "native": "Berbecul"}],
+      "lines": [["* gam01 Ari", "* bet Ari", "* alf Ari", "*  41 Ari", "* eps Ari", "* del Ari"], ["* eps Ari", "* zet Ari"]],
+      "description": "Only the horns of the animal are seen.",
+      "semantics": ["mammal", "body part"],
+      "iau": "Ari"
+    },
+    {
+      "id": "CON romania Cma",
+      "names": [{"english": "The Mastiff", "native": "Dulăul"}],
+      "lines": [["* alf CMa", "* bet CMa", "* zet CMa", "* eps CMa", "* sig CMa", "* eta CMa"], ["* eps CMa", "* alf CMa"]],
+      "semantics": ["mammal"],
+      "iau": "CMa"
+    },
+    {
+      "id": "CON romania Ctl",
+      "names": [{"english": "The Little Dog", "native": "Cățelul"}],
+      "lines": [["* alf CMi", "* bet CMi"]],
+      "semantics": ["mammal"],
+      "iau": "CMi"
+    },
+    {
+      "id": "CON romania Vca",
+      "names": [{"english": "The Herdsman", "native": "Văcarul"}],
+      "lines": [["* ups Boo", "* eta Boo", "* zet Boo", "* omi Boo", "* eps Boo", "* del Boo", "* bet Boo", "* gam Boo", "* rho Boo", "* eps Boo", "* eta Boo", "* tau Boo"], ["* del Boo", "* mu.01 Boo", "* nu.02 Boo"], ["* gam Boo", "* lam Boo", "* kap02 Boo"], ["* tet Boo", "* lam Boo"]],
+      "certainty": "Note that alf Boo is not linked in, unlike in IAU Boo.",
+      "description": "It is said to take care of the seven oxes identified in the brightest stars of Ursa Major.",
+      "semantics": ["humanoid"],
+      "iau": "Boo"
+    },
+    {
+      "id": "CON romania Prb",
+      "names": [{"english": "The Turtle Dove", "native": "Porumbița"}],
+      "lines": [["* gam Col", "* kap Col"], ["* alf Col", "* gam Col", "* bet Col", "* eps Col"]],
+      "certainty": "Matches [otescu1907] instead of [crtro] (the shape is the same, but [otescu1907] uses bigger stars).",
+      "description": "In the Romanian peasant vision, the bird (together with The Raven) is linked to the tradition of Noah and the ark: the bird was sent to look for land after the flood.",
+      "semantics": ["bird"],
+      "iau": "Col"
+    },
+    {
+      "id": "CON romania Var",
+      "names": [{"english": "He Who Pours Out the Water", "native": "Vărsătorul"}],
+      "lines": [["* k Aqr", "* eps Aqr", "* mu. Aqr", "* bet Aqr", "* alf Aqr", "* gam Aqr", "* zet01 Aqr", "* pi. Aqr"], ["* eta Aqr", "* zet01 Aqr"], ["* gam Aqr", "* lam Aqr", "* chi Aqr", "* psi02 Aqr", "HD 223807", "HD 223774", "* 104 Aqr", "* b01 Aqr", "* del Aqr", "* tau Aqr", "* iot Aqr", "* bet Aqr"], ["* gam Aqr", "* rho Aqr", "* iot Aqr"], ["* i03 Aqr", "* i02 Aqr A", "* 104 Aqr"]],
+      "certainty": "Matches the shape in [otescu1907], so is entirely connected.",
+      "semantics": ["humanoid"],
+      "iau": "Aqr"
+    },
+    {
+      "id": "CON romania Chi",
+      "names": [{"english": "The Whale", "native": "Chitul"}],
+      "lines": [["* ksi01 Cet", "* ksi02 Cet", "* mu. Cet", "* lam Cet", "* alf Cet", "* gam Cet", "* nu. Cet", "* ksi02 Cet"], ["* gam Cet", "* del Cet", "*  67 Cet", "* zet Cet", "* rho Cet", "* eps Cet", "* pi. Cet", "* sig Cet", "* rho Cet"], ["* zet Cet", "* tet Cet", "* eta Cet", "* tau Cet", "* zet Cet"], ["V* BK Cet", "* tau Cet"], ["* eta Cet", "* bet Cet", "* iot Cet"]],
+      "semantics": ["fish"],
+      "iau": "Cet"
+    },
+    {
+      "id": "CON romania Rar",
+      "names": [{"english": "The Little Plough", "native": "Rarița"}],
+      "lines": [["* gam Ori", "* del Ori", "* eps Ori", "* zet Ori", "* kap Ori", "* bet Ori", "* del Ori"]],
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON romania Sec",
+      "names": [{"english": "The Sickle", "native": "Secera"}],
+      "lines": [["* c Ori", "* tet02 Ori A", "HD  36960", "* ups Ori", "* e Ori", "* tau Ori"]],
+      "certainty": "Excludes the 7th, faint star in Orion's sword at one end of the sickle, which is called for in the sources but not clearly identifiable. It may be meant to be a star cluster in that region.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON romania Sfm",
+      "names": [{"english": "The Great Auger", "native": "Sfredelul mare"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"], ["* bet Ori", "* eps Ori"]],
+      "description": "The tip of the auger is Betelgeuse, facing Pollux, star associated by Romanians with a treasure. The peasants believed that when the end of the world is near, the auger will pierce the treasure, releasing gold and solver brightness, but drying the world of water.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON romania Tau",
+      "names": [{"english": "The Bull", "native": "Taurul"}, {"english": "The Boars", "native": "Vierii"}],
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* alf Tau"]],
+      "certainty": "The triangle is closed, as shown in the sources. It represents only the head of the bull.",
+      "semantics": ["mammal", "body part"],
+      "iau": "Tau"
+    },
+    {
+      "id": "CON romania Omu",
+      "names": [{"english": "The Man", "native": "Omul"}],
+      "lines": [["* tau Her", "* sig Her", "* eta Her", "* pi. Her", "* e Her", "* rho Her", "* tet Her", "* iot Her"], ["* eta Her", "* zet Her", "* eps Her", "* pi. Her"], ["* zet Her", "* bet Her", "* gam Her"], ["* eps Her", "* lam Her", "* mu. Her", "* ksi Her", "* omi Her", "* 100 Her B", "V* V831 Her"]],
+      "description": "Associated with a hero (Prince Charming) who had to fight in the sky with the Balaur or Dragon constellation, and with the devil.",
+      "semantics": ["humanoid"],
+      "iau": "Her"
+    },
+    {
+      "id": "CON romania Sar",
+      "names": [{"english": "The Serpent", "native": "Șarpele"}, {"english": "The Road of the Lost Men", "native": "Calea Rătăciților"}],
+      "lines": [["* pi. Ser", "* rho Ser", "* iot Ser", "* kap Ser", "* gam Ser", "* bet Ser", "* kap Ser", "* rho Ser"], ["* bet Ser", "* del Ser", "* alf Ser", "* eps Ser", "* del Oph", "* eps Oph", "* zet Oph", "* eta Oph", "* c Oph", "* ksi Ser", "* nu. Oph", "* eta Ser", "* tet01 Ser", "*  72 Oph", "* alf Oph", "* kap Oph", "* lam Oph", "* del Oph"], ["* alf Oph", "* bet Oph", "* sig Oph"], ["* bet Oph", "* gam Oph", "*  67 Oph", "*  68 Oph", "*  70 Oph"], ["*  66 Oph", "*  67 Oph"]],
+      "description": "Identified with the serpent who tempted Eve. Another name for this constellation is the Road of the Lost Men, on which the sinners will wander, bewildered at the second coming of Christ.",
+      "semantics": ["reptile", "landscape"]
+    },
+    {
+      "id": "CON romania Sco",
+      "names": [{"english": "The Scorpion", "native": "Scorpia"}],
+      "lines": [["* f Lup", "* ups Lib", "* tau Lib", "* rho Sco", "* pi. Sco", "* del Sco", "* bet01 Sco"], ["* del Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco"]],
+      "description": "For Romanian peasants, who didn't know much about scorpions, this constellation represents Scorpia, a female-gendered fearsome monster with big, dangerous claws, thirsty for blood, who was thrown by the devil in front of the daring human who was trying to reach God [crtro].",
+      "semantics": ["arthropod"],
+      "iau": "Sco"
+    },
+    {
+      "id": "CON romania Bar",
+      "names": [{"english": "The Axe", "native": "Barda"}, {"english": "The Devil's Chariot", "native": "Carul Dracului"}],
+      "lines": [["* zet Per", "* ksi Per", "* eps Per", "* omi Per", "* zet Per"], ["* eps Per", "* alf Per", "* gam Per", "* eta Per", "* tau Per", "* tet Per", "* iot Per", "* alf Per", "* kap Per", "* bet Per", "* rho Per"], ["*  16 Per", "* bet Per"]],
+      "description": "In a Romanian sky legend, the axe is used by a charioteer to smash the head of a dead person which was thrown in front of him by the devil. The alternative name (Devil's Chariot) links to beliefs that this chariot used to transport the soil of the sinners to hell.",
+      "semantics": ["man-made object"],
+      "iau": "Per"
+    },
+    {
+      "id": "CON romania Arc",
+      "names": [{"english": "The Archer", "native": "Arcașul"}],
+      "lines": [["* phi Sgr", "* eps Sgr", "* del Sgr", "* lam Sgr", "* phi Sgr", "* sig Sgr"], ["* lam Sgr", "*  28 Sgr", "* ksi02 Sgr", "* omi Sgr", "* pi. Sgr", "* d Sgr", "* rho01 Sgr"]],
+      "description": "In Romanian traditions, the archer is seen as a Roman soldier.",
+      "semantics": ["humanoid"],
+      "iau": "Sgr"
+    },
+    {
+      "id": "CON romania Trf",
+      "names": [{"english": "The Three Saints", "native": "Trisfetițele"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
+      "description": "In Romanian traditions, the saints are the so-called hierarchs: Vasile, Grigore, Ioan. Other documented names include The Three Kings (from the East), The Three Magi. Other local names recall a belt and sword, as in Western tradition.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "The Hatching Hen with Her Chicks", "native": "Cloșca cu pui"}],
+    "* alf UMi": [{"native": "Candela Cerului", "english": "The Candle of the Sky"}],
+    "* alf Vir": [{"native": "Inima Fecioarei", "english": "The Heart of the Virgin Mary"}],
+    "* alf CMa": [{"native": "Zorilă"}, {"native": "Luceafărul din zori"}]
+  }
+}
