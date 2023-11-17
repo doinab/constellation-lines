@@ -75,7 +75,7 @@
     },
     {
       "id": "CON bugis 011",
-      "names": [{"english": "Job’s Tears Stalk", "native": "Watang-mpata"}, {"native": "Batang-bata"}],
+      "names": [{"english": "Job's Tears Stalk", "native": "Watang-mpata"}, {"native": "Batang-bata"}],
       "lines": [["* alf Leo", "* bet Leo"]],
       "semantics": ["man-made object"]
     },
