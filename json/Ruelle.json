@@ -145,6 +145,7 @@
       "names": [{"english": "Pegasus (eq)", "native": "Pégase (eq)"}],
       "lines": [["* alf And", "* bet Peg", "* alf Peg", "* gam Peg", "* alf And", "*  42 Peg", "* eps Peg", "* eta Peg", "* bet Peg"], ["* eps Peg", "*   1 Peg", "* kap Peg", "* iot Peg", "* lam Peg", "* mu. Peg", "* eta Peg", "* iot Peg"]],
       "certainty": "It is not clear what is the demarcation between Pegasus and Andromeda by the chart alone.",
+      "variant_of": ["CON Ruelle Peg"],
       "semantics": ["mammal"]
     },
     {
@@ -306,6 +307,7 @@
       "names": [{"english": "Sagittarius (eq)", "native": "Le Sagittaire (eq)"}],
       "lines": [["* eps Sgr", "* gam02 Sgr", "* del Sgr", "* eps Sgr", "* zet Sgr", "* del Sgr"], ["* zet Sgr", "* sig Sgr", "* del Sgr", "* lam Sgr", "* mu. Sgr", "* pi. Sgr", "* omi Sgr", "* tau Sgr", "* zet Sgr"]],
       "certainty": "The choice of tau Sgr doesn't suit the location well (two lines don't intersect any more), but there's no other candidate star. Variant may be slightly partial.",
+      "variant_of": ["CON Ruelle Sgr"],
       "semantics": ["humanoid", "mammal"]
     },
     {
@@ -371,6 +373,7 @@
       "id": "CON Ruelle CMa_eq",
       "names": [{"english": "Canis Major (eq)", "native": "Le Grand Chien (eq)"}],
       "lines": [["* bet CMa", "* alf CMa", "* gam CMa", "* tet CMa", "* iot CMa", "* gam CMa"], ["* zet CMa", "* eps CMa", "* del CMa"], ["* eta CMa", "* del CMa", "* alf CMa"]],
+      "variant_of": ["CON Ruelle CMa"],
       "semantics": ["mammal"]
     },
     {
@@ -437,6 +440,7 @@
       "names": [{"english": "Eridanus (eq)", "native": "L'Éridan (eq)"}],
       "lines": [["* bet Eri", "* mu. Eri", "* nu. Eri", "*  47 Eri", "* bet Eri"], ["* nu. Eri", "* ksi Eri", "* omi02 Eri", "* gam Eri", "* omi01 Eri", "* omi02 Eri"], ["* gam Eri", "* pi. Eri", "* del Eri", "* eps Eri", "* zet Eri", "* rho03 Eri", "* eta Eri", "* zet Eri"], ["* ksi Eri", "* l Eri", "*  54 Eri", "* ups02 Eri", "* ups01 Eri", "* tau06 Eri", "* tau05 Eri", "* tau04 Eri", "* alf For", "* tau03 Eri", "* tau02 Eri", "* tau01 Eri"]],
       "certainty": "This equatorial variant is partial.",
+      "variant_of": ["CON Ruelle Eri"],
       "semantics": ["landscape"]
     },
     {
