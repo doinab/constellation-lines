@@ -1,0 +1,105 @@
+{
+  "id": "gond",
+  "name": "Gond",
+  "region": "Asia",
+  "subregion": "S Asia",
+  "period": "2011-2012",
+  "place": "15 Gond villages around the Nagpur region in the states of Maharashtra, Andhra Pradesh and Madhya Pradesh (India): Karambi, Nimni, Matharjun, Kesalapur, Kharmat, Wamanpalli, Khadaki, Yelodi, Zashinagar, Mohagaon, Kaweli, Chalisbodi, Kopariya, Sailakota, Lodha",
+  "source": ["vahia2013gond", "vahia2014banjaraskolam"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austroasia",
+  "description": "The Gond are one of the most ancient Indian tribes, dated to AD 890, but with roots going back to a pre-Dravidian arrival in south India around 2000 BC. Genetically they are a mix of Dravidian and Austro-Asian populations. The population size is 4-5 million in central India, with the core in the Kalahadi region of Orissa, and are co-located with the Kolam and Banjara tribes, so these traditions are similar (the source [vahia2014banjaraskolam] provides a comparison). They have farming traditions. They used astronomy for various purposes, from daily and annual time-keeping to projecting their life in the skies, and cosmogony; they have not used it for navigation. The source [vahia2013gond] identifies and names the stars on star charts, but the line figures on the same chart are Western, so are uncertain. General Gond names for stars are: Sukum, Sukir, Huko, Tara, or the adjective Lagni (bright). There are ten lined constellations, one star group, and names for Polaris, the Pleiades, the Milky Way, and Venus. Only the latter three, and the sky regions UMa and Ori are recognised in most villages.",
+  "constellations": [
+    {
+      "id": "CON gond 001",
+      "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Saptarshi"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The lining of the three thieves is uncertain; since they are named not as individuals, but as a group, they are lined together.",
+      "description": "The 4 stars are Katul, a cot with four legs made of precious metals: gold, silver, inferior silver and copper. The last 3 stars are called Kalher or Kalir and represent three thieves who want to steal the cot when the old lady falls asleep. Hence the old lady never sleeps, indicating that the constellation never sets. Saptarshi is the primary reference point from which all constellations are located.",
+      "semantics": ["group", "man-made object"]
+    },
+    {
+      "id": "CON gond 003",
+      "names": [{"english": "Three Stars", "native": "Tipan"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "The lining is not certain. Tipan means plough in a newer source [vahia2014banjaraskolam] (Tipan or Trivpate are the same name in the co-located Kolam culture, denoting a plough) but is not called a plough in the primary Gond source [vahia2013gond]. The stars are joined into a chain here, like for the Kolam constellation CON kolam 003.",
+      "semantics": ["group", "man-made object"]
+    },
+    {
+      "id": "CON gond 004",
+      "names": [{"english": "Plough", "native": "Naagarda"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"], ["* eps Ori", "* iot Ori", "* tet01 Ori C", "* c Ori"]],
+      "certainty": "Identified in only one village. The lining between the belt and the sword is not specified; they are linked here into a T, which matches the plough shape.",
+      "description": "It references farming activities.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON gond 008",
+      "names": [{"english": "Mahua Tree", "native": "Mahua"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"], ["* alf Cen A", "* alf Cen A"], ["* bet Cen", "* bet Cen"]],
+      "certainty": "Uncertain: only identified in one village, although the source [vahia2013gond] draws it explicitly on a star chart.",
+      "description": "Besides the tree itself, alf Cen and bet Cen are old ladies (included, unconnected by lines), and other neighbouring small stars are seeds of Mahua --- the latter are not included.",
+      "semantics": ["plant", "group"]
+    },
+    {
+      "id": "CON gond 009",
+      "names": [{"english": "Sea", "native": "Samdur"}],
+      "lines": [["* bet Tau", "* iot Aur", "* alf Aur", "* bet Aur", "* bet Tau"]],
+      "certainty": "It is remembered in three villages. It is probably, but not certainly, Auriga (in one village it may be in Sagittarius).",
+      "description": "A group of four stars in the shape of a quadrilateral.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON gond 012",
+      "names": [{"english": "Dead Body", "native": "Murda"}],
+      "lines": [["* alf Leo", "* eta Leo", "* gam01 Leo"], ["* del Leo", "* eta Leo", "* tet Leo"]],
+      "certainty": "Detailed identification of the stars and their role in the constellation, although this constellation is identified in only one village. Lines are not drawn by the source; here, they follow the description of the body part, forming a realistic stick figure.",
+      "description": "The body of a dead person with the head at eta Leo, one hand in Algieba, and the other in Regulus. The legs are del Leo and tet Leo.",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON gond 013",
+      "names": [{"english": "Funeral Procession", "native": "Murda"}],
+      "lines": [["*  31 Leo", "* alf Leo", "* eta Leo", "* gam01 Leo", "* zet Leo"], ["*  72 Leo", "* del Leo", "* eta Leo", "* tet Leo", "* iot Leo"], ["* bet Leo", "* bet Leo"], ["* mu. Leo", "* mu. Leo"], ["* kap Leo", "* kap Leo"], ["* lam Leo", "* lam Leo"], ["* eps Leo", "* eps Leo"]],
+      "certainty": "Detailed identification of the stars and their role in the constellation, although this constellation is identified in only one village. Lines are not drawn by the source; here, they follow the description of the body part, forming a realistic stick figure.",
+      "description": "The body of a dead person (CON gond 012) supported by single stars: 4 pall bearers in Leo (at the extremities of the body), 4 unconnected criers in Leo, 1 unconnected carrier of funeral fire in Leo, and stars in Virgo (unspecified, so not included) which form the funeral procession. The procession moves from west to east. The Gond identify not only the body, but also the complete funeral procession of stars in order: Duf (the drum bearer), Shika (the procession leader), Murda (the dead body) and a group of 4 Ladavya (weeping women). This star combination is to the north (east?) of Scorpius (whose bite causes the Murda) and extends across the sky.",
+      "semantics": ["humanoid", "group"]
+    },
+    {
+      "id": "CON gond 014",
+      "names": [{"english": "Grain Grinding Circles", "native": "Khala"}],
+      "lines": [["* eps Sco", "* mu.01 Sco", "* zet02 Sco", "* eta Sco", "* tet Sco", "* iot01 Sco", "* G Sco"], ["* lam Sco", "* lam Sco"]],
+      "certainty": "Identified in only one village. Not drawn by the authors, only described in words.",
+      "description": "The tail of Sco: a bright star in the centre of a circular pattern, with faint stars surrounding it. It represents the animal-powered large grinding circles used in villages. The centre is disconnected, and the circle is only an arc.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON gond 015",
+      "names": [{"english": "Scorpion", "native": "Michu"}, {"english": "Scorpion", "native": "Vinchu"}],
+      "lines": [["* lam Sco", "* ups Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* eta Sco", "* zet02 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* sig Sco", "* c02 Sco", "* rho Sco", "* pi. Sco"], ["* sig Sco", "* nu. Sco", "* bet01 Sco", "* del Sco"]],
+      "certainty": "Lining uncertain; the authors describe is as the same as the modern constellation of Scorpius. This line figure is the most naturalistic: H. A. Rey's, without the faintest two stars.",
+      "description": "Michu is responsible for producing the dead body, Murda (CON gond 012).",
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON gond 016",
+      "names": [{"english": "Tool for Churning Butter", "native": "Masak"}, {"english": "Vessel to Make Buttermilk", "native": "Koropadera"}],
+      "lines": [["* gam Gru", "* lam Gru", "* del01 Gru", "* bet Gru", "* alf Gru", "* eps Gru", "* zet Gru", "* iot Gru", "* bet Gru"]],
+      "certainty": "Identified in only one village. Lining is not drawn but the stars and their role in the figure are identified; this line figure follows this semantic (a vessel with a stick-like tool inside).",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON gond 017",
+      "names": [{"english": "Bird and Eggs", "native": "Purad and Mes"}],
+      "lines": [["* alf CMa", "* alf CMa"], ["* del CMa", "* del CMa"], ["* eps CMa", "* eps CMa"]],
+      "description": "The myth of Purad (a bird) with Mes (two eggs) was recorded in one village: Orion throws a stone which will hit the bird, so that he can steal the eggs.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"native": "Dhor Sari", "description": "The great path of animal migration."}, {"native": "Rasta"}, {"native": "Sagur"}, {"native": "Murana Sagur"}, {"native": "Marg"}, {"native": "Pandhan"}, {"native": "Hari", "english": "The Road"}],
+    "NAME Pleiades": [{"native": "Mogari"}, {"native": "Mongari"}, {"native": "Kutpari"}, {"native": "Thengari"}, {"native": "Mundari"}],
+    "NAME Venus": [{"english": "Dinner Star", "native": "Jevan Tara"}, {"english": "Star of Early Morning", "native": "Pahat Sukom"}, {"native": "Dohan Chandani", "description": "Indicates the time to milk the cow."}],
+    "* alf UMi": [{"native": "Dhruva Tara", "description": "Reported in three villages, using a Sanskrit name, which suggests that it is a later addition."}, {"native": "Mout Tara", "english": "The Umbilical Star"}]
+  }
+}
