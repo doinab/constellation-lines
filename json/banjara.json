@@ -14,9 +14,9 @@
       "id": "CON banjara 001",
       "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Saptarshi"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
-      "certainty": "The lining of the 4-star polygon is certain, but it is less clear whether the remaining 3 stars (a procession of people) should be lined.",
+      "certainty": "The lining of the 4-star polygon is certain, but it is less clear whether the remaining 3 stars (a procession of people) should be lined. There are alternative semantics, since this is a group scene (two objects: a cot and a procession of three humans).",
       "description": "Saptarshi is divided into the four stars of the polygon that form the death bed (called Jamakhat or Jamkhat or Yamakhat), with a procession of three people following the bed.",
-      "semantics": ["group"]
+      "semantics": ["group", "man-made object"]
     }
   ],
   "common_names": {

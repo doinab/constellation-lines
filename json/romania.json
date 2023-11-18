@@ -309,6 +309,10 @@
     "NAME Pleiades": [{"english": "The Hatching Hen with Her Chicks", "native": "Cloșca cu pui"}],
     "* alf UMi": [{"native": "Candela Cerului", "english": "The Candle of the Sky"}],
     "* alf Vir": [{"native": "Inima Fecioarei", "english": "The Heart of the Virgin Mary"}],
-    "* alf CMa": [{"native": "Zorilă"}, {"native": "Luceafărul din zori"}]
+    "* alf CMa": [{"native": "Zorilă"}, {"native": "Luceafărul din zori"}],
+    "* alf Tau": [{"native": "Luceafărul Porcesc", "english": "The Bright Star of the Pig", "description": "When it rises, the swine wake and grunt, signalling that the day is approaching."}, {"native": "Deșteptătorul", "english": "The Alarm Clock", "description": "When it rises, the cockerels begin crowing."}],
+    "* alf Gem": [{"native": "Romulus"}], 
+    "* bet Gem": [{"native": "Remus"}],
+    "* alf Lyr": [{"english": "The Shepherd", "native": "Ciobanul"}]
   }
 }
