@@ -1,8 +1,8 @@
 ## Constellation line figures in sky cultures across the world (a referenced dataset)
 
-An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable (usually latinised Bayer ids). The many scholarly sources are in file _sources.bib_.
+An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable (usually latinised Bayer ids). The scholarly sources are in file _sources.bib_.
 
-The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes **culture metadata** and scholarly **sources**. The constellations are annotated with **names**, text on the degree of **certainty** in its identification, a **description** (usually about practical usage or mythological themes for the constellation in that culture), the **semantics** of the constellation, and pointers to any known related constellations.
+The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes **culture metadata** and scholarly **sources**. The constellations are annotated with **names**, text on the degree of **certainty** in its identification, a **description** (usually about practical usage or mythological themes for the constellation in that culture), the **semantics** of the constellation, and pointers to any variant or related constellations. The sky charts show only the lined constellations.
 
 The .json format is compatible with that of the [Stellarium app and Web versions](https://github.com/Stellarium/stellarium-skycultures), such that the data can be reused there.
 
