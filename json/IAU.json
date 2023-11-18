@@ -7,610 +7,610 @@
   "source": ["IAU"],
   "licence": "CC BY-SA",
   "phylogeny": "Mesopotamia",
-  "description": "48 of the 88 IAU constellations are consolidated by ancient Greeks from the originals of the ancient Babylonian, Egyptian and Assyrian. These were recorded in Ptolemy’s Almagest. Between 16th-17th c. AD, European astronomers added new discoveries made by the Europeans who explored the southern hemisphere. Eugène Delporte originally listed the 88 modern constellations on behalf of the IAU Commission 3 (Astronomical Notations), in 'Délimitation scientifique des constellations' (Delporte, 1930). In star maps it is common to mark line figures. However, the IAU defines a constellation by its boundary (in sky coordinates). Alan MacRobert's constellation patterns, drawn in green in the [iau.org] charts, were influenced by those of H. A. Rey (1952), but in many cases were adjusted to preserve earlier traditions. Constellations Mic and Men are not listed here: they don't have either main stars or lines marked on [iau.org]. Exceptionally, the Latin constellation names also form the English gloss, since they are in common use in English, and a translation would be less precise.",
+  "description": "48 of the 88 IAU constellations are consolidated by ancient Greeks from the originals of the ancient Babylonian, Egyptian and Assyrian. These were recorded in Ptolemy’s Almagest. Between 16th-17th c. AD, European astronomers added new discoveries made by the Europeans who explored the southern hemisphere. Eugène Delporte originally listed the 88 modern constellations on behalf of the IAU Commission 3 (Astronomical Notations), in 'Délimitation scientifique des constellations' (Delporte, 1930). In star maps it is common to mark line figures. However, the IAU defines a constellation by its boundary (in sky coordinates). Alan MacRobert's constellation patterns, drawn in green in the charts on the IAU website, were influenced by those of H. A. Rey (1952), but in many cases were adjusted to preserve earlier traditions. Constellations Mic and Men are not listed here: they don't have main stars nor lines marked. Exceptionally, the Latin constellation names also form the English gloss, since they are in common use in English, and a translation would be less precise.",
   "constellations": [
     {
-      "id": "CON iau And",
+      "id": "CON IAU And",
       "names": [{"english": "Andromeda", "native": "Andromeda"}],
       "lines": [["* alf And", "* del And", "* bet And", "* gam01 And"], ["* omi And", "* iot And", "* kap And", "* lam And"], ["* iot And", "* sig And", "* pi. And", "* del And"], ["* pi. And", "* bet And", "* mu. And", "* nu. And", "* phi And", "* ups Per"], ["* del And", "* eps And", "* zet And", "* eta And"]],
       "semantics": ["humanoid"],
-      "iau": "And"
+      "IAU": "And"
     },
     {
-      "id": "CON iau Ant",
+      "id": "CON IAU Ant",
       "names": [{"english": "Antlia", "native": "Antlia"}],
       "lines": [["* iot Ant", "* alf Ant", "* eps Ant"]],
       "semantics": ["man-made object"],
-      "iau": "Ant"
+      "IAU": "Ant"
     },
     {
-      "id": "CON iau Aps",
+      "id": "CON IAU Aps",
       "names": [{"english": "Apus", "native": "Apus"}],
       "lines": [["* alf Aps", "* gam Aps"], ["* del01 Aps", "* bet Aps", "* gam Aps"]],
       "semantics": ["bird"],
-      "iau": "Aps"
+      "IAU": "Aps"
     },
     {
-      "id": "CON iau Aql",
+      "id": "CON IAU Aql",
       "names": [{"english": "Aquila", "native": "Aquila"}],
       "lines": [["* bet Aql", "* alf Aql", "* gam Aql", "* del Aql", "* lam Aql"], ["* del Aql", "* zet Aql"], ["* del Aql", "* eta Aql", "* tet Aql"], ["* eps Aql", "* zet Aql"], ["* lam Aql", "* i Aql"], ["* tet Aql", "* iot Aql", "* lam Aql", "* zet Aql"]],
       "semantics": ["bird"],
-      "iau": "Aql"
+      "IAU": "Aql"
     },
     {
-      "id": "CON iau Aqr",
+      "id": "CON IAU Aqr",
       "names": [{"english": "Aquarius", "native": "Aquarius"}],
       "lines": [["* eps Aqr", "* bet Aqr", "* alf Aqr", "* gam Aqr", "* zet01 Aqr", "* eta Aqr"], ["* zet01 Aqr", "* pi. Aqr", "* alf Aqr"], ["* iot Aqr", "* bet Aqr"], ["* alf Aqr", "* tet Aqr", "* lam Aqr", "* phi Aqr", "* psi02 Aqr", "* b01 Aqr"], ["* psi02 Aqr", "* c02 Aqr"], ["* psi02 Aqr", "* del Aqr", "* tau Aqr", "* lam Aqr"]],
       "semantics": ["humanoid"],
-      "iau": "Aqr"
+      "IAU": "Aqr"
     },
     {
-      "id": "CON iau Ara",
+      "id": "CON IAU Ara",
       "names": [{"english": "Ara", "native": "Ara"}],
       "lines": [["* gam Ara", "* del Ara", "* eta Ara", "* zet Ara", "* eps01 Ara", "* alf Ara", "* tet Ara"], ["* alf Ara", "* bet Ara"]],
       "semantics": ["man-made object"],
-      "iau": "Ara"
+      "IAU": "Ara"
     },
     {
-      "id": "CON iau Ari",
+      "id": "CON IAU Ari",
       "names": [{"english": "Aries", "native": "Aries"}],
       "lines": [["* gam01 Ari", "* bet Ari", "* alf Ari", "*  41 Ari"]],
       "semantics": ["mammal"],
-      "iau": "Ari"
+      "IAU": "Ari"
     },
     {
-      "id": "CON iau Aur",
+      "id": "CON IAU Aur",
       "names": [{"english": "Auriga", "native": "Auriga"}],
       "lines": [["* bet Tau", "* iot Aur", "* eta Aur", "* alf Aur", "* bet Aur", "* tet Aur", "* bet Tau"], ["* eta Aur", "* zet Aur", "* eps Aur", "* alf Aur", "* del Aur", "* bet Aur"]],
       "semantics": ["humanoid"],
-      "iau": "Aur"
+      "IAU": "Aur"
     },
     {
-      "id": "CON iau Boo",
+      "id": "CON IAU Boo",
       "names": [{"english": "Bootes", "native": "Bootes"}],
       "lines": [["* alf Boo", "* eps Boo", "* del Boo", "* bet Boo", "* gam Boo", "* rho Boo", "* alf Boo", "* eta Boo", "* tau Boo"], ["* alf Boo", "* zet Boo"], ["* gam Boo", "* lam Boo", "* tet Boo", "* kap02 Boo", "* lam Boo"]],
       "semantics": ["humanoid"],
-      "iau": "Boo"
+      "IAU": "Boo"
     },
     {
-      "id": "CON iau Cae",
+      "id": "CON IAU Cae",
       "names": [{"english": "Caelum", "native": "Caelum"}],
       "lines": [["* gam Cae", "* bet Cae", "* alf Cae", "* del Cae"]],
       "semantics": ["man-made object"],
-      "iau": "Cae"
+      "IAU": "Cae"
     },
     {
-      "id": "CON iau Cam",
+      "id": "CON IAU Cam",
       "names": [{"english": "Camelopardalis", "native": "Camelopardalis"}],
       "lines": [["*   7 Cam", "* bet Cam", "* alf Cam", "HD  42818", "HD  49878"], ["* alf Cam", "* gam Cam", "V* BE Cam", "HD  21291"]],
       "semantics": ["mammal"],
-      "iau": "Cam"
+      "IAU": "Cam"
     },
     {
-      "id": "CON iau Cnc",
+      "id": "CON IAU Cnc",
       "names": [{"english": "Cancer", "native": "Cancer"}],
       "lines": [["* alf Cnc", "* del Cnc", "* bet Cnc"], ["* del Cnc", "* gam Cnc", "* iot Cnc"]],
       "semantics": ["arthropod"],
-      "iau": "Cnc"
+      "IAU": "Cnc"
     },
     {
-      "id": "CON iau CMa",
+      "id": "CON IAU CMa",
       "names": [{"english": "Canis Major", "native": "Canis Major"}],
       "lines": [["* bet CMa", "* alf CMa", "* del CMa", "* eps CMa"], ["* del CMa", "* eta CMa"], ["* bet CMa", "* nu.02 CMa", "* omi01 CMa", "* eps CMa"], ["* alf CMa", "* iot CMa", "* gam CMa", "* tet CMa", "* iot CMa"]],
       "semantics": ["mammal"],
-      "iau": "CMa"
+      "IAU": "CMa"
     },
     {
-      "id": "CON iau CMi",
+      "id": "CON IAU CMi",
       "names": [{"english": "Canis Minor", "native": "Canis Minor"}],
       "lines": [["* alf CMi", "* bet CMi"]],
       "semantics": ["mammal"],
-      "iau": "CMi"
+      "IAU": "CMi"
     },
     {
-      "id": "CON iau Cap",
+      "id": "CON IAU Cap",
       "names": [{"english": "Capricornus", "native": "Capricornus"}],
       "lines": [["* alf02 Cap", "* bet01 Cap", "* psi Cap", "* ome Cap", "* zet Cap", "* eps Cap", "* del Cap", "* gam Cap", "* tet Cap", "* alf02 Cap"]],
       "semantics": ["mammal"],
-      "iau": "Cap"
+      "IAU": "Cap"
     },
     {
-      "id": "CON iau Car",
+      "id": "CON IAU Car",
       "names": [{"english": "Carina", "native": "Carina"}],
       "lines": [["* alf Car", "* bet Car", "* ome Car", "* tet Car", "* p Car", "* q Car", "* iot Car", "* del Vel"], ["* p Car", "* u Car"], ["* tet Car", "* z Car", "* y Car", "* x Car", "* u Car"], ["* iot Car", "* eps Car", "* chi Car", "* gam02 Vel"]],
       "semantics": ["man-made object"],
-      "iau": "Car"
+      "IAU": "Car"
     },
     {
-      "id": "CON iau Cas",
+      "id": "CON IAU Cas",
       "names": [{"english": "Cassiopeia", "native": "Cassiopeia"}],
       "lines": [["* bet Cas", "* alf Cas", "* gam Cas", "* del Cas", "* eps Cas"]],
       "semantics": ["humanoid"],
-      "iau": "Cas"
+      "IAU": "Cas"
     },
     {
-      "id": "CON iau Cen",
+      "id": "CON IAU Cen",
       "names": [{"english": "Centaurus", "native": "Centaurus"}],
       "lines": [["* gam Cen", "* eps Cen", "* bet Cen", "* alf Cen A"], ["* eps Cen", "* zet Cen", "* gam Cen"], ["* zet Cen", "* ups01 Cen", "* phi Cen", "* eta Cen"], ["* phi Cen", "* chi Cen", "* psi Cen", "* tet Cen", "* nu. Cen", "* zet Cen"], ["* pi. Cen", "* del Cen", "* sig Cen", "* gam Cen"], ["* sig Cen", "* rho Cen", "* omi01 Cen"], ["* nu. Cen", "* d Cen", "* iot Cen", "* l Cen"], ["* eta Cen", "* kap Cen"]],
       "semantics": ["humanoid", "mammal"],
-      "iau": "Cen"
+      "IAU": "Cen"
     },
     {
-      "id": "CON iau Cep",
+      "id": "CON IAU Cep",
       "names": [{"english": "Cepheus", "native": "Cepheus"}],
       "lines": [["* eta Cep", "* alf Cep", "* bet Cep", "* iot Cep"], ["* bet Cep", "* gam Cep", "* iot Cep", "* del Cep", "* zet Cep", "* eps Cep", "* mu. Cep", "* alf Cep"], ["* tet Cep", "* eta Cep"]],
       "semantics": ["humanoid"],
-      "iau": "Cep"
+      "IAU": "Cep"
     },
     {
-      "id": "CON iau Cet",
+      "id": "CON IAU Cet",
       "names": [{"english": "Cetus", "native": "Cetus"}],
       "lines": [["* gam Cet", "* alf Cet", "* lam Cet", "* mu. Cet", "* ksi02 Cet", "* gam Cet", "* del Cet", "* omi Cet", "* zet Cet", "* tau Cet", "* bet Cet", "* iot Cet", "* eta Cet", "* tet Cet", "* zet Cet"]],
       "semantics": ["fish"],
-      "iau": "Cet"
+      "IAU": "Cet"
     },
     {
-      "id": "CON iau Cha",
+      "id": "CON IAU Cha",
       "names": [{"english": "Chamaeleon", "native": "Chamaeleon"}],
       "lines": [["* alf Cha", "* gam Cha", "* del02 Cha", "* bet Cha", "* eps Cha", "* gam Cha"]],
       "semantics": ["reptile"],
-      "iau": "Cha"
+      "IAU": "Cha"
     },
     {
-      "id": "CON iau Cir",
+      "id": "CON IAU Cir",
       "names": [{"english": "Circinus", "native": "Circinus"}],
       "lines": [["* bet Cir", "* alf Cir", "* gam Cir"]],
       "semantics": ["man-made object"],
-      "iau": "Cir"
+      "IAU": "Cir"
     },
     {
-      "id": "CON iau Col",
+      "id": "CON IAU Col",
       "names": [{"english": "Columba", "native": "Columba"}],
       "lines": [["* alf Col", "* bet Col"], ["* eps Col", "* alf Col"], ["* eta Col", "* bet Col", "* gam Col", "* del Col"]],
       "semantics": ["bird"],
-      "iau": "Col"
+      "IAU": "Col"
     },
     {
-      "id": "CON iau Com",
+      "id": "CON IAU Com",
       "names": [{"english": "Coma Berenices", "native": "Coma Berenices"}],
       "lines": [["* alf Com", "* bet Com", "* gam Com"]],
       "semantics": ["body part"],
-      "iau": "Com"
+      "IAU": "Com"
     },
     {
-      "id": "CON iau CrA",
+      "id": "CON IAU CrA",
       "names": [{"english": "Corona Australis", "native": "Corona Australis"}],
       "lines": [["* gam CrA", "* alf CrA", "* bet CrA", "* del CrA", "* tet CrA"]],
       "semantics": ["man-made object"],
-      "iau": "CrA"
+      "IAU": "CrA"
     },
     {
-      "id": "CON iau CrB",
+      "id": "CON IAU CrB",
       "names": [{"english": "Corona Borealis", "native": "Corona Borealis"}],
       "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB"]],
       "semantics": ["man-made object"],
-      "iau": "CrB"
+      "IAU": "CrB"
     },
     {
-      "id": "CON iau Crv",
+      "id": "CON IAU Crv",
       "names": [{"english": "Corvus", "native": "Corvus"}],
       "lines": [["* del Crv", "* gam Crv", "* eps Crv", "* bet Crv", "* del Crv"], ["* eps Crv", "* alf Crv"]],
       "semantics": ["bird"],
-      "iau": "Crv"
+      "IAU": "Crv"
     },
     {
-      "id": "CON iau Crt",
+      "id": "CON IAU Crt",
       "names": [{"english": "Crater", "native": "Crater"}],
       "lines": [["* alf Crt", "* bet Crt", "* gam Crt", "* zet Crt", "* eta Crt"], ["* gam Crt", "* del Crt", "* eps Crt", "* tet Crt"], ["* del Crt", "* alf Crt"]],
       "semantics": ["man-made object"],
-      "iau": "Crt"
+      "IAU": "Crt"
     },
     {
-      "id": "CON iau Cru",
+      "id": "CON IAU Cru",
       "names": [{"english": "Crux", "native": "Crux"}],
       "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
       "semantics": ["geometric"],
-      "iau": "Cru"
+      "IAU": "Cru"
     },
     {
-      "id": "CON iau CVn",
+      "id": "CON IAU CVn",
       "names": [{"english": "Canes Venatici", "native": "Canes Venatici"}],
       "lines": [["* alf02 CVn", "* bet CVn"]],
       "semantics": ["mammal"],
-      "iau": "CVn"
+      "IAU": "CVn"
     },
     {
-      "id": "CON iau Cyg",
+      "id": "CON IAU Cyg",
       "names": [{"english": "Cygnus", "native": "Cygnus"}],
       "lines": [["* alf Cyg", "* gam Cyg", "* eps Cyg"], ["* gam Cyg", "* bet Cyg A"], ["* gam Cyg", "* del Cyg", "* iot Cyg", "* kap Cyg"], ["* iot Cyg", "* omi02 Cyg", "* alf Cyg", "* nu. Cyg", "* zet Cyg", "* eps Cyg"]],
       "semantics": ["bird"],
-      "iau": "Cyg"
+      "IAU": "Cyg"
     },
     {
-      "id": "CON iau Del",
+      "id": "CON IAU Del",
       "names": [{"english": "Delphinus", "native": "Delphinus"}],
       "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]],
       "semantics": ["fish"],
-      "iau": "Del"
+      "IAU": "Del"
     },
     {
-      "id": "CON iau Dor",
+      "id": "CON IAU Dor",
       "names": [{"english": "Dorado", "native": "Dorado"}],
       "lines": [["* gam Dor", "* alf Dor", "* zet Dor", "* bet Dor", "* alf Dor"], ["* bet Dor", "* del Dor", "HD  40409", "* bet Dor"]],
       "semantics": ["fish"],
-      "iau": "Dor"
+      "IAU": "Dor"
     },
     {
-      "id": "CON iau Dra",
+      "id": "CON IAU Dra",
       "names": [{"english": "Draco", "native": "Draco"}],
       "lines": [["* lam Dra", "* kap Dra", "* alf Dra", "* iot Dra", "* tet Dra", "* eta Dra", "* zet Dra", "* phi Dra", "* chi Dra"], ["* phi Dra", "* del Dra", "* eps Dra"], ["* del Dra", "* ksi Dra", "* nu.02 Dra", "* bet Dra", "* gam Dra", "* ksi Dra"]],
       "semantics": ["reptile"],
-      "iau": "Dra"
+      "IAU": "Dra"
     },
     {
-      "id": "CON iau Equ",
+      "id": "CON IAU Equ",
       "names": [{"english": "Equuleus", "native": "Equuleus"}],
       "lines": [["* alf Equ", "* del Equ", "* gam Equ"]],
       "semantics": ["mammal"],
-      "iau": "Equ"
+      "IAU": "Equ"
     },
     {
-      "id": "CON iau Eri",
+      "id": "CON IAU Eri",
       "names": [{"english": "Eridanus", "native": "Eridanus"}],
       "lines": [["* bet Eri", "* mu. Eri", "* nu. Eri", "* omi01 Eri", "* gam Eri", "* pi. Eri", "* del Eri", "* eps Eri", "* eta Eri", "* pi. Cet", "* tau01 Eri", "* tau03 Eri", "* tau04 Eri", "* tau05 Eri", "* tau06 Eri", "* tau08 Eri", "* tau09 Eri", "* ups01 Eri", "* ups02 Eri", "* d Eri", "* ups04 Eri", "* g Eri", "* y Eri", "* e Eri", "* tet01 Eri", "* iot Eri", "* s Eri", "* kap Eri", "* chi Eri", "* alf Eri"]],
       "semantics": ["landscape"],
-      "iau": "Eri"
+      "IAU": "Eri"
     },
     {
-      "id": "CON iau For",
+      "id": "CON IAU For",
       "names": [{"english": "Fornax", "native": "Fornax"}],
       "lines": [["* alf For", "* bet For", "* nu. For"]],
       "semantics": ["man-made object"],
-      "iau": "For"
+      "IAU": "For"
     },
     {
-      "id": "CON iau Gem",
+      "id": "CON IAU Gem",
       "names": [{"english": "Gemini", "native": "Gemini"}],
       "lines": [["* ksi Gem", "* lam Gem", "* del Gem", "* zet Gem", "* gam Gem"], ["* del Gem", "* ups Gem", "* kap Gem"], ["* ups Gem", "* bet Gem"], ["* ups Gem", "* iot Gem", "* tau Gem", "* alf Gem"], ["* tau Gem", "* tet Gem"], ["* tau Gem", "* eps Gem", "* nu. Gem"], ["* eps Gem", "* mu. Gem", "* eta Gem", "*   1 Gem"]],
       "semantics": ["humanoid"],
-      "iau": "Gem"
+      "IAU": "Gem"
     },
     {
-      "id": "CON iau Gru",
+      "id": "CON IAU Gru",
       "names": [{"english": "Grus", "native": "Grus"}],
       "lines": [["* gam Gru", "* lam Gru", "* del01 Gru", "* alf Gru", "* bet Gru", "* del01 Gru"], ["* bet Gru", "* eps Gru", "* zet Gru"]],
       "semantics": ["bird"],
-      "iau": "Gru"
+      "IAU": "Gru"
     },
     {
-      "id": "CON iau Her",
+      "id": "CON IAU Her",
       "names": [{"english": "Hercules", "native": "Hercules"}],
       "lines": [["* del Her", "* alf Her", "* bet Her", "* gam Her"], ["* bet Her", "* zet Her", "* eps Her"], ["* zet Her", "* eta Her", "* sig Her", "* tau Her"], ["* eta Her", "* pi. Her", "* rho Her", "* tet Her", "* iot Her"], ["* pi. Her", "* eps Her", "* del Her", "* lam Her", "* mu. Her", "* ksi Her", "* omi Her"], ["* chi Her", "* phi Her", "* tau Her"], ["* gam Her", "* ome Her", "* h Her"]],
       "semantics": ["humanoid"],
-      "iau": "Her"
+      "IAU": "Her"
     },
     {
-      "id": "CON iau Hor",
+      "id": "CON IAU Hor",
       "names": [{"english": "Horologium", "native": "Horologium"}],
       "lines": [["* alf Hor", "* iot Hor", "* eta Hor", "* zet Hor", "* mu. Hor", "* bet Hor"]],
       "semantics": ["man-made object"],
-      "iau": "Hor"
+      "IAU": "Hor"
     },
     {
-      "id": "CON iau Hya",
+      "id": "CON IAU Hya",
       "names": [{"english": "Hydra", "native": "Hydra"}],
       "lines": [["* rho Hya", "* eta Hya", "* sig Hya", "* del Hya", "* eps Hya", "* zet Hya", "* tet Hya", "* iot Hya", "* alf Hya", "* ups01 Hya", "* ups02 Hya", "* lam Hya", "* mu. Hya", "* nu. Hya", "* alf Crt"], ["* bet Crt", "* ksi Hya", "* bet Hya", "* gam Hya", "* pi. Hya", "* E Hya"]],
       "semantics": ["reptile"],
-      "iau": "Hya"
+      "IAU": "Hya"
     },
     {
-      "id": "CON iau Hyi",
+      "id": "CON IAU Hyi",
       "names": [{"english": "Hydrus", "native": "Hydrus"}],
       "lines": [["* bet Hyi", "* gam Hyi", "* alf Hyi", "* bet Hyi"]],
       "semantics": ["reptile"],
-      "iau": "Hyi"
+      "IAU": "Hyi"
     },
     {
-      "id": "CON iau Ind",
+      "id": "CON IAU Ind",
       "names": [{"english": "Indus", "native": "Indus"}],
       "lines": [["* bet Ind", "* eta Ind", "* alf Ind", "* tet Ind A", "* del Ind", "* bet Ind"]],
       "semantics": ["humanoid"],
-      "iau": "Ind"
+      "IAU": "Ind"
     },
     {
-      "id": "CON iau Lac",
+      "id": "CON IAU Lac",
       "names": [{"english": "Lacerta", "native": "Lacerta"}],
       "lines": [["*   5 Lac", "* alf Lac", "* bet Lac", "*   4 Lac", "*   5 Lac", "*   2 Lac", "*   6 Lac", "*  11 Lac", "*   5 Lac"], ["*   6 Lac", "HD 211073", "*   1 Lac"]],
       "semantics": ["reptile"],
-      "iau": "Lac"
+      "IAU": "Lac"
     },
     {
-      "id": "CON iau LMi",
+      "id": "CON IAU LMi",
       "names": [{"english": "Leo Minor", "native": "Leo Minor"}],
       "lines": [["*  10 LMi", "*  21 LMi", "* bet LMi", "*  46 LMi", "*  30 LMi", "*  21 LMi"]],
       "semantics": ["mammal"],
-      "iau": "LMi"
+      "IAU": "LMi"
     },
     {
-      "id": "CON iau Leo",
+      "id": "CON IAU Leo",
       "names": [{"english": "Leo", "native": "Leo"}],
       "lines": [["* alf Leo", "* eta Leo", "* gam01 Leo", "* zet Leo", "* mu. Leo", "* eps Leo"], ["* gam01 Leo", "* del Leo", "* bet Leo", "* tet Leo", "* del Leo"], ["* tet Leo", "* eta Leo"], ["* mu. Leo", "* kap Leo", "* lam Leo", "* eps Leo", "* eta Leo"], ["* tet Leo", "* iot Leo", "* sig Leo"]],
       "semantics": ["mammal"],
-      "iau": "Leo"
+      "IAU": "Leo"
     },
     {
-      "id": "CON iau Lep",
+      "id": "CON IAU Lep",
       "names": [{"english": "Lepus", "native": "Lepus"}],
       "lines": [["* eps Lep", "* mu. Lep", "* alf Lep", "* bet Lep", "* eps Lep"], ["* lam Lep", "* mu. Lep", "* kap Lep"], ["* bet Lep", "* gam Lep", "* del Lep", "* tet Lep", "* eta Lep", "* zet Lep", "* alf Lep"]],
       "semantics": ["mammal"],
-      "iau": "Lep"
+      "IAU": "Lep"
     },
     {
-      "id": "CON iau Lib",
+      "id": "CON IAU Lib",
       "names": [{"english": "Libra", "native": "Libra"}],
       "lines": [["* alf02 Lib", "* bet Lib"], ["* alf02 Lib", "* sig Lib"], ["* bet Lib", "* gam Lib", "* alf02 Lib"], ["* gam Lib", "* ups Lib", "* tau Lib"]],
       "semantics": ["man-made object"],
-      "iau": "Lib"
+      "IAU": "Lib"
     },
     {
-      "id": "CON iau Lup",
+      "id": "CON IAU Lup",
       "names": [{"english": "Lupus", "native": "Lupus"}],
       "lines": [["* alf Lup", "* zet Lup", "* eps Lup", "* gam Lup", "* del Lup", "* bet Lup"], ["* gam Lup", "* eta Lup", "* phi01 Lup", "* chi Lup", "* eta Lup", "* zet Lup"]],
       "semantics": ["mammal"],
-      "iau": "Lup"
+      "IAU": "Lup"
     },
     {
-      "id": "CON iau Lyn",
+      "id": "CON IAU Lyn",
       "names": [{"english": "Lynx", "native": "Lynx"}],
       "lines": [["* alf Lyn", "*  38 Lyn", "HD  77912", "*  10 UMa", "*  31 Lyn", "*  21 Lyn", "*  15 Lyn", "*   2 Lyn"]],
       "semantics": ["mammal"],
-      "iau": "Lyn"
+      "IAU": "Lyn"
     },
     {
-      "id": "CON iau Lyr",
+      "id": "CON IAU Lyr",
       "names": [{"english": "Lyra", "native": "Lyra"}],
       "lines": [["* alf Lyr", "* eps01 Lyr", "* zet01 Lyr", "* alf Lyr"], ["* zet01 Lyr", "* del02 Lyr", "* gam Lyr", "* bet Lyr", "* zet01 Lyr"]],
       "semantics": ["man-made object"],
-      "iau": "Lyr"
+      "IAU": "Lyr"
     },
     {
-      "id": "CON iau Mon",
+      "id": "CON IAU Mon",
       "names": [{"english": "Monoceros", "native": "Monoceros"}],
       "lines": [["*  15 Mon", "*  13 Mon", "* eps Mon A", "*  18 Mon", "*  13 Mon"], ["*  18 Mon", "* del Mon", "* bet Mon", "* gam Mon"], ["* del Mon", "* zet Mon", "* alf Mon"]],
       "semantics": ["mammal"],
-      "iau": "Mon"
+      "IAU": "Mon"
     },
     {
-      "id": "CON iau Mus",
+      "id": "CON IAU Mus",
       "names": [{"english": "Musca", "native": "Musca"}],
       "lines": [["* lam Mus", "* eps Mus", "* alf Mus", "* bet Mus", "* del Mus", "* gam Mus", "* alf Mus"]],
       "semantics": ["arthropod"],
-      "iau": "Mus"
+      "IAU": "Mus"
     },
     {
-      "id": "CON iau Nor",
+      "id": "CON IAU Nor",
       "names": [{"english": "Norma", "native": "Norma"}],
       "lines": [["* eta Nor", "* gam02 Nor", "* eps Nor", "* del Nor", "* eta Nor"]],
       "semantics": ["man-made object"],
-      "iau": "Nor"
+      "IAU": "Nor"
     },
     {
-      "id": "CON iau Oct",
+      "id": "CON IAU Oct",
       "names": [{"english": "Octans", "native": "Octans"}],
       "lines": [["* del Oct", "* nu. Oct", "* bet Oct", "* del Oct"]],
       "semantics": ["man-made object"],
-      "iau": "Oct"
+      "IAU": "Oct"
     },
     {
-      "id": "CON iau Oph",
+      "id": "CON IAU Oph",
       "names": [{"english": "Ophiuchus", "native": "Ophiuchus"}],
       "lines": [["* alf Oph", "* kap Oph", "* lam Oph", "* del Oph", "* eps Oph", "* ups Oph", "* zet Oph"], ["* kap Oph", "* zet Oph", "* eta Oph", "* bet Oph", "* gam Oph", "* nu. Oph"], ["* bet Oph", "* alf Oph"], ["* eta Oph", "* tet Oph", "* d Oph"], ["* zet Oph", "* phi Oph", "* chi Oph", "* psi Oph", "* rho Oph"]],
       "semantics": ["humanoid"],
-      "iau": "Oph"
+      "IAU": "Oph"
     },
     {
-      "id": "CON iau Ori",
+      "id": "CON IAU Ori",
       "names": [{"english": "Orion", "native": "Orion"}],
       "lines": [["* alf Ori", "* zet Ori", "* kap Ori"], ["* zet Ori", "* eps Ori", "* del Ori", "* gam Ori"], ["* del Ori", "* eta Ori", "* bet Ori"], ["* alf Ori", "* gam Ori", "* lam Ori", "* alf Ori"], ["*  11 Ori", "* omi02 Ori", "* pi.01 Ori", "* pi.02 Ori", "* pi.03 Ori", "* gam Ori"], ["* pi.03 Ori", "* pi.04 Ori", "* pi.05 Ori", "* pi.06 Ori"], ["* alf Ori", "* mu. Ori", "* nu. Ori"], ["* ksi Ori", "* chi02 Ori", "* chi01 Ori", "* nu. Ori"]],
       "semantics": ["humanoid"],
-      "iau": "Ori"
+      "IAU": "Ori"
     },
     {
-      "id": "CON iau Pav",
+      "id": "CON IAU Pav",
       "names": [{"english": "Pavo", "native": "Pavo"}],
       "lines": [["* alf Pav", "* del Pav", "* bet Pav"], ["* alf Pav", "* gam Pav", "* bet Pav"], ["* zet Pav", "* del Pav", "* eps Pav"], ["* del Pav", "* kap Pav", "* pi. Pav", "* eta Pav"], ["* pi. Pav", "* ksi Pav", "* lam Pav", "* del Pav"]],
       "semantics": ["bird"],
-      "iau": "Pav"
+      "IAU": "Pav"
     },
     {
-      "id": "CON iau Peg",
+      "id": "CON IAU Peg",
       "names": [{"english": "Pegasus", "native": "Pegasus"}],
       "lines": [["* pi. Peg", "* eta Peg", "* bet Peg", "* mu. Peg", "* lam Peg", "* iot Peg", "* kap Peg"], ["* alf And", "* bet Peg", "* alf Peg", "* gam Peg", "* alf And"], ["* eps Peg", "* tet Peg", "*  42 Peg", "* alf Peg"]],
       "semantics": ["mammal"],
-      "iau": "Peg"
+      "IAU": "Peg"
     },
     {
-      "id": "CON iau Per",
+      "id": "CON IAU Per",
       "names": [{"english": "Perseus", "native": "Perseus"}],
       "lines": [["* omi Per", "* zet Per", "* ksi Per", "* eps Per", "* del Per", "* alf Per", "* gam Per", "* eta Per", "* tau Per", "* gam Per"], ["* tau Per", "* iot Per", "* alf Per"], ["* iot Per", "* kap Per", "* bet Per", "* eps Per"], ["* bet Per", "* rho Per"], ["* del Per", "* c Per", "* mu. Per", "* b Per", "* lam Per"], ["* iot Per", "* tet Per", "* phi Per"]],
       "semantics": ["humanoid"],
-      "iau": "Per"
+      "IAU": "Per"
     },
     {
-      "id": "CON iau Phe",
+      "id": "CON IAU Phe",
       "names": [{"english": "Phoenix", "native": "Phoenix"}],
       "lines": [["* alf Phe", "* bet Phe", "* gam Phe"], ["* alf Phe", "* eps Phe", "* bet Phe", "* zet Phe", "* del Phe", "* gam Phe"]],
       "semantics": ["bird"],
-      "iau": "Phe"
+      "IAU": "Phe"
     },
     {
-      "id": "CON iau Pic",
+      "id": "CON IAU Pic",
       "names": [{"english": "Pictor", "native": "Pictor"}],
       "lines": [["* alf Pic", "* gam Pic", "* bet Pic"]],
       "semantics": ["man-made object"],
-      "iau": "Pic"
+      "IAU": "Pic"
     },
     {
-      "id": "CON iau Psc",
+      "id": "CON IAU Psc",
       "names": [{"english": "Pisces", "native": "Pisces"}],
       "lines": [["* phi Psc", "* ups Psc", "* tau Psc", "* phi Psc", "* eta Psc", "* omi Psc", "* alf Psc", "* nu. Psc", "* eps Psc", "* del Psc", "* ome Psc", "* iot Psc", "* tet Psc", "* gam Psc", "* kap Psc", "* lam Psc", "* iot Psc"]],
       "semantics": ["fish"],
-      "iau": "Psc"
+      "IAU": "Psc"
     },
     {
-      "id": "CON iau PsA",
+      "id": "CON IAU PsA",
       "names": [{"english": "Piscis Austrinus", "native": "Piscis Austrinus"}],
       "lines": [["* alf PsA", "* del PsA", "* gam PsA", "* bet PsA", "* mu. PsA", "* iot PsA", "* tet PsA", "* mu. PsA", "* eps PsA", "* alf PsA"]],
       "semantics": ["fish"],
-      "iau": "PsA"
+      "IAU": "PsA"
     },
     {
-      "id": "CON iau Pup",
+      "id": "CON IAU Pup",
       "names": [{"english": "Puppis", "native": "Puppis"}],
       "lines": [["* gam02 Vel", "* zet Pup", "* rho Pup", "* ksi Pup", "* k02 Pup", "* p Pup", "* pi. Pup", "* nu. Pup", "* alf Car"], ["* p Pup", "* l Pup", "* omi Pup", "* ksi Pup"]],
       "semantics": ["man-made object"],
-      "iau": "Pup"
+      "IAU": "Pup"
     },
     {
-      "id": "CON iau Pyx",
+      "id": "CON IAU Pyx",
       "names": [{"english": "Pyxis", "native": "Pyxis"}],
       "lines": [["* zet Pup", "* bet Pyx", "* alf Pyx", "* gam Pyx"]],
       "semantics": ["man-made object"],
-      "iau": "Pyx"
+      "IAU": "Pyx"
     },
     {
-      "id": "CON iau Ret",
+      "id": "CON IAU Ret",
       "names": [{"english": "Reticulum", "native": "Reticulum"}],
       "lines": [["* alf Ret", "* bet Ret", "* del Ret", "* eps Ret", "* alf Ret"]],
       "semantics": ["man-made object"],
-      "iau": "Ret"
+      "IAU": "Ret"
     },
     {
-      "id": "CON iau Sge",
+      "id": "CON IAU Sge",
       "names": [{"english": "Sagitta", "native": "Sagitta"}],
       "lines": [["* gam Sge", "* del Sge", "* alf Sge"], ["* del Sge", "* bet Sge"]],
       "semantics": ["man-made object"],
-      "iau": "Sge"
+      "IAU": "Sge"
     },
     {
-      "id": "CON iau Sgr",
+      "id": "CON IAU Sgr",
       "names": [{"english": "Sagittarius", "native": "Sagittarius"}],
       "lines": [["* eps Sgr", "* gam02 Sgr", "* del Sgr", "* eps Sgr"], ["* del Sgr", "* lam Sgr", "* phi Sgr", "* del Sgr"], ["* phi Sgr", "* sig Sgr", "* tau Sgr", "* zet Sgr", "* phi Sgr"], ["* zet Sgr", "* eps Sgr", "* eta Sgr"], ["* lam Sgr", "* mu. Sgr"], ["* rho01 Sgr", "* pi. Sgr", "* omi Sgr", "* ksi02 Sgr", "* pi. Sgr"]],
       "semantics": ["humanoid", "mammal"],
-      "iau": "Sgr"
+      "IAU": "Sgr"
     },
     {
-      "id": "CON iau Sco",
+      "id": "CON IAU Sco",
       "names": [{"english": "Scorpius", "native": "Scorpius"}],
       "lines": [["* bet01 Sco", "* del Sco", "* pi. Sco"], ["* del Sco", "* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco", "* eta Sco", "* tet Sco", "* iot01 Sco", "* kap Sco", "* ups Sco", "* lam Sco", "* G Sco"], ["* bet01 Sco", "* nu. Sco"], ["* pi. Sco", "* rho Sco"]],
       "semantics": ["arthropod"],
-      "iau": "Sco"
+      "IAU": "Sco"
     },
     {
-      "id": "CON iau Scl",
+      "id": "CON IAU Scl",
       "names": [{"english": "Sculptor", "native": "Sculptor"}],
       "lines": [["* alf Scl", "* del Scl", "* gam Scl", "* bet Scl"]],
       "semantics": ["man-made object"],
-      "iau": "Scl"
+      "IAU": "Scl"
     },
     {
-      "id": "CON iau Sct",
+      "id": "CON IAU Sct",
       "names": [{"english": "Scutum", "native": "Scutum"}],
       "lines": [["* bet Sct", "* alf Sct", "* gam Sct", "* del Sct", "* bet Sct"]],
       "semantics": ["man-made object"],
-      "iau": "Sct"
+      "IAU": "Sct"
     },
     {
-      "id": "CON iau Ser",
+      "id": "CON IAU Ser",
       "names": [{"english": "Serpens", "native": "Serpens"}],
       "lines": [["* bet Ser", "* gam Ser", "* kap Ser", "* iot Ser", "* bet Ser", "* del Ser", "* alf Ser", "* eps Ser", "* mu. Ser", "* del Oph"], ["* eta Oph", "* ksi Ser", "* nu. Oph", "* eta Ser", "* tet01 Ser"]],
       "description": "This constellation is disconnected in two halves, with Ophiuchus in the middle.",
       "semantics": ["reptile"],
-      "iau": "Ser"
+      "IAU": "Ser"
     },
     {
-      "id": "CON iau Sex",
+      "id": "CON IAU Sex",
       "names": [{"english": "Sextans", "native": "Sextans"}],
       "lines": [["* gam Sex", "* alf Sex", "* bet Sex", "* del Sex"]],
       "semantics": ["man-made object"],
-      "iau": "Sex"
+      "IAU": "Sex"
     },
     {
-      "id": "CON iau Tau",
+      "id": "CON IAU Tau",
       "names": [{"english": "Taurus", "native": "Taurus"}],
       "lines": [["* zet Tau", "* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* bet Tau"], ["* ksi Tau", "* nu. Tau"], ["* omi Tau", "*  10 Tau"], ["* gam Tau", "* lam Tau", "* ksi Tau"]],
       "semantics": ["mammal"],
-      "iau": "Tau"
+      "IAU": "Tau"
     },
     {
-      "id": "CON iau Tel",
+      "id": "CON IAU Tel",
       "names": [{"english": "Telescopium", "native": "Telescopium"}],
       "lines": [["* eps Tel", "* alf Tel", "* zet Tel"]],
       "semantics": ["man-made object"],
-      "iau": "Tel"
+      "IAU": "Tel"
     },
     {
-      "id": "CON iau TrA",
+      "id": "CON IAU TrA",
       "names": [{"english": "Triangulum Australe", "native": "Triangulum Australe"}],
       "lines": [["* alf TrA", "* bet TrA", "* gam TrA", "* alf TrA"]],
       "semantics": ["geometric"],
-      "iau": "TrA"
+      "IAU": "TrA"
     },
     {
-      "id": "CON iau Tri",
+      "id": "CON IAU Tri",
       "names": [{"english": "Triangulum", "native": "Triangulum"}],
       "lines": [["* alf Tri", "* bet Tri", "* gam Tri", "* alf Tri"]],
       "semantics": ["geometric"],
-      "iau": "Tri"
+      "IAU": "Tri"
     },
     {
-      "id": "CON iau Tuc",
+      "id": "CON IAU Tuc",
       "names": [{"english": "Tucana", "native": "Tucana"}],
       "lines": [["* bet01 Tuc", "* zet Tuc", "* eps Tuc", "* del Tuc", "* alf Tuc", "* gam Tuc", "* bet01 Tuc"]],
       "semantics": ["bird"],
-      "iau": "Tuc"
+      "IAU": "Tuc"
     },
     {
-      "id": "CON iau UMa",
+      "id": "CON IAU UMa",
       "names": [{"english": "Ursa Major", "native": "Ursa Major"}],
       "lines": [["* gam UMa", "* chi UMa", "* psi UMa", "* mu. UMa", "* lam UMa"], ["* chi UMa", "* nu. UMa", "* ksi UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"], ["* alf UMa", "* h UMa", "* ups UMa"], ["* h UMa", "* omi UMa", "* ups UMa", "* bet UMa"], ["* ups UMa", "* tet UMa", "* kap UMa", "* iot UMa"]],
       "semantics": ["mammal"],
-      "iau": "UMa"
+      "IAU": "UMa"
     },
     {
-      "id": "CON iau UMi",
+      "id": "CON IAU UMi",
       "names": [{"english": "Ursa Minor", "native": "Ursa Minor"}],
       "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi", "* zet UMi"]],
       "semantics": ["mammal"],
-      "iau": "UMi"
+      "IAU": "UMi"
     },
     {
-      "id": "CON iau Vel",
+      "id": "CON IAU Vel",
       "names": [{"english": "Vela", "native": "Vela"}],
       "lines": [["* del Vel", "* gam02 Vel", "* lam Vel", "* psi Vel", "* q Vel", "* mu. Vel", "* phi Vel", "* kap Vel", "* del Vel"]],
       "semantics": ["man-made object"],
-      "iau": "Vel"
+      "IAU": "Vel"
     },
     {
-      "id": "CON iau Vir",
+      "id": "CON IAU Vir",
       "names": [{"english": "Virgo", "native": "Virgo"}],
       "lines": [["* eta Vir", "* omi Vir", "* nu. Vir", "* bet Vir", "* eta Vir", "* gam Vir", "* del Vir", "* eps Vir"], ["* gam Vir", "* tet Vir", "* alf Vir"], ["* gam Vir", "* zet Vir", "* tau Vir", "* 109 Vir"], ["* zet Vir", "* iot Vir", "* mu. Vir"]],
       "semantics": ["humanoid"],
-      "iau": "Vir"
+      "IAU": "Vir"
     },
     {
-      "id": "CON iau Vol",
+      "id": "CON IAU Vol",
       "names": [{"english": "Volans", "native": "Volans"}],
       "lines": [["* alf Vol", "* bet Vol", "* eps Vol", "* del Vol", "* gam02 Vol", "* eps Vol", "* alf Vol"]],
       "semantics": ["fish"],
-      "iau": "Vol"
+      "IAU": "Vol"
     },
     {
-      "id": "CON iau Vul",
+      "id": "CON IAU Vul",
       "names": [{"english": "Vulpecula", "native": "Vulpecula"}],
       "lines": [["* alf Vul", "*  13 Vul A"]],
       "semantics": ["mammal"],
-      "iau": "Vul"
+      "IAU": "Vul"
     }
   ]
 }

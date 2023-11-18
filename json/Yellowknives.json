@@ -11,7 +11,7 @@
   "description": "The Yellowknives Dene sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time.",
   "constellations": [
     {
-      "id": "CON yellowknives 001",
+      "id": "CON Yellowknives 001",
       "names": [{"english": "Yèhdaa (no gloss)", "native": "Yèhdaa"}],
       "lines": [["* ups UMa", "* ups UMa"], ["* g UMa", "* g UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* tau UMa", "* omi UMa"], ["* bet UMa", "* tet UMa", "* iot UMa", "* kap UMa"], ["* eta UMa", "* bet Boo", "* alf CrB"], ["* eta UMa", "* gam Boo", "* eps Boo"], ["* tet Boo", "* tet Boo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The text lists eta UMa in the right arm, incorrectly; corrected acc. drawing to h UMa.",
@@ -19,16 +19,16 @@
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON yellowknives 002",
+      "id": "CON Yellowknives 002",
       "names": [{"english": "Yìda (no gloss)", "native": "Yìda"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa"], ["* gam UMa", "* del UMa"], ["* alf UMa", "* h UMa", "* omi UMa"], ["* bet UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* nu. UMa", "* ksi UMa", "*  72 Leo", "* del Leo", "* tet Leo", "* iot Leo"], ["* psi UMa", "*  46 LMi", "* zet Leo", "* gam01 Leo", "* eta Leo", "* alf Leo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The list of stars for 'his body' doesn't match the drawing; the list is used here. Removed the link bet UMa to gam UMa, which is drawn but unwarranted by the description.",
       "description": "An elder from Ndilǫ identified a variation of the constellation: a big headless man. The handle of the Big Dipper is Yìda's right arm, and the Big Dipper cup forms his upper torso.",
-      "variant_of": ["CON yellowknives 001"],
+      "variant_of": ["CON Yellowknives 001"],
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON yellowknives 003",
+      "id": "CON Yellowknives 003",
       "names": [{"english": "Yı̀da’s wife", "native": "Yı̀da wets’ekeè"}],
       "lines": [["* eps Cas", "* eps Cas"], ["* del Cas", "* del Cas"], ["* gam Cas", "* gam Cas"], ["* alf Cas", "* alf Cas"], ["* bet Cas", "* bet Cas"], ["* eta Cas", "* eta Cas"]],
       "certainty": "The stars are identified, but no lines. It is not clear whether it should be lined (it isn't here).",

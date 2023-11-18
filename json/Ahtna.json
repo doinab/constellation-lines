@@ -11,7 +11,7 @@
   "description": "The Ahtna sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time.",
   "constellations": [
     {
-      "id": "CON ahtna 001",
+      "id": "CON Ahtna 001",
       "names": [{"english": "That Which Moves Over Us", "native": "Nek'eltaeni"}, {"english": "That [Human] Which Moves Over Us", "native": "Nek'eltaenen"}, {"english": "That Which Moves Over the Earth", "native": "Nen'keltaeni"}, {"english": "That Which Moves in a Circle Following Us", "native": "Nek'e Nekeghaltaexi"}, {"english": "The One Who Went Around the Edge of the World", "native": "Yabaaghe Tezyaann"}, {"english": "The One Who Went Around the Edge of the Water/Ocean", "native": "Yabaaghe Tuu Teeshyaay"}, {"english": "The One Who Leads Us Ahead", "native": "Netseh Tełyaanen"}, {"english": "Smart Young Man", "native": "Ciił Hywaa"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* alf UMa", "* lam Dra", "* kap Dra", "* bet UMi", "* gam UMi", "* zet Dra", "* bet Dra", "* gam Dra"], ["* bet UMa", "* psi UMa", "* nu. UMa", "* ksi UMa", "* bet Leo", "* tet Leo"], ["* bet Leo", "* del Leo"], ["* eps Cas", "V* BE Cam", "* alf Cam", "* bet Cam", "*   2 Lyn", "* del Aur"], ["* del Cas", "* eps Cas", "* gam Cas"], ["* del Aur", "*  15 Lyn", "* omi UMa", "* h UMa", "* alf UMa"], ["* bet UMa", "*  36 UMa", "* tet UMa", "* iot UMa", "* kap UMa", "*  31 Lyn", "* kap Leo", "* lam Leo", "* alf Leo", "* omi Leo"], ["* bet Cnc", "* eps Hya", "* zet Hya", "* alf Cnc", "* omi Leo", "*  31 Leo", "* rho Leo", "* sig Leo", "* bet Vir"], ["* psi UMa", "* mu. UMa", "* alf Lyn", "*  31 Lyn"], ["* alf Aur", "* bet Aur", "* del Aur"], ["* bet Gem", "* alf Gem", "*  31 Lyn"], ["* bet Aur", "* eta Tau", "* alf Gem"], ["* bet Tau", "* bet Tau"], ["* iot Aur", "* iot Aur"], ["*  27 Lyn", "*  27 Lyn"], ["* bet Aur", "* alf Gem"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. His kidney is an unidentified star near the cup of the Big Dipper (not included here). His right hand is 'two unidentified stars in Cassiopeia': the two closest stars are added here. The eyes (bet Tau, iot Aur) and heart (27 Lyn) are unconnected. It is not clear whether the abdomen should be delineated from the head with a neckline (bet Aur, alf Gem); that line is drawn here.",
@@ -19,7 +19,7 @@
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON ahtna 002",
+      "id": "CON Ahtna 002",
       "names": [{"english": "Three Things Side by Side", "native": "Taak'i niłk'eze dezdlaeyi"}, {"english": "Stars Side by Side", "native": "Son' niłk'eze dezdlaeyi"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
       "certainty": "Certain.",

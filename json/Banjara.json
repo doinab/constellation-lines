@@ -11,7 +11,7 @@
   "description": "The Banjara are an ancient tribe mostly spread in Central and Western India (and connected genetically with the gypsies of Europe), speaking an Austro-Asiatic language. The population size is over 5 million. They are co-located with two other tribes: the Kolam and the Gonds, so these traditions are similar (the source [vahia2014banjaraskolam] provides a comparison). The primary profession of the Banjara used to be trade, with large-scale movement of goods over long distances. Their services were replaced by railways about one hundred years before this documentation. Since then, they have begun a settled, agricultural existence. Their astronomy is basic, and was not used for travel, not for predicting events. The sky objects identified vary between villages, with Saptarshi and the Pleiades the only almost universally recognised constellations among villages. Only one lined constellation (Saptarshi) has the stars identified. Three others are named but only their sky region is identified: Canis Major is called Medi and is a harvest-processing scene, a part of Orion is a deer called Halni, Halini or Harini, and a part of Taurus is a dove (called Kamedi).",
   "constellations": [
     {
-      "id": "CON banjara 001",
+      "id": "CON Banjara 001",
       "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Saptarshi"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
       "certainty": "The lining of the 4-star polygon is certain, but it is less clear whether the remaining 3 stars (a procession of people) should be lined. There are alternative semantics, since this is a group scene (two objects: a cot and a procession of three humans).",

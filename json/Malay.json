@@ -11,7 +11,7 @@
   "description": "Like the Bugis and Madura (who are also migrated Malays), the Malay culture is a mix of sea- and land usage, with sea traditions, but current farming and fishing practices. The field work attempted to link the local constellations to specific ecological adaptations, and from there, to certain economic lifestyles. Four constellations were identified: 1) Belantik (Orion), 2) Bintang Tujuh (Pleiades), 3) Pari (Crux), and 4) Biduk (Big Dipper). The first two constellations are normally associated with land-based ecological niches, whereas the latter two constellations are usually linked to sea-based ecological adaptations.",
   "constellations": [
     {
-      "id": "CON malay 001",
+      "id": "CON Malay 001",
       "names": [{"english": "Spring-Spear Trap", "native": "Belantik"}],
       "lines": [["* bet Ori", "* del Ori", "* eps Ori", "* zet Ori"]],
       "certainty": "The exact below-belt stars are not identified. A spring-spear trap seems to have at least two connected linear elements [https://commons.wikimedia.org/wiki/File:Springing_branch_spear_trap.JPG]: a spear and a spring, rope, or trip wire. I thus draw it as two linear segments: the belt plus bet Ori (Rigel), connected at an angle. A conservative asterism would be only the belt, but the source says otherwise.",
@@ -19,7 +19,7 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON malay 002",
+      "id": "CON Malay 002",
       "names": [{"english": "Stingray", "native": "Pari"}],
       "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
       "certainty": "Lined as a stingray (rhombus), not as a cross. The description implies that the stingray also had a tail (in IAU Musca) but this is not identified any more.",
@@ -27,7 +27,7 @@
       "semantics": ["fish"]
     },
     {
-      "id": "CON malay 003",
+      "id": "CON Malay 003",
       "names": [{"english": "Paddle Boat", "native": "Biduk"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* bet UMi"]],
       "certainty": "",

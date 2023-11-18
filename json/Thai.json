@@ -8,47 +8,47 @@
   "source": ["orchiston2021seasia"],
   "licence": "CC BY-SA",
   "phylogeny": "Mainland SE Asia",
-  "description": "These are said to be Thai indigenous asterisms, despite early influence from China and India.  The imported Indian lunar mansions are also used in Thailand for telling time, but are not included here. There are links to Malay, Java, Bugis, Madura, and Burma asterisms (the turtle and/or plough in Orion). The source interprets a primary source (in Thai) from 2012. Another source for explicitly drawn Thai asterisms was used to clarify some line figures. This was referenced and summarised online by a member of the public [http://archive.astronomerswithoutborders.org/member-reports/285-gam2015/gam-blog/2670-drawing-of-traditional-asterisms-in-thailand.html], is the book 'Tai Baan Doo Dao' (in Thai) by N. Pengkaew (2000), which appears to have some variants for both names and constellations. The Thai sources could not be obtained; only the follow-ups in English, [orchiston2021seasia] and (when the former was not clear) the URL above. Both identify the stars, but draw the constellations with pictographs, not line figures. These are simple enough to transcribe as line figures here following the perimeter of the pictographs.",
+  "description": "These are said to be Thai indigenous asterisms, despite early influence from China and India. The imported Indian lunar mansions are also used in Thailand for telling time, but are not included here. There are links to Malay, Java, Bugis, Madura, and Burma asterisms (the turtle and/or plough in Orion). The source interprets a primary source (in Thai) from 2012. Another source for explicitly drawn Thai asterisms was used to clarify some line figures. This was referenced and summarised online by a member of the public [http://archive.astronomerswithoutborders.org/member-reports/285-gam2015/gam-blog/2670-drawing-of-traditional-asterisms-in-thailand.html], is the book 'Tai Baan Doo Dao' (in Thai) by N. Pengkaew (2000), which appears to have some variants for both names and constellations. The Thai sources could not be obtained; only the follow-ups in English, [orchiston2021seasia] and (when the former was not clear) the URL above. Both identify the stars, but draw the constellations with pictographs, not line figures. These are simple enough to transcribe as line figures here following the perimeter of the pictographs.",
   "constellations": [
     {
-      "id": "CON thai 001",
+      "id": "CON Thai 001",
       "names": [{"english": "Turtle", "native": "Dāw-tau"}],
       "lines": [["* alf Ori", "* kap Ori", "* bet Ori", "* gam Ori", "* lam Ori", "* alf Ori"]],
       "certainty": "The line figure follows the perimeter of the pictograph provided in the source, so is uncertain. The turtle is composed of four stars for the paws, and one for the head. They are lined as a convex hull.",
-      "description": "The turtle (CON thai 001) carries the plough (CON thai 002) on its back.",
+      "description": "The turtle (CON Thai 001) carries the plough (CON Thai 002) on its back.",
       "semantics": ["reptile"]
     },
     {
-      "id": "CON thai 002",
+      "id": "CON Thai 002",
       "names": [{"english": "Plough", "native": "Dāw-thai"}],
       "lines": [["* del Ori", "* eps Ori", "* zet Ori"], ["* eps Ori", "* iot Ori", "* tet01 Ori C", "* c Ori"]],
       "certainty": "The shape is certain: a T figure. It is not certain which star(s) in Orion's sword are included, nor how many.",
-      "description": "The turtle (CON thai 001) carries the plough (CON thai 002) on its back.",
+      "description": "The turtle (CON Thai 001) carries the plough (CON Thai 002) on its back.",
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON thai 003",
+      "id": "CON Thai 003",
       "names": [{"english": "Flag", "native": "Dāw-thong"}],
       "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau", "* alf Tau"]],
       "certainty": "Marked explicitly as the Hyades. Only the flag (not also the mast) is drawn here: the mast stars are faint, so not obvious to identify.",
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON thai 004",
+      "id": "CON Thai 004",
       "names": [{"english": "Coffin", "native": "Dāw-lōng"}],
       "lines": [["* alf Gem", "* bet Gem", "* gam Gem", "* mu. Gem", "* alf Gem"]],
       "certainty": "A simple rectangle. The line figure follows the perimeter of the pictograph provided in the source, so is uncertain.",
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON thai 005",
+      "id": "CON Thai 005",
       "names": [{"english": "Crow", "native": "Dāw-kā"}],
       "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* alf Cas", "* bet Cas"]],
       "certainty": "Marked explicitly as Cassiopeia. The line figure follows the perimeter of the pictograph provided in the source, so is uncertain. More lines may be appropriate to add, but the drawings don't agree on the bird's position.",
       "semantics": ["bird"]
     },
     {
-      "id": "CON thai 006",
+      "id": "CON Thai 006",
       "names": [{"english": "Junk", "native": "Dāw-duang-lam-samphau"}],
       "lines": [["* alf Gem", "* bet Gem", "* alf CMi", "* alf CMa"]],
       "certainty": "Star identification uncertain. [orchiston2021seasia] only identifies this as IAU Argo (too unspecific), while the online source identifies it differently and precisely, with 4 bright stars (Castor, Pollux, Procyon, Sirius). The latter is drawn here.",
@@ -56,21 +56,21 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON thai 007",
+      "id": "CON Thai 007",
       "names": [{"english": "Alligator", "native": "Dāw-jōrakhē"}],
       "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
       "certainty": "Marked explicitly as the Big Dipper. The line figure follows the perimeter of the pictograph provided in the source, so is uncertain. The quandrilater (the body) is closed, and the alligator's tail is the dipper handle.",
       "semantics": ["reptile"]
     },
     {
-      "id": "CON thai 008",
+      "id": "CON Thai 008",
       "names": [{"english": "Beam Balance", "native": "Dāw-khanchang"}],
       "lines": [["* alf Cen A", "* bet Cen", "* bet Cru", "* alf01 Cru", "* del Cru", "* gam Cru", "* bet Cru"]],
       "certainty": "The stars are clearly identified. It is not clear which Cru star to link to the Cen star (some angles would change); the closest is linked here.",
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON thai 009",
+      "id": "CON Thai 009",
       "names": [{"english": "Carrying Corpse", "native": "Dāw-hām-phī"}],
       "lines": [["* alf Peg", "* bet Peg", "* alf And", "* gam Peg", "* alf Peg"]],
       "certainty": "Marked explicitly as the Great Square of Pegasus, so only 4 stars: 2 model the coffin, and 2 a beam (parallel to the coffin).",

@@ -11,7 +11,7 @@
   "description": "The Tutchone are a Subarctic tribe in the Yukon plateau in Alaska between the Saint Elias Mountains and the Selwyn Mountains, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. Only one constellation is documented and drawn, similar to the Big Dipper (with a larger closed bowl), but with a different meaning. The source for this line figure is [miller1997stars] page 83-84. This is attributed to [mcclellan1975myoldpeople], the results of ethnographic research carried out from 1949-51 among three linguistically distinct groups in the southern Yukon Territory (Tlingit, Tagish, and Southern Tutchone).",
   "constellations": [
     {
-      "id": "CON tutchone 001",
+      "id": "CON Tutchone 001",
       "names": [{"english": "Big-Headed Man"}],
       "lines": [["* del UMa", "* lam Dra", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
       "description": "The Southern Tutchone say that there is a big-headed man in the sky. The man's big head is the Big Dipper's bowl and a star in front of the bowl. His spine is the handle of the Big Dipper. One day, a hunter shot an arrow (Alcor, not included in this constellation) into his spine. Before he died, the big-headed man said he would reappear into the northern sky at night, and so he does.",

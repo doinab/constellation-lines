@@ -11,7 +11,7 @@
   "description": "The Koyukon are a Subarctic tribe in the Yukon river valley in central Alaska, speaking a language from the Athapaskan family. Subarctic tribes do not have extensive astronomical lore. There are two sets of sources. (1) In [nelson1983make,miller1997stars], only one constellation is documented and drawn, the Big Dipper (with a closed bowl), but with a different meaning. The Koyukon also marked the movement of alf Aql (Altair), Cassiopeia, the Pleiades, and Orion's belt to keep track of time, but these sky objects are not named or identified [miller1997stars] (page 84). The source [miller1997stars] attributes the information to [nelson1983make], whose author lived with the Koyukon for 16 months in 1976-1977. (2) In recent fieldwork [cannon2021northerndene] with Northern Dene peoples (2010-2021), a characteristic principal constellation was documented in Allakaket, Alaska: the incarnated spirit of a Traveler figure who circled the world in Distant Time. Also here were documented names for the Milky Way, alf Aql (Altair), and gam Aql (Tarazed), as morning stars.",
   "constellations": [
     {
-      "id": "CON koyukon 001",
+      "id": "CON Koyukon 001",
       "names": [{"english": "It Rotates Its Body", "native": "Nosikghaltaala"}],
       "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
       "certainty": "Certain.",
@@ -19,7 +19,7 @@
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON koyukon 002",
+      "id": "CON Koyukon 002",
       "names": [{"english": "Those Multiple Objects Which Are Moving Along", "native": "Ghededzuyhdle"}, {"english": "That Which Is Revolving", "native": "Naagheltaale"}],
       "lines": [["* alf UMi", "HD  81817", "* pi.02 UMa", "* omi UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["* pi.02 UMa", "* h UMa", "* alf UMa"], ["* omi UMa", "* iot UMa", "* kap UMa", "* alf Lyn", "* mu. UMa", "* psi UMa", "* chi UMa", "* gam UMa"], ["* chi UMa", "* bet CVn", "* alf02 CVn"], ["* iot UMa", "*  31 Lyn"], ["* alf Lyn", "* eps Leo", "* gam01 Leo"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. pi2 UMa is not named in the text, but is in the drawing (so is included here). The head (31 Lyn) is linked here to the body, since a star is identified as the neck.",

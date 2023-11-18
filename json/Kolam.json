@@ -11,33 +11,33 @@
   "description": "The Kolams (also called the Kolowars) are an ancient tribe mostly spread in south Central India, speaking a Dravidian language, co-located with the Gond and Banjara tribes. The population size is around 400,000. They were foragers until 1940-1950, and practised slash-and-burn cultivation using hoes and digging sticks; at the time of documentation they were agricultural. They have historically (1200 AD) served as priests for another co-located tribe, the Gonds (but are genetically distinct). The astronomy is extensive, if overly generalised: they do not seem to record changes in the sky over the year, and they recall the sky only during the pre-monsoon period when it is well observed. They borrow traditions from the Gonds, who retained more detailed descriptions of some of these common constellations. Besides the 7 lined constellations, three others are unidentified. One is named in two villages, but remains unidentified: the Danedare Pila, a spiral-shaped asterism (either the tail of Scorpius, or a counter-clockwise spiral of stars that also looks like a snake about 10 deg. east of Scorpius). Another constellation in Leo is also named in two villages, having been borrowed from the Gond tribe, but is not well identified by the Kolams: Murda (a dead body). Also, in Taurus is (in five villages) Bhori, a bird (Aldebaran) with two unidentified eggs.",
   "constellations": [
     {
-      "id": "CON kolam 002",
+      "id": "CON Kolam 002",
       "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Saptarshi"}],
       "lines": [["* eta UMa", "* eta UMa"], ["* zet01 UMa", "* zet01 UMa"], ["* eps UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
       "certainty": "The three thieves are disconnected, as per description and an explicit drawing on slides by the authors (slides not public). This is unlike the variants of other tribes where the thieves are not individually named, so are lined into a procession. There are alternative semantics, since this is a group scene (four objects: a cot and three humans).",
       "description": "A cot (called Mandater) which three unconnected stars (a Kolam, a Gond, and a Pardhan chief, in order starting from the cot) are trying to steal. In only one village, there is an alternative semantic: a container with four edges; in early June, at sunset it is close to zenith and upside down, so pours out the rains (the remaining three stars are on their way to drink the water).",
-      "variant_of": ["CON banjara 001"],
+      "variant_of": ["CON Banjara 001"],
       "semantics": ["group", "man-made object"]
     },
     {
-      "id": "CON kolam 003",
+      "id": "CON Kolam 003",
       "names": [{"english": "Plough", "native": "Tivpate"}],
       "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
-      "certainty": "The semantic is multidimensional: the plough semantic is recent and clear, but there is an additional (probably older and vague) hunting-related semantic. It also is confused for the line of 3 stars in Cygnus, CON kolam 018. This version is the one the source appears to prefer.",
-      "description": "Tivpate or Tipan (an instrument used to sow seeds) is known in almost all Kolam villages, although in two villages this plough is the sword of Orion, while the belt has the semantics of CON kolam 018 (a tower of three pots). It is also known as the belt of a hunter, and the region around the Orion Nebula as a sword. (This may be a weak memory of the original Hindu myth which sees the entire Orion as a deer and the three stars of the belt as an arrow.) In one village, the entire Orion is included, not just the belt (but this structure is not identified). In another village, the region around Orion is a farming scene (like that around Sirius, alf CMa) with Medi, Kalave and Tandel or Aidal (a bull).",
+      "certainty": "The semantic is multidimensional: the plough semantic is recent and clear, but there is an additional (probably older and vague) hunting-related semantic. It also is confused for the line of 3 stars in Cygnus, CON Kolam 018. This version is the one the source appears to prefer.",
+      "description": "Tivpate or Tipan (an instrument used to sow seeds) is known in almost all Kolam villages, although in two villages this plough is the sword of Orion, while the belt has the semantics of CON Kolam 018 (a tower of three pots). It is also known as the belt of a hunter, and the region around the Orion Nebula as a sword. (This may be a weak memory of the original Hindu myth which sees the entire Orion as a deer and the three stars of the belt as an arrow.) In one village, the entire Orion is included, not just the belt (but this structure is not identified). In another village, the region around Orion is a farming scene (like that around Sirius, alf CMa) with Medi, Kalave and Tandel or Aidal (a bull).",
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON kolam 008",
+      "id": "CON Kolam 008",
       "names": [{"english": "Mahua Tree", "native": "Irukmara"}, {"english": "Mahua Tree", "native": "Ipamaka"}],
       "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"], ["* alf Cen A", "* alf Cen A"], ["* bet Cen", "* bet Cen"]],
       "certainty": "There are alternative semantics, since this is a group scene (three objects: a tree and two humans).",
       "description": "The only southern constellation recognised. Besides the tree itself, alf Cen is Murta (an old lady) and bet Cen is Kadma (a young lady), both there to collect flowers (they are included, unconnected). In one village, these two stars are instead called Oedda (man) and Pilla (woman). In one village, other neighbouring small stars are flowers of Mahua (Irup pokke) --- these are not identified so not included.",
-      "variant_of": ["CON gond 008"],
+      "variant_of": ["CON Gond 008"],
       "semantics": ["plant", "group"]
     },
     {
-      "id": "CON kolam 011",
+      "id": "CON Kolam 011",
       "names": [{"english": "Sea", "native": "Samdur"}],
       "lines": [["* alf Peg", "* bet Peg", "* alf And", "* gam Peg", "* alf Peg"]],
       "certainty": "Slightly uncertain. The source states that Samdur may also be in Centaurus.",
@@ -45,21 +45,21 @@
       "semantics": ["landscape"]
     },
     {
-      "id": "CON kolam 015",
+      "id": "CON Kolam 015",
       "names": [{"english": "Snake", "native": "Borenagu"}, {"english": "Cobra", "native": "Nagun"}],
       "lines": [["* lam Sco", "* ups Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* eta Sco", "* zet02 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* sig Sco", "* del Sco"]],
       "certainty": "Uncertain in composition. The source says that they probably include some stars above the conventional Scorpius in this constellation, but these are not identified. The lining of the head is not specified, so this line figure makes no head, only links a single star from the IAU Sco head, δ_Sco, into a simple S-shaped line.",
       "semantics": ["reptile"]
     },
     {
-      "id": "CON kolam 016",
+      "id": "CON Kolam 016",
       "names": [{"english": "Scorpion", "native": "Tuntor"}],
       "lines": [["* lam Sco", "* ups Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* eta Sco", "* zet02 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* sig Sco", "* c02 Sco", "* rho Sco", "* pi. Sco"], ["* sig Sco", "* nu. Sco", "* bet01 Sco", "* del Sco"]],
       "certainty": "The lining is uncertain. This version is the simplest and most naturalistic for a scorpion: H. A. Rey's, minus two small stars in the tail.",
       "semantics": ["arthropod"]
     },
     {
-      "id": "CON kolam 018",
+      "id": "CON Kolam 018",
       "names": [{"english": "Tower of Three Pots", "native": "Kavadi Kunde"}, {"english": "Tower of Three Pots", "native": "Kavedi Koda"}],
       "lines": [["* alf Cyg", "* gam Cyg", "* bet Cyg A"]],
       "certainty": "The stars in Cyg are not identified, but the authors (on slides) draw the pots over the Cyg backbone, so the 3 brightest backbone stars are chosen.",

@@ -11,7 +11,7 @@
   "description": "Java has an agrarian society, cultivating rice. The Pleiades are the main time-keeper to determine cultivation times, followed by Orion. The astronomical traditional are similar to those of the other the ethnic groups of Java (Sunda, Bugis and Makassar) and other related groups in the subregion.",
   "constellations": [
     {
-      "id": "CON java 001",
+      "id": "CON Java 001",
       "names": [{"english": "The Plough", "native": "Lintang Loukouh"}, {"native": "Waluku"}],
       "lines": [["* zet Ori", "* eps Ori", "* del Ori"], ["* zet Ori", "* sig Ori", "* tet01 Ori C", "* iot Ori", "* kap Ori"], ["* iot Ori", "* bet Ori"]],
       "certainty": "Identified and drawn in the source [van1885astronomie]. One star (marked 'c' in the source [van1885astronomie]) is replaced with sig Ori, which is the largest star in the area.",
@@ -19,18 +19,18 @@
       "semantics": ["man-made object"]
     },
     {
-      "id": "CON java 002",
+      "id": "CON Java 002",
       "names": [{"english": "Beautiful Woman", "native": "Lintang Wulanjar Ngirim"}],
       "lines": [["* bet Cen", "* alf Cen A"]],
-      "variant_of": ["CON bugis 004"],
+      "variant_of": ["CON Bugis 004"],
       "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The line is presumed based on the related Bugis constellation.",
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON java 003",
+      "id": "CON Java 003",
       "names": [{"english": "Slanted House", "native": "Lintang Gubug Péncéng"}],
       "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
-      "variant_of": ["CON bugis 001"],
+      "variant_of": ["CON Bugis 001"],
       "certainty": "Identified but not drawn in [khairuddin2021austronesian]. The polygon shape is presumed based on its identification with the Southern Cross in the same source.",
       "description": "It marks the direction of the south.",
       "semantics": ["architecture"]

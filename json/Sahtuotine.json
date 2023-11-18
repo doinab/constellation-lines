@@ -11,7 +11,7 @@
   "description": "The Sahtúot’įnę sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. An additional constellation is unidentified: a malevolent lion/tiger.",
   "constellations": [
     {
-      "id": "CON sahtuotine 001",
+      "id": "CON Sahtuotine 001",
       "names": [{"english": "The One Who Went Around the World", "native": "Yámǫréya"}],
       "lines": [["* iot UMa", "* kap UMa", "*  10 UMa", "HD  77912", "*  38 Lyn", "* alf Lyn", "* mu. Leo"], ["* eps Leo", "* alf Lyn"], ["* mu. Leo", "* eps Leo"], ["* psi UMa", "* chi UMa", "*   5 CVn", "* zet01 UMa"], ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"], ["*  37 LMi", "* zet Leo", "* gam01 Leo", "* eta Leo", "* alf Leo", "* omi Leo"], ["* nu. UMa", "* ksi UMa", "*  72 Leo", "* del Leo", "* tet Leo", "* bet Leo"], ["* psi UMa", "* nu. UMa", "*  37 LMi", "*  21 LMi", "HD  82741", "* kap UMa"], ["* tet UMa", "* phi UMa", "* ups UMa", "* h UMa", "* tau UMa", "* pi.02 UMa", "* omi UMa", "* f UMa", "* tet UMa"], ["* f UMa", "* iot UMa"], ["* psi UMa", "*  36 UMa", "* phi UMa"], ["* lam UMa", "* lam UMa"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. His right shoulder star is not identified, although it is drawn; it is identified here as 36 UMa based on the drawing. ",

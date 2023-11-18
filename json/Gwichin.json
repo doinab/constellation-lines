@@ -11,7 +11,7 @@
   "description": "The Gwich'in sky culture is the result of fieldwork with Northern Dene peoples, investigating how they conceptualize and integrate the sky into systems of knowledge, practices, cosmology, and spirituality. Characteristic is a principal constellation: the incarnated spirit of a Traveler figure who circled the world in Distant Time. A third constellation is known but was not shared with the researcher: a malevolent tiger-like being, 'the antithesis of everything that Yahdii was and continues to be' [cannon2021northerndene].",
   "constellations": [
     {
-      "id": "CON gwichin 001",
+      "id": "CON Gwichin 001",
       "names": [{"english": "The Tailed Man", "native": "Yahdii"}],
       "lines": [["* alf Cyg", "* gam Cyg", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"], ["* del UMa", "* gam UMa", "* lam UMa", "* mu. UMa", "* alf Boo", "* eta Boo"], ["* alf Aur", "* bet Aur", "* alf Gem", "* bet Gem"], ["* bet Aur", "* eta Tau", "* alf Gem"], ["* bet Tau", "* bet Tau"], ["* iot Aur", "* iot Aur"], ["* del UMa", "* alf UMa", "* h UMa", "* omi UMa", "*  15 Lyn", "* bet Aur"], ["* del UMa", "* bet UMa", "*  36 UMa", "* tet UMa", "* iot UMa", "* kap UMa", "*  31 Lyn", "* alf Gem"], ["*  27 Lyn", "*  27 Lyn"], ["* bet Tri", "* gam01 And", "* bet Aur"], ["* alf Gem", "* alf Leo", "* omi Leo"], ["* gam UMa", "* chi UMa", "* psi UMa", "* mu. UMa", "* lam UMa"], ["* alf Leo", "* gam01 Leo", "* zet Leo", "* mu. Leo", "* eps Leo"], ["* omi Leo", "* alf Hya"]],
       "certainty": "Most stars are identified, and a pictograph is drawn in the source [cannon2021northerndene]. The line figure here follows the star path of each body part listed, connecting them. The stars are well-corroborated by several people. Legs and arms and a part of the cane are not identified, so are not represented by stars here (they are only crossed by lines). Star eta Leo from the cane is skipped here (it creates an angle that does not match the pictograph). It is not clear whether the abdomen should be delineated from the head with a neckline (bet Aur, alf Gem); that line is included here.",
@@ -19,7 +19,7 @@
       "semantics": ["humanoid"]
     },
     {
-      "id": "CON gwichin 002",
+      "id": "CON Gwichin 002",
       "names": [{"english": "They Rose Far Up", "native": "Yeedàak Gahàajil"}],
       "lines": [["* del Boo", "* eps Boo", "* alf Boo"]],
       "certainty": "Certain.",
