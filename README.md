@@ -15,6 +15,6 @@ Analyses of this data:
 
 -------------------
 
-The map of sky cultures below. The number in parentheses counts constellations with line figures; the data files additionally contain names for individual stars, star clusters (such as the Pleiades), the Milky Way, and planets. Note: the data contains one extra lined constellation for the Kolam culture, compared to this map.
+The map of sky cultures below. The number in parentheses counts constellations with line figures; the data files additionally contain names for individual stars, star clusters (such as the Pleiades), the Milky Way, and planets. Note: the data contains +1 Kolam and +1 Pardhi lined constellations, compared to this map.
 
 ![culture_map_annotated](https://github.com/doinab/constellation-lines/assets/3672108/7def8b60-c4a2-48bb-87e0-c959176ef2de)

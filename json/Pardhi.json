@@ -1,0 +1,71 @@
+{
+  "id": "Pardhi",
+  "name": "Pardhi",
+  "region": "Asia",
+  "subregion": "S Asia",
+  "period": "shortly before 2019",
+  "place": "14 Pardhi villages in Central India, near the city of Amravati: Saur, Hartala, Hiwara BK, Wadura Beda, Daryapur, Darapur, Shinganapur, Khairi Donoda, Mangarul Chavhala Beda, Mukinpur Beda, Ajanti Beda, Zombadi Beda, Jagatpur Beda, Wadgaon",
+  "source": ["halkare2019pardhi"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austroasia",
+  "description": "The Pardhis have a small population (50,000) scattered over a large territory centered on Amravati. The genetic evidence points to the Pardhi evolving from the original Austro-Asiatic settlers (believed the first modern humans to settle in India), but they now speak newer Indo-European languages. The Pardhi were classified as criminals by the British during the colonial era, resulting in poor development: they still live in isolated, economically disadvantaged areas, and they often scavenge. (Of the 14 villages visited, in 3 the villages were cultivators, and in the others hunters and gatherers.) This provides them with a unique perspective of the sky, related to hunting and gathering. While they do have some beliefs in common of other tribes, there is a degree of originality due to their long traditions. The imagery is animistic: that of plants, animals and birds, far more so than for any other Indian tribe (as is expected if the ancestral population was only dependent on hunting and gathering for survival). The Pardhi association of Orion with deer and Taurus with a bird trap are unique. There are four constellations with lines, of which the Cobra or Snake in Scorpius is uncertain in star composition. The star pair called Two Bird's Eggs is uncertain in star composition, and has two variants. Another constellation, The Hilagoi Bird in the Pleiades-Taurus-Auriga region, remains unidentified.",
+  "constellations": [
+    {
+      "id": "CON Pardhi 002",
+      "names": [{"english": "Cot of the Old Lady Pursued by Three Thieves", "native": "Budinu Khatalu"}],
+      "lines": [["* eta UMa", "* eta UMa"], ["* zet01 UMa", "* zet01 UMa"], ["* eps UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The three thieves are disconnected: they are individually named.",
+      "description": "The rectangular cot of the old lady is called Budinu Khatalu. The three stars are called (in 6 villages) Three Thieves (Taran chor); in only 1 village, they are called Three Dead Men (Melela manas), and in another village Three Birds (individually named by their species: eps UMa is Teetar, zet UMa is Bater, and eta UMa is Lawada). In 2 other villages, they are three people from the Pardhi tribe, individually named: eps UMa is Chavandeyo (a person from the Gaon Pardhi tribe with the surname Chauhan who worshipped the goddess Chavanda), zet UMa is Khodyaryo or Pimplajyo (a person from the Gaon Pardhi tribe with the surname Solanke who worshipped the goddess Pimpalaj or Khodyar Devi), and eta UMa is Korobyo (a person from the Gaon Pardhi tribe with the surname Pawar who worshipped the goddess Korobyo).",
+      "variant_of": ["CON Banjara 001"],
+      "semantics": ["group", "man-made object"]
+    },
+    {
+      "id": "CON Pardhi 003",
+      "names": [{"english": "Three Deer", "native": "Tira Harine"}, {"native": "Trirkandu"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "Lining is uncertain; the deer are not individually named, so the figure is lined here like Orion's belt, which it is identified with in the source.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Pardhi 005",
+      "names": [{"english": "Net for Trapping Birds", "native": "Mangari"}],
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau"], ["* gam Tau", "* lam Tau"]],
+      "certainty": "Drawn explicitly on the authors' slides (slides not public) as a Y shape, supported in the source by pictures of real nets.",
+      "description": "A triangular-shaped net for trapping birds, naturalistically drawn. This is the V of Taurus, plus one handle star.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Pardhi 015",
+      "names": [{"english": "Cobra"}, {"english": "Snake"}, {"native": "Sapani Fani"}, {"native": "Fano Nikalyo"}, {"native": "Naganu Fanu"}],
+      "lines": [["* lam Sco", "* ups Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* eta Sco", "* zet02 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* sig Sco", "* del Sco"]],
+      "certainty": "Uncertain in star composition. The source only identifies this as Scorpius, and does not identify the stars. This line figure is thus a simple S-shaped line, only using a single star from the IAU Sco head, del Sco.",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Pardhi 019",
+      "names": [{"english": "Two Bird's Eggs", "native": "Ba Inda"}],
+      "lines": [["* kap02 Tau", "* kap02 Tau"], ["* ups Tau", "* ups Tau"]],
+      "certainty": "Uncertain: it could be either this pair of stars, or another in Auriga (variant CON Pardhi 020).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Pardhi 019",
+      "names": [{"english": "Two Bird's Eggs", "native": "Ba Inda"}],
+      "lines": [["* kap02 Tau", "* kap02 Tau"], ["* ups Tau", "* ups Tau"]],
+      "certainty": "Uncertain: it could be either this pair of stars, or another in Taurus (variant CON Pardhi 019).",
+      "variant_of": ["CON Pardhi 019"],
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"english": "Path"}, {"native": "Khagar"}, {"native": "Sadak"}, {"native": "Rasta"}, {"native": "Dandi"}, {"native": "Javanu Dandi"}],
+    "NAME Pleiades": [{"english": "A Flock of Jungle Babbler Birds", "native": "Lawadanu Khalu"}],
+    "NAME Venus": [{"english": "Morning Star"}, {"english": "Evening Star"}, {"native": "Sukar"}, {"native": "Shukrar Channi"}, {"native": "Padari Channi"}, {"native": "Hagarya Tara"}, {"native": "Jagin Tara"}],
+    "NAME Orion Nebula": [{"english": "Two Hunting Dogs", "native": "Bo Kutrya"}],
+    "* alf CMa": [{"english": "Morning Star"}, {"english": "Evening Star"}, {"native": "Sukar"}, {"native": "Shukrar Channi"}],
+    "* eps UMa": [{"english": "Grey Francolin", "native": "Teetar"}, {"description": "A person from the Gaon Pardhi tribe with the surname Chauhan who worshipped the goddess Chavanda.", "native": "Chavandeyo"}],
+    "* zet01 UMa": [{"english": "Black-Breasted Quail", "native": "Bater"}, {"description": "A person from the Gaon Pardhi tribe with the surname Solanke who worshipped the goddess Pimpalaj or Khodyar Devi", "native": "Khodyaryo or Pimplajyo"}],
+    "* eta UMa": [{"english": "Rock Bush Quail", "native": "Lawada"}, {"description": "A person from the Gaon Pardhi tribe with the surname Pawar who worshipped the goddess Korobyo", "native": "Korobyo"}],
+    "* bet Ori": [{"english": "A Person from the Pardhi Tribe", "native": "Pardhi"}]
+  }
+}
