@@ -1,0 +1,96 @@
+{
+  "id": "Korku",
+  "name": "Korku",
+  "region": "Asia",
+  "subregion": "S Asia",
+  "period": "2016",
+  "place": "12 Korku villages in Northern Maharashtra, about 200 km north of Amravati: Zingapur, Rani Tamboli, Kawadaziri, Makhala, Raipur, Borata Kheda, Bela, Jamunala, Baghalinga, Gaulkheda Bazar, Hatida, Gadgabhandum",
+  "source": ["vahia2016korku"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austroasia",
+  "description": "The Korku (population over 1 million) are an ancient Indian tribe, descendants of Austro-Asian settlers (believed the first modern humans to settle in India). They live in central India, in sparsely populated forest reserves, and traditional villages. Despite being geographically and culturally isolated from the mainstream Indian population, and having little contact with other tribes, their traditional lifestyle is changing, and traditional knowledge is being lost. Originally hunter-gatherers, within the last 50 years they were forced to practice subsistence agriculture. All 12 villages recognise the Big Dipper as a Golden Cot Pursued by Three Thieves, and a plough in Orion's belt. The other sky objects are less frequently named. Six constellations have semantics which imply lines (a rectangular cot, a circular ground, a well, a dagger, etc.), but there are more named stars and star groups. Other sky regions are mentioned, but the star groups or constellations are not clearly nor consistently identified, so are not included: in IAU Scorpius and Corona Australis, one village identifies a scorpion in the Sco-CrA region, with the Western Sco as its fang, other villages identify the Western Scorpius (or only its tail) as the true Scorpius, and another village identifies a scorpion below the Western Sco. There are also more variants of the names among villages than included here. (Note: There are inconsistencies in [vahia2016korku] between Table 2 containing names and the preceding text; Table 2 is taken as the leading source in star identification, which is more precise there, but the names are corrected according to the text.)",
+  "constellations": [
+    {
+      "id": "CON Korku 002",
+      "names": [{"english": "Golden Cot Pursued by Three Thieves", "native": "Sona Parkom"}],
+      "lines": [["* eta UMa", "* eta UMa"], ["* zet01 UMa", "* zet01 UMa"], ["* eps UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The three thieves are disconnected, because they are individually named.",
+      "description": "The 4 stars are a cot (Sona Parkom) made of gold. The bed is deformed (not a perfect rectangle) since it is being pulled by one of the thieves. The thieves are individually named: eps UMa is thief 1 (Pahila Chor), zet01 UMa is thief 2 (Dusara Chor), and eta UMa is thief 3 (Tisara Chor. In 5 villages, thief 2 carries a water jug (g UMa, Alcor). In 4 villages, this constellation is used as a clock in the night.",
+      "semantics": ["group", "man-made object"]
+    },
+    {
+      "id": "CON Korku 004",
+      "names": [{"english": "Farming Scene", "native": "Harnangar"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"], ["* bet Ori", "* bet Ori"], ["* kap Ori", "* kap Ori"], ["* alf Ori", "* alf Ori"]],
+      "certainty": "The 3 individuals (a person and 2 bullocks) are not lined because they are individually named, but the plough is lined. The plough is identified in all 12 villages, the bullocks in 7 villages, and the man in only 2 villages.",
+      "description": "Orion's belt is Harnangar (a plough with 3 blades), bet and kap Ori are Doba 1 and 2 (bullocks), and alf Ori is Nangarnara manus (the man ploughing the field). ",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Korku 006",
+      "names": [{"english": "Arrangement for Separating Seeds from Whey", "native": "Khiryan"}],
+      "lines": [["* alf Tau", "* eps Tau", "* del Tau", "* gam Tau"], ["* eta Ori", "* eta Ori"], ["* tet02 Tau", "* tet02 Tau"]],
+      "certainty": "The star identification is not consistent and the star names sometimes incorrect in [vahia2016korku]. The pole is different in the village reports compared to Table 2. This is the identification (Bayer star names) from Table 2, which is more circular in shape. This constellation was only identified in 2 villages.",
+      "description": "The circular ground for thrashing rice husk (Khiryan) is alf to gam Tau. The rope to control the bulls (Michan) is eta Ori. The central pole (Miryan) is tet02 Tau.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON Korku 007",
+      "names": [{"english": "Dagger", "native": "Katri"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "certainty": "Reported in only one village.",
+      "description": "A dagger (katri) with a lemon at the tip, used in marriage ceremonies.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Korku 008",
+      "names": [{"english": "Mahua Tree", "native": "Mahua"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "certainty": "Reported in only one village.",
+      "description": "The Mahua tree is a remarkably multifunctional native tree, highly prized by the Korku, and cultivated both on the plains and in the forest areas. It is thus surprising that this constellation is only reported by one village.",
+      "semantics": ["plant"]
+    },
+    {
+      "id": "CON Korku 010",
+      "names": [{"english": "Well and Water Bearers", "native": "Kunva"}],
+      "lines": [["* bet Tau", "* iot Aur", "* eta Aur", "* alf Aur", "* bet Aur", "* tet Aur", "* bet Tau"], ["* alf Gem", "* alf Gem"], ["* bet Gem", "* bet Gem"]],
+      "certainty": "Kunva (the well) is identified only as 'Auriga', so only the big loop of Auriga is drawn here to match the well semantic.",
+      "description": "The two water bearers (da Hinda) are female and named: alf Gem is Raike and bet Gem is Chaike.",
+      "semantics": ["architecture", "group"]
+    },
+    {
+      "id": "CON Korku 017",
+      "names": [{"english": "Bird and Eggs", "native": "Pankheru"}],
+      "lines": [["* alf CMa", "* alf CMa"], ["* del CMa", "* del CMa"], ["* eps CMa", "* eps CMa"]],
+      "certainty": "A group, so no lines are drawn. There is an alternate, but imprecise identification: 'lam Ori and stars around it' [vahia2016korku], not included here.",
+      "description": "alf CMa is the bird (Pankheru). The eggs (Bhori Aakom) are del CMa and eps CMa.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "* g UMa": [{"english": "Water jug", "native": "Kaseti", "description": "In five Korku villages, Alcor is called a water jug."}, {"native": "Dhona"}, {"native": "Ghanti", "english": "Bell", "description": "In two Korku villages, Alcor is called a bell."}, {"native": "Kudapa"}, {"native": "Dadudi"}],
+    "* alf UMi": [{"native": "Dhur Tara"}],
+    "* eps UMa": [{"native": "Pahila Chor", "english": "Thief 1"}],
+    "* zet01 UMa": [{"native": "Dusara Chor", "english": "Thief 2"}],
+    "* eta UMa": [{"native": "Tisara Chor", "english": "Thief 3"}],
+    "* bet Ori": [{"native": "Doba 1", "english": "Bullock 1"}],
+    "* kap Ori": [{"native": "Doba 2", "english": "Bullock 2"}],
+    "* alf Ori": [{"native": "Nangarnara Manus", "english": "Person Ploughing the Field"}],
+    "* eta Ori": [{"native": "Michan", "english": "Rope to Control the Bulls"}],
+    "* tet02 Tau": [{"native": "Miryan", "english": "Central Pole"}],
+    "* alf Cen A": [{"native": "Dhanaya"}],
+    "* bet Cen": [{"native": "Bharada"}],
+    "* eps Cen": [{"native": "Charakhaya"}],
+    "* tet Cen": [{"native": "Pechla"}],
+    "* alf Gem": [{"native": "Raike"}],
+    "* bet Gem": [{"native": "Chaike"}],
+    "* alf CMa": [{"native": "Pankheru", "english": "Bird"}],
+    "* del CMa": [{"native": "Bhori Aakom", "english": "Egg"}],
+    "* eps CMa": [{"native": "Bhori Aakom", "english": "Egg"}],
+    "* kap01 Tau": [{"native": "Pati", "english": "Husband"}],
+    "* mu. Tau": [{"native": "Patni", "english": "Wife"}],
+    "*  72 Tau": [{"native": "Mulga", "english": "Son"}],
+    "NAME Pleiades": [{"native": "Gai Jijulu", "english": "Minced Cow Meat", "description": "In seven Korku villages, Pleiades are associated with minced cow meat."}, {"native": "Kuthali Ku", "english": "Minced Cow Meat"}, {"native": "Gaikasai", "english": "Minced Cow Meat"}, {"native": "Bhotmongari", "english": "Tool to Remove Husk", "description": "In 4 Korku villages, Pleiades are called a tool to remove husk."}, {"native": "Gugul Gothu", "english:": "Earth Worm", "description": "In 1 Korku village, Pleiades are called an earth worm."}],
+    "NAME Milky Way": [{"english": "Crowded Path", "native": "Rahadari Kora", "description": "The path is the most frequent semantic, documented in 9 villages. Many villagers were uncertain about the travellers on this path. Several villagers said that the Milky Way had two paths: on the primary path a man (Jeth) was walking, and when he encountered the wife (Bahu) of his younger brother, she had to change to a subordinate path. This explains why the Milky Way is bifurcated."}, {"english": "Council of Gods", "description": "The Milky Way near Scorpius and between Scorpius and Crux is considered a place where the Gods (Devgan Panchayat) hold their meetings to discuss issues of importance to the Earth."}]
+  }
+}
