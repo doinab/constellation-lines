@@ -2,7 +2,7 @@
 
 An accessible, Creative-Commons-licenced, documented, and referenced dataset of constellations: most with line figures (or connect-the-dot figures) rather than only star groups. The stars are identified by [SIMBAD ids](https://simbad.cds.unistra.fr/simbad/sim-fid), which are both human- and machine-readable (usually latinised Bayer ids). The scholarly sources are in file _sources.bib_.
 
-The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes _culture metadata_ and scholarly _sources_. The constellations are annotated with _names_, text on the degree of _certainty_ in its identification, a _description_ (usually a summary of practical usage or mythological themes for that constellation), the _semantics_ of the constellation (derived from the description and name), and pointers to any _variant_ or related constellations. The _sky charts_ (polar, with stars plotted up to magnitude 6.0, for either one or both hemispheres as per the extent of the data) show the lined constellations per culture.
+The constellations were documented in _sky cultures_ (traditional astronomies, from tribes to empires) across the world and through time. The data includes _culture metadata_ and scholarly _sources_. The constellations are annotated with _names_, text on the degree of _certainty_ in its identification, a _description_ (usually a summary of practical usage or mythological themes for that constellation), the _semantics_ of the constellation (derived from the description and name), and pointers to any _variant_ or related constellations. The _sky charts_ (polar, with stars plotted up to magnitude 6.0, for either one or both hemispheres as per the extent of the data) show the lined constellations per culture. Most constellations have _line figures_. The data also includes some constellations for which only the IAU sky region was identified but not the stars (these have the "IAU" but not the "lines" field), star clusters (such as the Pleiades), and native names for the Milky Way, planets, and individual stars.
 
 The .json format is compatible with that of the [Stellarium app and Web versions](https://github.com/Stellarium/stellarium-skycultures), such that the data can be reused there.
 
@@ -15,6 +15,6 @@ Analyses of this data:
 
 -------------------
 
-The map of sky cultures below. The number in parentheses counts constellations with line figures; the data files additionally contain names for individual stars, star clusters (such as the Pleiades), the Milky Way, and planets. Note: the data contains +1 Kolam and +1 Pardhi lined constellations, compared to this map.
+The map of sky cultures below. The number in parentheses counts constellations with line figures. Note: the data contains +1 Kolam and +1 Pardhi lined constellations, compared to this map.
 
 ![culture_map_annotated](https://github.com/doinab/constellation-lines/assets/3672108/7def8b60-c4a2-48bb-87e0-c959176ef2de)
