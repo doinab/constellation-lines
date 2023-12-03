@@ -16,6 +16,7 @@
       "lines": [["* eta UMa", "* eta UMa"], ["* zet01 UMa", "* zet01 UMa"], ["* eps UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
       "certainty": "The three thieves are disconnected, because they are individually named.",
       "description": "The 4 stars are a cot (Sona Parkom) made of gold. The bed is deformed (not a perfect rectangle) since it is being pulled by one of the thieves. The thieves are individually named: eps UMa is thief 1 (Pahila Chor), zet01 UMa is thief 2 (Dusara Chor), and eta UMa is thief 3 (Tisara Chor. In 5 villages, thief 2 carries a water jug (g UMa, Alcor). In 4 villages, this constellation is used as a clock in the night.",
+      "variant_of": ["CON Banjara 001"],
       "semantics": ["group", "man-made object"]
     },
     {
@@ -68,7 +69,7 @@
     }
   ],
   "common_names": {
-    "* g UMa": [{"english": "Water jug", "native": "Kaseti", "description": "In five Korku villages, Alcor is called a water jug."}, {"native": "Dhona"}, {"native": "Ghanti", "english": "Bell", "description": "In two Korku villages, Alcor is called a bell."}, {"native": "Kudapa"}, {"native": "Dadudi"}],
+    "* g UMa": [{"english": "Water jug", "native": "Kaseti", "description": "In 5 Korku villages, Alcor is called a water jug."}, {"native": "Dhona"}, {"native": "Ghanti", "english": "Bell", "description": "In 2 Korku villages, Alcor is called a bell."}, {"native": "Kudapa"}, {"native": "Dadudi"}],
     "* alf UMi": [{"native": "Dhur Tara"}],
     "* eps UMa": [{"native": "Pahila Chor", "english": "Thief 1"}],
     "* zet01 UMa": [{"native": "Dusara Chor", "english": "Thief 2"}],
@@ -90,7 +91,7 @@
     "* kap01 Tau": [{"native": "Pati", "english": "Husband"}],
     "* mu. Tau": [{"native": "Patni", "english": "Wife"}],
     "*  72 Tau": [{"native": "Mulga", "english": "Son"}],
-    "NAME Pleiades": [{"native": "Gai Jijulu", "english": "Minced Cow Meat", "description": "In seven Korku villages, Pleiades are associated with minced cow meat."}, {"native": "Kuthali Ku", "english": "Minced Cow Meat"}, {"native": "Gaikasai", "english": "Minced Cow Meat"}, {"native": "Bhotmongari", "english": "Tool to Remove Husk", "description": "In 4 Korku villages, Pleiades are called a tool to remove husk."}, {"native": "Gugul Gothu", "english:": "Earth Worm", "description": "In 1 Korku village, Pleiades are called an earth worm."}],
+    "NAME Pleiades": [{"native": "Gai Jijulu", "english": "Minced Cow Meat", "description": "In 7 Korku villages, Pleiades are associated with minced cow meat."}, {"native": "Kuthali Ku", "english": "Minced Cow Meat"}, {"native": "Gaikasai", "english": "Minced Cow Meat"}, {"native": "Bhotmongari", "english": "Tool to Remove Husk", "description": "In 4 Korku villages, Pleiades are called a tool to remove husk."}, {"native": "Gugul Gothu", "english:": "Earth Worm", "description": "In one Korku village, Pleiades are called an earth worm."}],
     "NAME Milky Way": [{"english": "Crowded Path", "native": "Rahadari Kora", "description": "The path is the most frequent semantic, documented in 9 villages. Many villagers were uncertain about the travellers on this path. Several villagers said that the Milky Way had two paths: on the primary path a man (Jeth) was walking, and when he encountered the wife (Bahu) of his younger brother, she had to change to a subordinate path. This explains why the Milky Way is bifurcated."}, {"english": "Council of Gods", "description": "The Milky Way near Scorpius and between Scorpius and Crux is considered a place where the Gods (Devgan Panchayat) hold their meetings to discuss issues of importance to the Earth."}]
   }
 }
