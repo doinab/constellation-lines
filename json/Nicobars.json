@@ -1,0 +1,53 @@
+{
+  "id": "Nicobars",
+  "name": "Nicobars",
+  "region": "Asia",
+  "subregion": "S Asia",
+  "period": "2018",
+  "place": "9 villages on Nicobar Islands: Camorta Island (village: Munak), Nancowry Island (Kakana, Pilpillow), Chowra Island (Taeela), Teressa Island (Bengali, Kalasi, Minyuk, Luxi, Enam)",
+  "source": ["vahia2018nicobars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "Austroasia",
+  "description": "The Nicobar Islands are an archipelagic island chain in the eastern Indian Ocean, north of Indonesia, inhabited by the Nicobarese tribe (of Austroasiatic origin). A significant fraction of the elder population was washed away in a tsunami in 2004; the rest have been resettled. This perspective of the skies was documented from the survivors. Their astronomy was used for navigation in the past (now, these navigation skills are lost). The constellations identified are located in the Western Big Dipper, Crux, the belt of Orion, and Scorpius (each recognised in 4-7 villages). Scorpius (called Miroleach or Crab on Teressa Island) is not identified except as the Western sky region of IAU Sco. An earlier (1997) source states that the Nicobarese are aware of Centaurus (Onchiana), but this constellation is not identified in [vahia2018nicobars]. The IAU constellations Lepus and Lupus are confused in [vahia2018nicobars] (probably a typo, 'Lupus: Position of Lepus is used for navigation'); neither is included here, since not identifiable. Names are documented for Mars and Venus, the Milky Way, Pleiades, Polaris, and Aldebaran. The source does not provide drawings of these native constellations (only textual descriptions), but these constellations were identified by the natives using modern charts, so lines are drawn here if the textual description is sufficiently precise to infer a shape (for example, 4 stars in Big Dipper make a box, and 3 stars a ladder). The source also refers to charts from an older source, which are less well identifiable.",
+  "constellations": [
+    {
+      "id": "CON Nicobars 001",
+      "names": [{"english": "Box for Hens and Ladder", "native": "Lanop"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa"], ["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The line figure is drawn disconnected into its 2 components (box and ladder), since the descriptions appear to consider them separate objects in a scene. This constellation is documented in 7 villages.",
+      "description": "In Pilpillow village on Nancowry Island, the first 4 stars (Ungyanga) form the basket to keeps the hens safe and, the trailing 3 stars form the ladder to climb to the basket. In Taeela village on Chowra Island, this constellation is called Honrulohotam; the 4 stars (Lenob) are a basket to keep hens, and the 3 trailing stars make a ladder. Similar descriptions and names from Kalasi, Minyuk, and Bengali villages on Teressa Island. In Munak village on Camorta Island, the 4 leading stars (Uyav) are the coconut tree, and the trailing 3 (Inoat or Dav) are the tool to cut coconut from the tree.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Nicobars 002",
+      "names": [{"english": "Cross", "native": "Kuras"}, {"english": "Dagger Used for Fishing", "native": "Mian"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "certainty": "Lined according to the cross and dagger semantics, both a cross shape. This constellation is documented in 7 villages.",
+      "description": "Kuras is the name on Teressa Island (where it is used as a compass and a clock), and Mian on Camorta Island.",
+      "semantics": ["geometric", "man-made object"]
+    },
+    {
+      "id": "CON Nicobars 003",
+      "names": [{"english": "Dead Man's Stick", "native": "Konseu"}, {"english": "Old Man's Walking Stick", "native": "Kenseu"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "This constellation is documented in 5 villages.",
+      "description": "Konseu or Konseu‐a is the name on Teressa Island, with the variant Kenseu on Chowra Island.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Nicobars 004",
+      "names": [{"english": "Crab", "native": "Miroleach"}],
+      "certainty": "This constellation is documented in 4 villages, but the stars and shape are never described. It is not clear whether the entire or only part of the Western Sco is used as a crab.",
+      "description": "Miroleach, Mirolack, or Kamichat are name variants on Teressa Island.",
+      "semantics": ["arthropod"],
+      "IAU": "Sco"
+    }    
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"native": "Vyay Raik", "english": "Spring of Water", "description": "Name on Camorta Island."}, {"native": "Pok Rak", "english": "Spring of Water", "description": "Name on Teressa Island; also translated as a river."}],
+    "NAME Venus": [{"native": "Balangaru‐ayah", "description": "Name on Camorta Island."}],
+    "NAME Pleiades": [{"native": "Toyan", "description": "Name on Camorta Island."}, {"native": "Kavio", "english": "King", "description": "Name on Teressa Island."}, {"native": "Kavio", "english": "King", "description": "Name on Chowra Island, where it is used as a clock. Alternative names: Koini or Tajainy (Old Person)."}],
+    "* alf UMi": [{"native": "Kalit Pich", "description": "Name on Teressa Island."}],
+    "* alf Tau": [{"native": "Takaru Kalitpicho", "english": "Big Star", "description": "Name on Teressa Island."}]
+  }
+}
