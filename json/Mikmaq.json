@@ -1,0 +1,53 @@
+{
+  "id": "Mikmaq",
+  "name": "Mi'kmaq",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "late 1800s",
+  "place": "Nova Scotia",
+  "source": ["hagar1900celestial", "miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Mi'kmaq live in the forests and on the shores of Nova Scotia, Prince Edward Island, eastern New Brunswick, and the Gaspé Peninsula, in NE North America. Because of the short growing season and the abundance of land and water wildlife, they hunted and fished rather than farmed---and this reflects in their sky myths. Their culture hero is a character called Gluskap (spelled also Glooscap), who showed the people how to hunt and fish, and named the stars and constellations. The source [miller1997stars] covers the Mi'kmaq (spelled Micmac) on pages 36-40, based on the early ethnographic paper [hagar1900celestial], which in turn references a Le Clerq (1691) to confirm part of the information. The most salient feature of the Mi'kmaq sky is the interpretation of the Big Dipper rectangle as a celestial bear, and its handle plus stars in IAU Boo as seven bird hunters. Though the bear was known to many widely separated tribes, the seven hunters in UMa and Boo appear peculiar to the Mi'kmaq and the Iroquois (elsewhere the hunter group seems to be limited to the stars of the Big Dipper.) Acc. to [hagar1900celestial], the common origin of the legend is clear for the Mi'kmaq and the Iroquois, who have been in frequent contact. The Cherokees also knew the three (and sometimes seven) hunters who pursue a bear. The stars, native names, gloss, and myth are precisely identified for CON Mikmaq 001-003 (004 is also documented but not identified in the sky) in [hagar1900celestial]. Line figures are then drawn explicitly in [miller1997stars].",
+  "constellations": [
+    {
+      "id": "CON Mikmaq 001",
+      "names": [{"english": "Bear's Den", "native": "Mskegwŏm"}],
+      "lines": [["* del Boo", "* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* rho CrB", "* kap CrB", "*   7 CrB A", "* mu.01 Boo"]],
+      "description": "The bear (CON Mikmaq 002) is said to emerge from her den in the spring, and her spirit goes back into its den in the fall.",
+      "semantics": ["architecture"]
+    },
+    {
+      "id": "CON Mikmaq 002",
+      "names": [{"english": "Celestial Bear", "native": "Mooin"}],
+      "lines": [["* del UMa", "* gam UMa", "* bet UMa", "* alf UMa A", "* del UMa"]],
+      "description": "The bear is said to emerge from her den (CON Mikmaq 001) in the spring. During the summer, when she stands upright, seven hunters (CON Mikmaq 003) chase her. In the fall, with the bear lying on its back preparing for hibernation, several of the hunters drop out of the chase (below the horizon). The remaining hunters kill the bear. Through the winter, her skeleton lies upon its back in the sky, but her life spirit enters another bear who lies upon her back in the den, invisible and hibernating. The story repeats the next spring, and eternally.",
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Mikmaq 003",
+      "names": [{"english": "Hunters", "native": "Ntóoksooinook"}],
+      "lines": [["* eps UMa", "* zet01 UMa", "* eta UMa", "* gam Boo", "* eps Boo", "* alf Boo", "* eta Boo"]],
+      "description": "The hunters represent birds, individually named. They chase the bear (CON Mikmaq 002). The second hunger carries a pot (Alcor, g UMa), so that, when the bear is killed, he may cook the meat. In the fall, several of the hunters drop out of the chase (below the horizon). The remaining hunters kill the bear. Blood splatters the robin (eps UMa), explaining the spot on its breast.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Mikmaq 004",
+      "names": [{"english": "Three hunters in a canoe"}],
+      "lines": [["* gam UMi", "* bet UMi", "*   4 UMi"]],
+      "certainty": "The stars are not identified; these are the suggestion in [miller1997stars].",
+      "description": "This is a second hunting scene in the sky. Acc. [hagar1900celestial], one Mi'kmaq remembered that his tribe once thought there was another bear hidden under the sky near the pole, and that the neighbouring stars were hunters circling around in a vain endeavour to locate its den. Both bears are mentioned in Le Clerq (1691): the Great and Little Bear, this being the earliest reference to these star groups.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "* eps UMa": [{"english": "Robin", "native": "Quipchowwéch", "description": "The first hunter was called the robin because the star has a reddish tinge."}],
+    "* zet01 UMa": [{"english": "Chickadee", "native": "Chŭgegéss", "description": "The second hunter was called the chickadee because its star is smaller than the others."}],
+    "* eta UMa": [{"english": "Moose Bird", "native": "Mikchăgōgwéch"}],
+    "* gam Boo": [{"english": "Pigeon", "native": "Pŭlés"}],
+    "* eps Boo": [{"english": "Blue Jay", "native": "Wŏlŏwéch", "description": "The fifth hunter was called the blue jay because its star is blue."}],
+    "* alf Boo": [{"english": "Owl", "native": "Kookoogwéss", "description": "The sixth hunter was called the owl because of its large size."}],
+    "* eta Boo": [{"english": "Saw-whet", "native": "Kōpkéch", "description": "The seventh hunter was called the saw-whet because its reddish hue suggests the brilliant red feathers which mark the head of that bird."}],
+    "* g UMa": [{"english": "Pot", "native": "Wo"}]
+  }
+}
