@@ -1,0 +1,52 @@
+{
+  "id": "Iroquois",
+  "name": "Iroquois",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "1895-1922",
+  "place": "Iroquois Confederacy",
+  "source": ["miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Iroquois Confederacy, centered in the current New York State, consists of five tribes which made an alliance between 1400-1600 (the Seneca, Cayuga, Onondaga, Oneida, and Mohawk) and the Tuscarora, which joined in the early 1700s. They live in longhouses. Men hunted and fished, women planted and gathered. The stars are used to tell time, and (the North Star) as navigational marker. N. van Wassenaer, who wrote on the settlement of New Netherland in the early 1600s, noted that the Iroquois women were the most experienced stargazers, and knew the constellations well (but does not explain why). The source [miller1997stars] references 1883-1922 ethnographic sources, and identifies a bear-and-hunters constellation (in two variants), locating it against Western ones. Another constellation is mentioned in a myth (1883), but is not identified (The Old Man). In another myth (1922), the Sky Woman made the sun, moon, and stars, forming the constellations: They Are Pursuing the Bear (CON Iroquois 001-003 located in the Big Dipper), It Brings the Day (Venus), They Are Dancing (Pleiades), She Is Sitting (located in IAU Ori, but without star identification), Beaver that Spreads its Skin (located in IAU UMi, but without star identification), The Group Visible (not located). Only three of the constellations identified have line figures.",
+  "constellations": [
+    {
+      "id": "CON Iroquois 001",
+      "names": [{"english": "Celestial Bear", "native": "Nya-gwa-ih"}],
+      "lines": [["* del UMa", "* gam UMa", "* bet UMa", "* alf UMa A", "* del UMa"]],
+      "description": "In a story, a stone monster attacks a group of hunters. Only 3 survive (CON Iroquois 002). The bear is the bowl. All are carried to the sky. In the fall, the arrows pierce the bear's skin, making the sky red. In another story, a huge snow bear is eating the winter game of the Iroquois, so 3 brothers (CON Iroquois 002) chase the bear (the bowl) into the sky. The bear weaves an invisible net that it casts over the skies, and hides under it to rest (identified with CrB). When they reach the sleeping bear, the bear pushes the hunters away in the sky. The Iroquois (known as great runners) keep running into the sky, following the bear, who eludes them.",
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Iroquois 002",
+      "names": [{"english": "Hunters"}],
+      "lines": [["* eps UMa", "* zet01 UMa", "* eta UMa"]],
+      "certainty": "This constellation is lined, to show the chase of the bear as a procession.",
+      "description": "In a story, a stone monster attacks a group of hunters. Only 3 survive (Big Dipper's handle: the one nearest the bear carries a bow, the second a kettle, and the third gathers sticks). The bear (CON Iroquois 001) is the bowl. All are carried to the sky. In another story, a huge snow bear (CON Iroquois 001) is eating the winter game of the Iroquois, so 3 brothers (Big Dipper's handle) chase the bear into the sky. Alcor is a dog Ji-yeh. When they reach the sleeping bear, the bear pushes the hunters away in the sky. The Iroquois (known as great runners) keep running into the sky, following the bear, who eludes them.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Iroquois 004",
+      "names": [{"english": "Net"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB"]],
+      "certainty": "The source identifies it with IAU CrB. Since the shape of IAU CrB matches the semantics, the Western CrB line figure is drawn.",
+      "description": "In celestial hunt stories, the bear (CON Iroquois 001) weaves an invisible net that it casts over the skies, and hides under it to rest.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Iroquois 003",
+      "names": [{"english": "They Are Pursuing the Bear"}],
+      "lines": [["* eps UMa", "* eps UMa"], ["* zet01 UMa", "* zet01 UMa"], ["* eta UMa", "* eta UMa"], ["* gam UMa", "* gam UMa"], ["* bet UMa", "* bet UMa"], ["* alf UMa A", "* alf UMa A"], ["* del UMa", "* del UMa"]],
+      "certainty": "This constellation has no lines, since all stars are individuals and no procession of hunters is described.",
+      "description": "In a story, the bear is the Big Dipper bowl star closest to the North Star. The other stars are six hunters. Alcor is a kettle that one hunter carries.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "* g UMa": [{"english": "Kettle"}, {"english": "Dog", "native": "Ji-yeh"}],
+    "* alf UMi": [{"english": "Star That Never Moves", "native": "Ti-yn-sōu-dă-go-êrr", "description": "There are many stories about the North Star. One tells of a hunting party which got lost, then was provided (by a race of little people) with a sign in the sky, to guide them back to their tribe. When the hunters arrived home, the head chief called a meeting of all tribes, and gave the star a name."}],
+    "NAME Pleiades": [{"english": "Dancing Stars", "native": "Od-je-so-dah", "description": "In one tale on the origin of the Pleiades, during the winter, a hunter is teaching his 11 sons hunting secrets. The sons are awaken one night by the chant of sky witches, and begin dancing day and night, whirling around the sky. The moon changes them into a group of stars and directs them to dance over the council house every New Year."}, {"english": "There They Dwell in Peace", "native": "Oot-kwa-tah", "description": "In another tale on the origin of the Pleiades, also during the winter, a band of hunters built lodges for the winter on a lake shore. The children had little to do, and gathered daily by the lake to have a jolly dance. One day, a strange old man came to them, dressed in white feathers and with white hair. He told them to stop dancing, or evil would happen to them---but the children didn't listen. One day as they dance while hungry, they rose to the sky: seven dancing children."}],
+    "NAME Milky Way": [{"english": "Great Sky Road", "native": "Dja-swĕn'-do'", "description": "Represents the belt of a four-eyed hunter in the sky, Ga-do-wăăs, who watches the gate through which souls pass into immortality. He decorated his belt with stars, and cast it into space, illuminating the path which guides the souls. Each soul travels, guided by a star, from the soul house (the body) to the Great Sky Road, where it goes on to the place of the Maker."}],
+    "NAME Venus": [{"english": "It Brings the Day", "native": "Gaⁿdewitha", "description": "Was once an important sky object for the Iroquois, but this was lost by the early 1900s."}, {"english": "Star Woman"}]
+  }
+}
