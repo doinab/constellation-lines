@@ -1,0 +1,88 @@
+{
+  "id": "Zuni",
+  "name": "Zuni",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "1900s",
+  "place": "on the Zuni river on the Colorado Plateau",
+  "source": ["miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "description": "The Zuni are Western Pueblos in SW North America, who live on the Zuni river on the Colorado Plateau. They illustrate stars on their ceremonial objects (masks, headdresses, altars, murals). After the sun and moon, the most revered celestial body is the Morning Star, formerly the patron of their warriors and hunters. They also recognise and use both Dippers, Orion, the Pleiades, the Milky Way, the North Star and the Evening Star. Using the moon, Orion, and the Pleiades, they mark the time at night, and mark events in the agricultural cycle (such as the planting of corn). The source [miller1997stars] covers the Zuni on pages 180-184, referencing many sources from the period 1900-1981. Most constellations are poorly or incompletely identified in terms of their stars, and few of the line figures are certain. The Zuni had a sky-wide constellation called Chief of the Night. This is described (in unpublished field notes (1929) by the linguist and ethnologist John P. Harrington) as 'the most majestic constellation ever reported from any tribe of Indians. It is a gigantic human figure, bigger than the whole visible sky. Some part of the body of the Chief of the Night is perpetually visible, guarding the earth throughout the year'. This is similar to the whole-sky figures of the Northern Dene cultures in Alaska (Ahtna, Gwich'in, and others). Little of this constellation has been identified in his notes. Later researchers have made a tentative identification of the heart (CON Zuni 007) and arms (CON Zuni 008-009). In addition to these (partly) identified constellations, there is an unidentified one: Stick Game Ones (presumably located near IAU Lib), which is associated with a game played by the Zuni priesthood to conjure rain.",
+  "constellations": [
+    {
+      "id": "CON Zuni 001",
+      "names": [{"english": "The Seven"}, {"english": "The Great White Bear of the Seven Stars"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* bet UMa", "* alf UMa", "* del UMa"]],
+      "certainty": "It is not clear which is the main semantic: of the two, the simpler (The Seven or The Seven Ones) is mentioned first, with the longer version (The Great White Bear of the Seven Stars) mentioned in only one known record. It is identified by the source as Big Dipper, but without showing a line figure. This line figure closes the rectangle (since the other N-American bear constellations have a closed polygon) but an unlined star group would also be valid to match the group semantic.",
+      "semantics": ["group", "mammal"]
+    },
+    {
+      "id": "CON Zuni 002",
+      "names": [{"english": "Star Zigzag"}],
+      "lines": [["* eps Cas", "* del Cas", "* gam Cas", "* eta Cas", "* alf Cas", "* bet Cas"]],
+      "certainty": "It is identified by the source as IAU Cas, but without showing a line figure. However, the name naturally calls for a zigzag line figure.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Zuni 003",
+      "names": [{"english": "Those to the North"}],
+      "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi", "* zet UMi"]],
+      "certainty": "The line figure is uncertain. It is identified by the source as the Little Dipper. This line figure is the Western one.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Zuni 004",
+      "names": [{"english": "Star Sling"}],
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]],
+      "certainty": "The line figure is uncertain. It is identified by the source as the IAU Del. This line figure is the Western one.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Zuni 005",
+      "names": [{"english": "Red Star"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB"]],
+      "certainty": "The line figure is uncertain. It is identified by the source as the IAU CrB, but the name is not explained: there is no red star in this star group. This line figure is the Western one.",
+      "semantics": ["abstract"]
+    },
+    {
+      "id": "CON Zuni 006",
+      "names": [{"english": "Four Big One"}],
+      "lines": [["* alf And", "* bet Peg", "* alf Peg", "* gam Peg", "* alf And"]],
+      "certainty": "It is identified by the source as the Western asterism Great Square of Pegasus, but without lines. A simple polygon is drawn here.",
+      "semantics": ["group", "geometric"]
+    },
+    {
+      "id": "CON Zuni 007",
+      "names": [{"english": "Chief's Heart"}],
+      "lines": [["* alf Cyg", "* gam Cyg", "* bet Cyg A", "* alf Lyr", "* del Cyg", "* alf Cyg"]],
+      "certainty": "Little of this constellation has been identified in John P. Harrington's notes. Later researchers have made this tentative identification. They suggest that the 5 stars at the heart of the Chief are Vega (alf Lyr), Deneb (alf Cyg), and other stars in Cyg. Fig. 10.7 in [miller1997stars] shows a triangle, not 5 stars. The 5 stars here are the closest large Cyg stars.",
+      "description": "In unpublished field notes (1929), the linguist and ethnologist John P. Harrington describes a sky-wide constellation called Chief of the Night. This is described as 'the most majestic constellation ever reported from any tribe of Indians. It is a gigantic human figure, bigger than the whole visible sky. Some part of the body of the Chief of the Night is perpetually visible, guarding the earth throughout the year'.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Zuni 008",
+      "names": [{"english": "Chief's Left Arm"}],
+      "lines": [["* alf Boo", "* alf Vir", "* alf Sco"]],
+      "certainty": "Little of this constellation has been identified in John P. Harrington's notes. Later researchers have made this tentative identification. The hand of the left arm is unidentified stars in IAU Sgr, with 8 stars shown but not identified nor connected in Fig. 10.7 of [miller1997stars], so the hand remains missing from this line figure.",
+      "description": "In unpublished field notes (1929), the linguist and ethnologist John P. Harrington describes a sky-wide constellation called Chief of the Night. This is described as 'the most majestic constellation ever reported from any tribe of Indians. It is a gigantic human figure, bigger than the whole visible sky. Some part of the body of the Chief of the Night is perpetually visible, guarding the earth throughout the year'. Of this left arm, the shoulder is Arcturus (alf Boo), the elbow is Spica (alf Vir), and the forearm is Antares (alf Sco).",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Zuni 009",
+      "names": [{"english": "Chief's Right Arm"}, {"english": "In a Row"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
+      "certainty": "Little of this constellation has been identified in John P. Harrington's notes. Later researchers have made this tentative identification. This right arm should include a 4th faint star beside Orion's belt and probably in a line with the belt; this is not identified, so none is included here.",
+      "description": "In unpublished field notes (1929), the linguist and ethnologist John P. Harrington describes a sky-wide constellation called Chief of the Night. This is described as 'the most majestic constellation ever reported from any tribe of Indians. It is a gigantic human figure, bigger than the whole visible sky. Some part of the body of the Chief of the Night is perpetually visible, guarding the earth throughout the year'.",
+      "semantics": ["body part"]
+    }
+  ],
+  "common_names": {
+    "NAME Venus": [{"english": "The Elder Twin", "native": "Ahayuta", "description": "Twin warriors feature prominently in the myths of Southwestern cultures. They guided and shaped the people. Ahayuta is the elder brother, often depicted as the Morning Star. Matsilema is the younger brother, depicted as the Evening Star. In some stories, the Twins create these stars, rather than be identified with them."}],
+    "NAME Pleiades": [{"english": "Seed Stars", "description": "Because it rises at dawn in June, it likely marked an event in the agricultural cycle, hence the name."}, {"english": "Seeds"}],
+    "NAME Milky Way": [{"english": "Ashes Stretched Across", "description": "In one documented instance, it is a great snowdrift in the sky. The Milky Way appears on Zuni masks and altars drawn as chequered squares."}],
+    "* alf Boo": [{"english": "Chief's Shoulder"}],
+    "* alf Vir": [{"english": "Chief's Elbow"}],
+    "* alf Sco": [{"english": "Chief's Forearm"}]
+  }
+}
