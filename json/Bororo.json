@@ -1,0 +1,150 @@
+{
+  "id": "Bororo",
+  "name": "Bororo",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "1983 fieldwork and earlier sources",
+  "place": "Aldeia Indígena Garças, State of Mato Grosso, Brazil (the 2nd largest Bororo village, where most data came from)",
+  "source": ["fabian1992space"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South America",
+  "description": "Only 700 culturally viable Bororo survive, in 9 villages. Their myths were documented by Claude Lévi-Strauss: the Toribugu myth (with astronomical symbolism) was the key myth in his Mythologiques. The Bororo have a rather large body of astronomical information (they recognise and name a large number of stars and constellations). In [fabian1992space], the astronomical information is covered in Ch. 7 (p. 125-153) and Appendix A-B; the constellations identified are explicitly drawn with lines on two sky charts. The Bororo men have a nightly practice in June (when the skies are clear) of stellar observations at sunset (documented also in 1936 by Claude Lévi-Strauss). The stars provide a way to mark the flow of time, and integrate the Bororo social and ecological cycles. Observations are made on the relationships between stars and other stars, or fixed points on the celestial sphere (such as the zenith). In the Bororo myth on the creation of the stars, the stars are children which escaped from earth, because their mothers were attempting to keep them in an infantile state by not feeding them corn. (There is a similar Gê myth.) The Bororo observe the stars' regular cycles, and describe them as beautiful: not only because they are colourful and bright, but also because of their regularity, which expresses the essence of being for the Bororo, who see themselves as socially ordered (there is a structural relationship between the Bororo astronomy and society, in that each is defined with respect to the other). There are 16 identified light constellations, including 4 turtles. Other constellations were named but not identified: Cayman (Uwai), and Large-Antlered Atubo Deer (Atubo). As is common among indigenous South Americans, the Bororo also recognise certain dark areas of the Milky Way as constellations. Pari (The Rhea, an ostrich-like bird) is a part-light and part-dark constellation, with the dark a large black patch of the Milky Way It is one of the most popular Bororo constellations. The bird is described as either sleeping or running, despite the bird's leg and foot extending alongside its neck and head. (This inconsistency is not explained.) There are also two variants of Mortar and Pestle (Kaia and Kaibore), black parts of the Milky Way either near Sirius, or near the tail of IAU Sco. there is also a light cloud constellation: Pari Kigadurewu (White Rhea), a large light cloud of the Milky Way. This is said to resemble the black rhea, Pari, and be 'below' it---but was not identified. This data should be considered incomplete (surviving remnants), since stellar observations are related to the aboriginal lifestyle, which is fading. Accurate identification of stars and constellations is difficult to obtain, with the young Bororo ignorant of the names of all but the most prominent sky objects.",
+  "constellations": [
+    {
+      "id": "CON Bororo 001",
+      "names": [{"english": "Turtle", "native": "Upe"}],
+      "lines": [["* sig Sco", "* pi. Sco", "* del Sco", "* bet01 Sco", "* nu. Sco", "* sig Sco"]],
+      "certainty": "Certain. Turtles have marked significance for the Bororo. The identification of the four turtle constellations is coherent acc. to the field research (they follow each other at 4-hour intervals with an alternation of the species, thus bracketing the night time).",
+      "description": "This is the pincers of IAU Sco.",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Bororo 002",
+      "names": [{"english": "Turtle", "native": "Upe"}],
+      "lines": [["* eps Hya", "* zet Hya", "* eta Hya", "* sig Hya", "* del Hya", "* eps Hya"]],
+      "certainty": "Certain. Turtles have marked significance for the Bororo. The identification of the four turtle constellations is coherent acc. to the field research (they follow each other at 4-hour intervals with an alternation of the species, thus bracketing the night time).",
+      "description": "Close, but not identical, to the head of IAU Hya.",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Bororo 003",
+      "names": [{"english": "Tortoise", "native": "Jerigigi"}],
+      "lines": [["* del Crv", "* gam Crv", "* eps Crv", "* alf Crv", "* bet Crv", "* del Crv"]],
+      "certainty": "Certain. Turtles have marked significance for the Bororo. The identification of the four turtle constellations is coherent acc. to the field research (they follow each other at 4-hour intervals with an alternation of the species, thus bracketing the night time).",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Bororo 004",
+      "names": [{"english": "Tortoise", "native": "Jerigigi"}],
+      "lines": [["* bet Ori", "* tau Ori", "* bet Eri", "* ome Eri", "* psi Eri", "* lam Eri", "* bet Ori"]],
+      "certainty": "Certain. Turtles have marked significance for the Bororo. The identification of the four turtle constellations is coherent acc. to the field research (they follow each other at 4-hour intervals with an alternation of the species, thus bracketing the night time).",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Bororo 005",
+      "names": [{"english": "The Foot of the Rhea", "native": "Pari Burea"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* alf01 Cru", "* bet Cru"], ["* alf01 Cru", "* del Cru"]],
+      "certainty": "Certain. Lined like a naturalistic footprint in Fig. 7.2 of [fabian1992space].",
+      "description": "One of the best known and most watched constellations. Along with the Pleiades (Akiri-doge) was used to tell the hours of the night.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Bororo 006",
+      "names": [{"english": "The Rhea's Thigh", "native": "Pari Bopona"}],
+      "lines": [["* alf Cen A", "* bet Cen"]],
+      "certainty": "Certain.",
+      "description": "These stars cross The Rhea's Neck (Pari Itoru), a black area of the Milky Way near the Coalsack.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Bororo 007",
+      "names": [{"english": "No Gloss", "native": "Baxe Iware Reuge"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "The lines are not visible in Fig. 7.1 due to the large stars; this figure is a straight line.",
+      "description": "No clear gloss. The individual words are glossed as: heron, ramrod, and to make fire.",
+      "semantics": ["other"]
+    },
+    {
+      "id": "CON Bororo 008",
+      "names": [{"english": "The Greater Rifle", "native": "Boeiga Kurirewu"}],
+      "lines": [["* gam Cen", "* tau Cen", "* sig Cen", "* del Cen", "* rho Cen", "* G Cen", "* gam Cen"]],
+      "certainty": "Certain.",
+      "description": "This is a name of recent influence.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Bororo 009",
+      "names": [{"english": "The Lesser Rifle (Shotgun)", "native": "Boeiga Biagarewu"}],
+      "lines": [["* eps Cen", "* ksi02 Cen", "* e Cen", "* f Cen", "* eps Cen"]],
+      "certainty": "Certain.",
+      "description": "This is a name of recent influence.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Bororo 010",
+      "names": [{"english": "Bororo Headdress", "native": "Ke"}],
+      "lines": [["* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "Lining not certain. Fig. 7.1 in [fabian1992space] does not include the whole constellation (which falls out of the chart), but only 2 of the line segments. This line figure closes the rectangle.",
+      "description": "It is said to be the headdress of the culture hero Bakororo. The alternative native name, Ba Paru Kadoda Jebage (Those Which Cut the West of the village), might refer to a role in orienting the village.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Bororo 011",
+      "names": [{"english": "Male Small Deer", "native": "Pobogo Imedu"}],
+      "lines": [["* eps Sgr", "* eta Sgr", "* gam02 Sgr", "* del Sgr", "* eps Sgr"]],
+      "certainty": "Certain.",
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Bororo 012",
+      "names": [{"english": "Female Small Deer", "native": "Pobogo Aredu"}],
+      "lines": [["* phi Sgr", "* sig Sgr", "* tau Sgr", "* zet Sgr", "* phi Sgr"]],
+      "certainty": "Certain.",
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Bororo 013",
+      "names": [{"english": "Dark Blue or Hyacinthine Macaw", "native": "Kudoro"}],
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "HD 200044", "* kap Del", "* eps Del"]],
+      "certainty": "Certain.",
+      "description": "This is the largest of the macaws, rare in the Bororo area today.",
+      "semantics": ["bird"]
+    },
+    {
+      "id": "CON Bororo 014",
+      "names": [{"english": "Hunting of the Giant Armadillo", "native": "Bokodori Jari Paru Kado Jebage"}],
+      "lines": [["* alf Eri", "* bet Cet", "* gam Peg", "* alf And"]],
+      "certainty": "Partly certain. Different sources give 3, 4, or 5 stars for this constellation.",
+      "description": "It refers to the hunting of the giant armadillo (bokodori), describing either holes made near the borrow, or hunters around the borrow, waiting to catch the animal.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Bororo 015",
+      "names": [{"english": "Male (Larger) Wheel", "native": "Marido Imedu"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB"]],
+      "certainty": "Certain.",
+      "description": "A large wheel of buriti palm and other materials, paired as male and female. Used for important ceremonies during funerals, carried atop the heads of a pair of performers, one man supporting the weight of each wheel.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Bororo 016",
+      "names": [{"english": "Female (Smaller) Wheel", "native": "Marido Aredu"}],
+      "lines": [["* kap02 CrA", "* lam CrA", "* eps CrA", "* gam CrA", "* alf CrA", "* bet CrA", "* del CrA", "* zet CrA", "* eta02 CrA", "* tet CrA"]],
+      "certainty": "Certain.",
+      "description": "A large wheel of buriti palm and other materials, paired as male and female. Used for important ceremonies during funerals, carried atop the heads of a pair of performers, one man supporting the weight of each wheel.",
+      "semantics": ["man-made object"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "White down", "native": "Akiri-doge", "description": "The gloss comes from akiri means white down (feathers), -doge is a pluraliser. It is one of the most important stellar references for marking time in order to tell the hours of the night, seasons of the year, and to coordinate cultural and ecological events (as in many other South American native cultures)."}],
+    "NAME Milky Way": [{"english": "The Ash (or Light) of the Stars", "native": "(I)Kuieje-doge Erugudu", "description": "All name variants reference the myth on the origin of stars."}, {"english": "The Ash (or Light) of the Youths", "native": "Ipare Erugudu"}, {"english": "The Tears of the Youths", "native": "Ipare Eguru"}],
+    "* alf CMa": [{"english": "Unclear", "native": "Tuwagowu"}],
+    "* alf Tau": [{"english": "The Eye of the Dourado Fish", "native": "(O)koge Joku", "description": "This may be part of a larger constellation in which the Hyades form the head. This constellation remains unidentified."}],
+    "* bet Cet": [{"english": "The Antler of Atubo", "native": "Tugiga Kiwu", "certainty": "Uncertain: identified by the author rather than an informant, based on astronomical arguments.", "description": "Part of a constellation which is not identified precisely: Large-Antlered Atubo Deer (Atubo). Also part of another constellation which is identified: CON Bororo 014."}],
+    "* alf CMi": [{"english": "Rifle or Bow", "native": "Boiga"}],
+    "NAME Venus": [{"english": "The Star that Rises over the Great Water", "native": "Orowaribo Kajijewu", "description": "This is Venus as evening star. The name refers to the Paraguay River, once the western boundary of the Eastern Bororo culture area."}, {"english": "The Large Face", "native": "Jekurireu", "description": "This is Venus as morning star."}, {"english": "With the Dawn", "native": "Ari Reaiwu"}, {"english": "With the Dawn", "native": "Barogwa Tabowu"}, {"english": "Unclear", "native": "Tuwagowu", "description": "The same name given to * alf CMa (Sirius)."}],
+    "NAME Mars": [{"english": "The Eye of the Anu-Branco Bird", "native": "Bika Joku"}],
+    "NAME Jupiter": [{"english": "Lord of the Dawn", "native": "Barogwa Jeiba", "certainty": "This is only a tentative identification."}],
+    "NAME Coalsack Nebula": [{"english": "The Rhea's Head"}]
+  }
+}

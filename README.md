@@ -15,6 +15,6 @@ Analyses of this data:
 
 -------------------
 
-The map of 75 sky cultures below. The .json format currently has 30 (this number is growing). The number in parentheses counts constellations with line figures. Note: the .json data contains a few more lined constellations (+1 Kolam and +1 Pardhi), and +1 culture (Iroquois, with 3 lined constellations), compared to this map.
+The map of 75 sky cultures below. The .json format currently has 31 (this number is growing). The number in parentheses counts constellations with line figures. Note: the .json data contains more lined constellations compared to this map: +1 in Kolam and +1 in Pardhi, and +2 cultures (Iroquois, with 3, and Bororo, with 16 lined constellations).
 
 ![culture_map_annotated](https://github.com/doinab/constellation-lines/assets/3672108/7b8739a4-d4d2-4b43-804d-0aa2b2100e70)
