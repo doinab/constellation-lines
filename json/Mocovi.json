@@ -1,0 +1,114 @@
+{
+  "id": "Mocovi",
+  "name": "Mocoví",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "1999-2009 fieldwork, plus early 20th-century fieldwork by R. Lehmann-Nitsche, which continue to be the main source on the astronomy of indigenous people of the Guaycurú linguistic group",
+  "place": "communities centered around Colonia Cacique Catán, and other communities in the region such as Colonia Aborigen Chaco and Colonia Aborigen El Pastoril (Chaco Province, Argentina)",
+  "source": ["lopez2009virgen"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South America",
+  "description": "The Mocoví (or Moqoit) are an indigenous people of the Gran Chaco in South America. The Mocoví language belongs to the Guaycurú linguistic group, as do the Toba, Abipones, Pilagás and Caduveos. Before coming under the influence of missionaries, they were migratory hunters (the favored species of game animals were deer, peccaries, and rheas), fishers, and gatherers. Today, the Mocoví have become assimilated, their culture has undergone substantial change, and only a minority have retained their native language. They had and still have a great practical knowledge of the night sky, for orientation and time-telling. The celestial plane, one of the three planes of the Mocoví cosmos, is called Piguim. This is a cold region, where atmospheric phenomena (winds, rain, thunder, lightning) belong. The celestial plane is hostile to humans, but is inhabited by powerful beings who look like the Mocoví but belong to mythical time, owners of astronomical and atmospheric phenomena. The vast majority of these celestial inhabitants are women: the celestial (and many Mocoví constellations) are associated with abundance, since almost all of the water in this region of Chaco is rain water. Most of the Mocoví asterisms are within or near the Milky Way, which acts as an articulating axis of the Mocoví cosmos. There are 12 identified constellations (of which 9 lined), and names for many sky objects. The source identifies stars and draws some line figures. Another Corral of the Dog (native: Qo'parit pioq) (similar to CON Mocovi 001) has not been identified.",
+  "constellations": [
+    {
+      "id": "CON Mocovi 001",
+      "names": [{"english": "The Corral of the Armadillo", "native": "Qo'parit natogonai"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* tet CrB"]],
+      "description": "This is a fence encircling a ranch.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON Mocovi 002",
+      "names": [{"english": "The Three Marys", "native": "Nasalaganí"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "The lining is not certain; this could be an unlined star group instead.",
+      "description": "Three women, in some cases three widows.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Mocovi 003",
+      "names": [{"english": "The Butterfly", "native": "Pare"}],
+      "lines": [["* kap Vel", "* del Vel", "* eps Car", "* iot Car", "* kap Vel"]],
+      "certainty": "The lining is not drawn in the source, so not certain; the shape is described as a diamond.",
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON Mocovi 004",
+      "names": [{"english": "The Old and Great Carob Tree", "native": "Mapiqo'xoic"}],
+      "lines": [["* ksi02 Sgr", "* omi Sgr", "* pi. Sgr", "* rho01 Sgr", "* ups Sgr"]],
+      "certainty": "Replaced ξ1_Sgr from the description with the much brighter ξ2_Sgr, which matches the drawing better.",
+      "description": "These stars form the crown of the tree; very faint stars form the trunk, and dark spots of the Milky Way form the roots. The tree is linked to a story about the abundance of goods, which can be obtained when signs appear near the tree.",
+      "semantics": ["plant"]
+    },
+    {
+      "id": "CON Mocovi 005",
+      "names": [{"english": "Trunk to Ferment the Carob"}],
+      "lines": [["* zet Sgr", "* tau Sgr", "* sig Sgr", "* phi Sgr", "* zet Sgr"]],
+      "description": "Represents a trunk used as a pan to ferment the carob, in particular the hole in the trunk through which the drink is taken out. It is located very close to CON Mocovi 004.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Mocovi 006",
+      "names": [{"english": "The Lost Brothers"}],
+      "lines": [["* ups Sco", "* ups Sco"], ["* lam Sco", "* lam Sco"]],
+      "certainty": "Lines not drawn in the source; a pair of stars",
+      "description": "These stars are associated with a story about two little brothers abandoned in the mountains. They escape a powerful lady, the 'owner of the mountain', with help from two doves (CON Mocovi 007). Body parts of the dead lady are transformed into two dogs (CON Mocovi 008) which chase the owner of the rheas, Mañic (CON Mocovi 009).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Mocovi 007",
+      "names": [{"english": "The Doves", "native": "Coviguiñic"}],
+      "lines": [["* zet01 Sco", "* zet01 Sco"], ["* zet02 Sco", "* zet02 Sco"]],
+      "certainty": "Lines not drawn in the source; a pair of stars",
+      "description": "These stars are associated with the story about two little brothers (CON Mocovi 006) abandoned in the mountains. They escape a powerful lady, the 'owner of the mountain', with help from two doves.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Mocovi 008",
+      "names": [{"english": "The Dogs", "native": "Piogo"}],
+      "lines": [["* alf Cen A", "* alf Cen A"], ["* bet Cen", "* bet Cen"]],
+      "certainty": "Lines not drawn in the source; a pair of stars",
+      "description": "These stars are former body parts of the dead lady killed by two little brothers (CON Mocovi 006); these body parts are transformed into two dogs which chase the owner of the rheas, Mañic (CON Mocovi 009).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Mocovi 009",
+      "names": [{"english": "The Owner of the Rheas", "native": "Mañic"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "certainty": "The lining is not given in the source; this is lined as a cross.",
+      "description": "The dogs (CON Mocovi 008) chase the rhea. There is also a dark Mañic, which corresponds to a series of dark spots along an extensive area of the Milky Way, and the dogs take it by the neck.",
+      "semantics": ["bird"]
+    },
+    {
+      "id": "CON Mocovi 010",
+      "names": [{"english": "The Virgin Mary", "native": "La Virgen María"}],
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau"]],
+      "description": "This reflects a Christian tradition implanted in the Chaco, in the communities linked to the Santuario de la Virgen de la Laguna. These asterisms are three triangle-shaped variants that reproduce the profile of the Virgin with her mantle.",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON Mocovi 011",
+      "names": [{"english": "The Virgin Mary", "native": "La Virgen María"}],
+      "lines": [["* tet Cap", "* eta Cap", "* chi Cap", "* phi Cap"]],
+      "description": "This reflects a Christian tradition implanted in the Chaco, in the communities linked to the Santuario de la Virgen de la Laguna. These asterisms are three triangle-shaped variants that reproduce the profile of the Virgin with her mantle.",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON Mocovi 012",
+      "names": [{"english": "The Virgin Mary", "native": "La Virgen María"}],
+      "lines": [["* zet Cap", "* b Cap", "* eps Cap", "* del Cap", "* gam Cap", "* iot Cap"]],
+      "description": "This reflects a Christian tradition implanted in the Chaco, in the communities linked to the Santuario de la Virgen de la Laguna. These asterisms are three triangle-shaped variants that reproduce the profile of the Virgin with her mantle.",
+      "semantics": ["humanoid"]
+    }
+  ],
+  "common_names": {
+    "NAME Large Magellanic Cloud": [{"native": "Temal", "english": "The Water Well", "description": "One of a pair of water wells, together with the other Magellanic Cloud. According to some Mocoví, when there was a great drought, one approached the Temale and there he obtained water."}, {"english": "The Carob Treads", "description": "Place where carob flour was made. Its whitish colour is the carob flour."}, {"english": "The Pots", "description": "Huge pots where the Mocoví ate."}, {"english": "The Guanaco", "native": "Iló"}],
+    "NAME Small Magellanic Cloud": [{"native": "Temal", "english": "The Water Well", "description": "One of a pair of water wells, together with the other Magellanic Cloud. According to some Mocoví, when there was a great drought, one approached the Temale and there he obtained water."}, {"english": "The Carob Treads", "description": "Place where carob flour was made. Its whitish colour is the carob flour."}, {"english": "The Pots", "description": "Huge pots where the Mocoví ate."}, {"english": "The Vicuña Lama", "native": "Kagretá"}],
+    "NAME Pleiades": [{"native": "Gdoapidalgate", "english": "Our Grandfather the Lord", "description": "This is considered the creator of the Mocoví, or the founder of their lineage. The heliacal rise of these stars marked the beginning of the year."}, {"native": "Elkové", "english": "Rhea Brood", "description": "Their brood of the rheas of which the male is the Coalsack Nebula; the abundant offspring serve as food for the Mocoví."}],
+    "* alf Sco": [{"native": "Qaqare", "english": "The Carancho", "description": "A bird of prey, identified by some Mocoví with the star Antares. Together with two others, the Pohe and the Ratecsan (red-headed and black-headed jotes) play interchangeable roles in Mocoví stories about the flood and the theft of fire. The bird steals lit firebrands from the chief of the mountain, flies away setting fire to the mountain, from which the Mocovíes get the fire, so they eat cooked meat."}, {"native": "Pohe", "english": "The Red-Headed Jote", "description": "A red-headed, bald jote bird, identified by some Mocoví with the star Aldebaran and by others with the star Antares. The name might designate any bright red star that is visible at a given time."}],
+    "* alf Tau": [{"native": "Pohe", "english": "The Red-Headed Jote", "description": "A red-headed, bald jote bird, identified by some Mocoví with the star Aldebaran and by others with the star Antares. The name might designate any bright red star that is visible at a given time."}],
+    "NAME Milky Way": [{"native": "Nayic", "english": "Path", "description": "Identified as the riches of the sky, with a celestial river of gifted fish where the Mocovíes went to fish while climbing the tree in the sky, and with the path of a rhea farm, of which the male is the Coalsack Nebula."}],
+    "NAME Coalsack Nebula": [{"english": "The Male Rhea", "description": "There is also a female rhea in a nearby spot near the star alf Sco."}],
+    "NAME Venus": [{"native": "Nete'ese", "english": "Morning Star", "description": "The morning and evening stars are considered two different objects, both of them women."}, {"native": "Virse", "english": "Evening Star", "description": "The morning and evening stars are considered two different objects, both of them women."}]
+  }
+}
