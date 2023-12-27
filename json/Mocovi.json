@@ -20,8 +20,8 @@
     {
       "id": "CON Mocovi 002",
       "names": [{"english": "The Three Marys", "native": "Nasalaganí"}],
-      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
-      "certainty": "The lining is not certain; this could be an unlined star group instead.",
+      "lines": [["* del Ori", "* del Ori"], ["* eps Ori", "* eps Ori"], ["* zet Ori", "* zet Ori"]],
+      "certainty": "The lining is not certain; this is an unlined star group.",
       "description": "Three women, in some cases three widows.",
       "semantics": ["group"]
     },
