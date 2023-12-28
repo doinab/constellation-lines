@@ -1,0 +1,111 @@
+{
+  "id": "Toba",
+  "name": "Toba",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "1921, 1924 fieldwork",
+  "place": "1921 informants originally from along the Pilcomayo river and eastern Chaco province, around Resistencia; some interviewed in Ledesma, Jujuy province, Argentina, where indigenous tribes worked during the harvest; 1924 informants from Napalpí, west of Resistencia",
+  "source": ["lehmann1923tobas1", "lehmann1924tobas2", "sanchez2010rasgos"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South America",
+  "culture": "The Toba (or Qom) people are one of the largest indigenous groups (nearly 130000 people) who historically inhabited the Pampas of the Central Chaco, Argentina. The Toba language belongs to the Guaycurú linguistic group, as do the Mocoví, Abipones, Pilagás and Caduveos. They had a semi-nomadic hunter-gatherer lifestyle until the 19th century. The Toba have a long history of conflict with the Spanish, and resistance to assimilation. Today, some communities maintain their ancestral lands, are bilingual, and are run by traditional leaders.",
+  "astronomy": "Similar to the Mocoví sky culture, although many motifs have switched location in the sky. Native names can vary among the Toba living along the Pilcomayo river and those from eastern Chaco province. Like for the Mocoví, most of the asterisms are within or near the Milky Way. Bilingual names (Toba Qom and Spanish) are provided (besides the English gloss) when known. A scene (English: The hunt of the Rhea, Spanish: La Caza del Súri) is formed by 003-005 and the Coalsack Nebula: Two boys and their dogs hunt a rhea; the dogs are ahead and have reached the rhea, and they grab him by the belly. Another variant of this scene (002, 006-008, the Coalsack Nebula, and the Pleiades) has three hunters and three dogs (007) chase the rhea (006), who goes up in the sky. The dogs catch it and bite it, and one of the hunters is sent to take care of the Three Old Ones (002), but he doesn't have permission to enter their garden, so the old women send their five dogs (008) to kill him. (Around this scene, the source [lehmann1923tobas1] also has a comparison of S-American cultures.) Another scene is formed around Venus representing a woman (with the Pleiades and the Magellanic Clouds). Another scene is formed by 009-010.",
+  "data summary": "There are 11 identified constellations (of which only 3 lined), and names for many sky objects.",
+  "certainty": "The main sources are: [lehmann1924tobas2] (1924) which corrects [lehmann1923tobas1] (1923). Source [sanchez2010rasgos] (2010) updates some native names but does not locate the stars or constellations in the sky. The stars are identified, and some line figures are drawn (for 002, 003, 006). Other constellations are known, but not identified. For example, South Night Wind (native: Piñolük) is said to be a constellation shaped like a half moon, with 8 internal stars, one representing the hero Piñolük.",
+  "constellations": [
+    {
+      "id": "CON Toba 001",
+      "names": [{"english": "The Doves", "native": "Tŏcŏtố", "spanish": "Las Palomitas"}, {"native": "Kjotóo"}],
+      "group": ["* ups Sco", "* lam Sco"],
+      "description": "Doves are always seen in pairs (never separated), like these stars.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 002",
+      "names": [{"english": "The Three Old Women and Their Garden", "native": "Yerainerí", "spanish": "Las Tres Viejas y Su Casa"}, {"english": "The Three Marys", "native": "Ÿa'axainayil", "spanish": "Las Tres Marías"}],
+      "lines": [["* del Ori", "* del Ori"], ["* eps Ori", "* eps Ori"], ["* zet Ori", "* zet Ori"], ["* kap Ori", "* alf Ori", "* gam Ori", "* bet Ori", "* kap Ori"]],
+      "certainty": "The three old women are a star group; the line figure for the garden is drawn explicitly in the main source [lehmann1923tobas1].",
+      "description": "The three old women (widows, two of them the daughters of the third) live in a large house with a field or garden, which they guard, maintaining a fire (Pleiades) to burn the trespassers.",
+      "semantics": ["landscape", "group"]
+    },
+    {
+      "id": "CON Toba 003",
+      "names": [{"english": "The Paw of the Rhea", "spanish": "La Pata del Súri"}],
+      "lines": [["* gam Cru", "* del Cru"]],
+      "certainty": "Lined in the main source [lehmann1923tobas1].",
+      "description": "The rest of the rhea is the Coalsack Nebula. 003-005 form a scene.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Toba 004",
+      "names": [{"english": "Two Dogs", "native": "Pioxol", "spanish": "Los Dos Perros"}],
+      "group": ["* alf01 Cru", "* bet Cru"],
+      "description": "003-005 form a scene.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 005",
+      "names": [{"english": "Two Boys", "spanish": "Los Dos Muchachos"}],
+      "group": ["* alf Cen A", "* bet Cen"],
+      "description": "003-005 form a scene.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 006",
+      "names": [{"english": "The Neck and Head of the Rhea"}],
+      "lines": [["* alf Cen A", "* bet Cen", "* bet Cru", "* alf01 Cru"]],
+      "certainty": "Lined in the main source [lehmann1923tobas1].",
+      "description": "The head is the IAU Cru stars. The Coalsack Nebula is the black spot on the neck of the rhea. 002, 006-008, the Coalsack Nebula, and the Pleiades form a scene. There are also variants of the rhea which encompass the Milky Way, from IAU Cru as head, to the head of IAU Sco as tail, and further for the legs.",
+      "semantics": ["body part"],
+      "variant_of": ["CON Toba 003"]
+    },
+    {
+      "id": "CON Toba 007",
+      "names": [{"english": "Three Dogs", "native": "Pioxol", "spanish": "Los Tres Perros"}],
+      "group": ["* alf Cen A", "* bet Cen", "* bet Cru"],
+      "description": "The dogs catch the rhea (006) and bite it, which is why they are one with the rhea's neck. 002, 006-008, the Coalsack Nebula, and the Pleiades form a scene.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 008",
+      "names": [{"english": "Five Dogs", "spanish": "Los Cinco Perros"}],
+      "group": ["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau"],
+      "description": "The five dogs that the Three Old Women (002) send their to kill the hunter who doesn't have permission to enter their garden. 002, 006-008, the Coalsack Nebula, and the Pleiades form a scene.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 009",
+      "names": [{"english": "Two Boys", "spanish": "Los Dos Muchachos"}],
+      "group": ["* zet02 Sco", "* zet01 Sco"],
+      "description": "Reflects different myths than 003. 009-010 form a scene. Evil spirits try to kill two little boys; one was killed and became a soul (the fainter star, ζ2_Sco); the other survived (the brighter star, ζ1_Sco). In a later myth, the two are siblings (one boy, one girl) who escaped two old witches (010) who wanted to burn them (the European myth of Hänsel and Gretel).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 010",
+      "names": [{"english": "Two Old Witches", "spanish": "Las Dos Viejas Brujas"}],
+      "group": ["* eta UMa", "* zet01 UMa"],
+      "certainty": "Identification not certain, but probable.",
+      "description": "009-010 form a scene. In a later myth, the two children (009) are siblings (one boy, one girl) who escaped two old witches who wanted to burn them (the European myth of Hänsel and Gretel).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Toba 011",
+      "names": [{"english": "Three Children", "native": "Pinyo'olqa", "spanish": "Los Tres Niños"}],
+      "group": ["* iot Ori", "* tet01 Ori C", "* c Ori", "* sig Ori"],
+      "description": "Three children who saved themselves from the universal fire by escaping to the sky; there are 4 stars, called 3 out of symmetry with the IAU Ori belt stars (002) whom they search for.",
+      "semantics": ["group"]
+    }
+  ],
+  "common_names": {
+    "NAME Venus": [{"native": "Tshi ishí", "spanish": "Venus matutina", "english": "It's Already Dawn", "description": "Also native: Chi'ishe. In Toba mythology, it represents a woman who saved herself from the universal fire by running to the sky. The woman uses the Magellanic Clouds as mortars to prepare food, and the fire in Pleiades for warmth."}, {"native": "Virshí", "spanish": "Venus vespertina", "english": "The Day Ends", "description": "In Toba mythology, it also represents a woman who saved herself from the universal fire by running to the sky."}],
+    "* alf Boo": [{"native": "Kilík'", "spanish": "La Catita", "english": "The Catita Monk Parakeet", "description": "A monk parakeet, common and domestic. Catita is the abbreviation of Catalina."}],
+    "NAME Pleiades": [{"native": "Dapitshí", "spanish": "Los Muchachos", "english": "The Children", "description": "Said to be children who saved themselves from the universal fire by escaping to the sky."}, {"english": "Fire", "spanish": "El Fogón", "description": "Said to be the fire maintained by The Three Old Ones (002). This fire is used to burn trespassers through their garden, captured by their five dogs. The fire becomes a man only when he wants to talk."}, {"spanish": "La Pisadora de Algarroba", "english": "Carob Milling", "description": "The carob flour has fallen to the ground around the person who mills it. For the Mocoví, this semantic is found instead in the Large Magellanic Cloud."}],
+    "* alf Tau": [{"spanish": "La Mujer Pisadora", "english": "Woman Miller", "description": "The miller who mills the carob whose flour falls on the ground (the Pleiades).", "certainty": "Uncertain identification. A star in the vicinity of the Pleiades, with which it forms a scene."}],
+    "* lam Tau": [{"spanish": "La Abuelita", "english": "Grandmother", "description": "The link to carob milling (the Pleiades and alf Tau) is not explained.", "certainty": "Uncertain identification. A star in the vicinity of the Pleiades, with which it forms a scene."}],
+    "NAME Milky Way": [{"native": "Nak'áik", "spanish": "El Camino Grande", "english": "The Path"}, {"native": "Nük'áik", "english": "The Path", "description": ""}, {"english": "The Rhea", "native": "Mañic", "description": "There are also variants of the rhea which encompass the Milky Way, from IAU Cru as head, to the head of IAU Sco as tail, and further for the legs."}],
+    "NAME Coalsack Nebula": [{"native": "Mañic", "spanish": "El Súri", "english": "The Rhea", "description": "Forms the rhea with 003."}],
+    "NAME Large Magellanic Cloud": [{"native": "Araxanaxaqui", "spanish": "Mortero", "english": "Mortar", "description": "One of a pair of mortars, together with the other Magellanic Cloud, used by the woman in Venus to prepare food."}],
+    "NAME Small Magellanic Cloud": [{"native": "Araxanaxaqui", "spanish": "Mortero", "english": "Mortar", "description": "One of a pair of mortars, together with the other Magellanic Cloud, used by the woman in Venus to prepare food."}],
+    "* alf Eri": [{"native": "Yanegraló", "english": "Eagle", "description": "This could be equivalent to the Carancho star of the Mocoví. It is possibly imported from old-world traditions."}]
+  }
+}
