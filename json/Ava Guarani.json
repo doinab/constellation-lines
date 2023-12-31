@@ -1,0 +1,77 @@
+{
+  "id": "Ava Guarani",
+  "name": "Ava Guaraní",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "1921 fieldwork",
+  "place": "1921 informants originally from SE Bolivia; interviewed in Ledesma and Orán, north-west Argentina, where indigenous tribes worked during the harvest",
+  "source": ["lehmann1924chiriguanos"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South America",
+  "culture": "Ava Guaraní (formerly Chiriguano) are indigenous people who speak Guaraní languages. The Ava Guaraní living in Bolivia (over 80000) are the westernmost of the large linguistic group Tupí-Guaraní. They were warlike, resisted conversion to Christianity, and retained their lands in the Andes foothills of southeastern Bolivia until the late 19th century (1892), when they were defeated in their last attempt to retain their independence). They were agricultural, cultivating maize.",
+  "astronomy": "The Ava Guaraní showed great familiarity with the night sky; the starry sky is used as compass and chronometer. They can also indicate where in the sky the main constellations are, without looking at the sky, during any season.",
+  "data summary": "There are 6 light constellations (of which 4 are line figures), and names for 6 other sky objects.",
+  "certainty": "The stars are identified in the source, and the line figures are drawn (for 003-006). Another constellation is known, but not identified (native: Huázupucu, Spanish: El Cuerno de Corzo, English: Deer Horn).",
+  "constellations": [
+    {
+      "id": "CON Ava Guarani 001",
+      "names": [{"english": "Two Siblings", "spanish": "Los Dos Hermanitos"}],
+      "group": ["* zet02 Sco", "* zet01 Sco"],
+      "certainty": "Identification not certain (made based on similarity to a Wichi/Mataco equivalent); not lined, a group of stars.",
+      "description": "Siblings (one boy, one girl) who were playing with each other. They grabbed each other, sang and jumped into the sky.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Ava Guarani 002",
+      "names": [{"english": "The Birds Who Found Each Other", "native": "Yukéssu", "spanish": "Las Aves Que Se Encuentra"}],
+      "group": ["* del Ori", "* eps Ori", "* zet Ori"],
+      "certainty": "A star group without lines.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Ava Guarani 003",
+      "names": [{"english": "The Dancers", "native": "Chocoróre", "spanish": "Los Bailarines"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* pi. CrB", "* tet CrB"]],
+      "certainty": "A line figure of 8 stars is drawn and said to the the Western CrB, although the stars are not identified. This figure includes, as the eighth star, pi CrB, to close the oval.",
+      "description": "A group of men, women and children who are dancing in an oval, drunk, and playing the bass drum. The stars outside this oval are outsiders who are not allowed to join the dance. Dances interrupted by drinking have been widely used by this culture. They are started by the men; this constellation seems to represent an advanced state of the dance where there is no longer a separation of the sexes.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Ava Guarani 004",
+      "names": [{"english": "Corral of the Aguará Tunpa", "native": "Huakaróke", "spanish": "El Corral del Aguará Tunpa"}],
+      "lines": [["* eps Sco", "* mu.01 Sco", "* zet02 Sco", "* eta Sco", "* tet Sco", "* iot01 Sco", "* G Sco", "* d Oph", "HD 153613", "* eps Sco"], ["* kap Sco", "* lam Sco", "* ups Sco"]],
+      "certainty": "A line figure of 9+3 stars is drawn, and the stars are identified, but two of the minor ones have obsolete names. They (G Sco, HD 153613) are identified based on position.",
+      "description": "A corral or fenced area, intended for the cultivation of plants, including corn. The center of this corral is the abode of the evil deity Aguará-Tunpa, the fox-god (the second-most powerful divinity of the Chiriguanos, always in struggle with the other, Aña Tunpa). However, the deity himself cannot be seen in this constellation. The stars are the demarcating posts of the great corral. In the center, three stars represent the Ahuala Süpei shovel with which he works: this heavenly shovel cleans the field and heals the corn by itself.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON Ava Guarani 005",
+      "names": [{"english": "Corral of the Moreví Tunpa", "native": "Morérinayíki"}],
+      "lines": [["* eps Sgr", "* del Sgr", "* lam Sgr", "* phi Sgr", "* sig Sgr", "* tau Sgr", "* zet Sgr", "HD 172910", "* eps Sgr"]],
+      "certainty": "A line figure of 8 stars is drawn, and the stars are identified, except the most minor one has obsolete names. It (HD 172910) is identified based on position.",
+      "description": "A corral of the tapir-god, a divinity analogous to the fox-god (Aguará Tunpa) who also has his corral in the sky, neighbouring this corral. The deity himself cannot be seen in this constellation, either. The Moreví Tunpa appears rarely in the local mythology, but it is likely that an interpretation of the Milky Way as the Path of the Tapir also refers to the Moreví Tunpa.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON Ava Guarani 006",
+      "names": [{"english": "The Head of the Rhea", "native": "Yanduraanga", "spanish": "El Avestruz"}],
+      "lines": [["* gam Cru", "* bet Cru", "* alf01 Cru", "* del Cru", "* gam Cru", "* sig Cen", "* gam Cen", "* ksi02 Cen", "* eps Cen", "* bet Cen", "* alf Cen A"]],
+      "certainty": "A line figure of 10 stars is drawn, but some stars are not identified. They are, however, clear from their relative position to the ones who are (the major stars in Cru and Cen). The line of the necklace (alf-bet Cen) is linked to the rest of the figure from a middle point on the line; this is not reproduced here: bet Cen (the closest star) is linked to the rest of the figure.",
+      "description": "This rhea head has a notable peculiarity: while a real rhea is distinguished by a 'necklace' of dark feathers located at the base of the neck, this celestial one has the same ornament, but made of two splendid stars, alf and bet Cen. This necklace is called Yandu Pó'iéra. The beak is alf Cru, and the eyes bet and del Cru. In other cultures, IAU Cru forms the foot of the rhea.",
+      "semantics": ["body part"]
+    }
+  ],
+  "common_names": {
+    "NAME Venus": [{"native": "Coembiya", "spanish": "Venus matutina", "english": "Sunrise", "description": "Said to be a man who has two women, two (unidentified) stars close together who rise at the same time."}, {"native": "Caarumbiya", "spanish": "Venus vespertina", "english": "Late", "description": "Said to be a woman who had a husband living in the middle of the sky; he has cast her away, and she cannot reach the middle of the sky again: as soon as she arrives in the sky, she leaves again."}],
+    "NAME Pleiades": [{"native": "Ychú", "spanish": "El Enjambre", "english": "Beehive", "description": "A swarm of wasps. The word is also used with to mean 'year', because the Pleiades are used as timers: when they become visible, on the horizon at dawn, the time has also come to sow the corn."}],
+    "NAME Milky Way": [{"native": "Yandurápe", "spanish": "El Camino del Súri", "english": "The Path of the Rhea", "description": "For this variant of the Milky Way interpretation, the rhea itself is the Coalsack Nebula."}, {"native": "Mborevirape", "spanish": "El Camino del Tapir", "english": "The Path of the Tapir", "description": "The tapir is the Moreví Tunpa from 005."}, {"native": "Guasurape", "spanish": "El Camino Grande", "english": "The Path"}],
+    "NAME Coalsack Nebula": [{"native": "Yandu", "spanish": "El Súri", "english": "The Rhea", "description": "This is the dark rhea version, whose path is the Milky Way in one of its interpretations. There is also a light version (006)."}],
+    "NAME Large Magellanic Cloud": [{"native": "Kuña Muai va Tatáipii", "spanish": "La Mujer al Lado del Cenicero", "english": "The Woman Next to the Ash Pit", "description": "According to a sky myth, once upon a time on earth there was a man and a woman, who go to the sky, where they made fires: the woman a big fire, and the man, a smaller fire. They could never return to earth, because they found it too full of people."}],
+    "NAME Small Magellanic Cloud": [{"native": "Abandītshi' Rataipii", "spanish": "El Hombre al Lado del Cenicero", "english": "The Man Next to the Ash Pit", "description": "According to a sky myth, once upon a time on earth there was a man and a woman, who go to the sky, where they made fires: the woman a big fire, and the man, a smaller fire. They could never return to earth, because they found it too full of people."}],
+    "* alf01 Cru": [{"english": "The Beak of the Rhea"}],
+    "* bet Cru": [{"english": "An Eye of the Rhea"}],
+    "* del Cru": [{"english": "Another Eye of the Rhea"}],
+    "* alf Cen A": [{"native": "Yandu Pó'iéra", "english": "The Necklace of the Rhea"}],
+    "* bet Cen": [{"native": "Yandu Pó'iéra", "english": "The Necklace of the Rhea"}]
+  }
+}
