@@ -1,0 +1,116 @@
+{
+  "id": "Tewa",
+  "name": "Tewa",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "documentation from older ethnographic sources dated 1916-1968, in Tewa-speaking villages",
+  "place": "Tewa-speaking Pueblos in New Mexico: San Ildefonso, Isleta, Jemez, Cochiti, Taos, Nambe",
+  "source": ["miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "culture": "The Tewa-speaking Eastern Pueblos are a tribe of the Southwest culture area in N America, in the southern Rocky Mountains along Rio Grande and tributaries. A Pueblo is a village made of multistoried dwellings, as well as its people. The Pueblos farmed (mostly corn, squash, and beans), kept turkeys, hunted and gathered, and developed crafts.",
+  "astronomy": "The Pueblos had a keen interest in the night sky, judging by the many representations of stars in their artwork. In both Pueblo and nearby Navajo creation mythology, a creation figure intends to place the stars in the sky in groups, but another figure ruins this plan and scatters the stars. For the Eastern Pueblos in particular, a creation story tells that the mythical creation mothers created 'star people' and made their eyes out of sparkling white crystal. These people lived in groups, but when the task was given to a mole to carry them in a sack to the upper world, but the mole disobeyed and let the stars fly out and occupy the sky randomly. Only a few of the stars remained in the sack, and these were placed in groups: the Big Dipper, Orion's belt, and the Pleiades. The characters involved vary among stories, as do the star groups (which sometimes include IAU Del, Venus, and other unidentified groups). It is possible that some of the names are Spanish borrowings. No native names are provided in the source [miller1997stars], but some may be documented in the older ethnographic sources dated 1916-1968.",
+  "data summary": "12 constellations identified with variable (but generally low) certainty (of which 10 with line figures), plus named for Venus, the Milky Way, Pleiades, and Canopus. The data comes from pages 174-180 in the source [miller1997stars]. Sky objects 001-005 plus the Milky Way (as The Endless Trail) form a scene corresponding to an exodus myth.",
+  "certainty": "The author identifies the stars and constellations based on textual documentation from earlier sources. Many of the star identifications are made to a sky region rather than to star names; all the line figures are then tentative and rarely well motivated. When there are multiple names for the same asterism, these may be collected from different villages. Other constellations are named, but not identified: Big Round Circle (representing a dance performed in October, and expected to be a large, irregular group of stars near IAU CrB), Star House (a big constellation in the Western sky after sunset in September), Sandy Corner (a large group of dim stars near IAU Ori), Horned Star (a bright star), Ladder, The Hand (present in other cultures), Wheel, Bull's Eye, Pot-Rest Stars (possibly Orion's belt).",
+  "constellations": [
+    {
+      "id": "CON Tewa 001",
+      "names": [{"english": "Long Sash"}],
+      "lines": [["* alf Ori", "* zet Ori", "* kap Ori"], ["* zet Ori", "* eps Ori", "* del Ori", "* gam Ori"], ["* del Ori", "* eta Ori", "* bet Ori"], ["* alf Ori", "*  32 Ori", "* gam Ori"], ["*  32 Ori", "* lam Ori"], ["* ups Ori", "* iot Ori", "* sig Ori", "* zet Ori"]],
+      "certainty": "The line figure is drawn in the source (except for the shorter lines between close or small stars) but the shape is not justified. It is a naturalistic human shape with a sash, as the character is named.",
+      "description": "The Pueblo myth of Long Sash parallels the biblical story of Moses leading the Israelites out of Egypt. Long Sash was a warrior entrusted by the tribe with the task of leading them to a new land where they could live in peace away from destructive neighbouring tribes. The long journey followed The Endless Trail (the Milky Way), and important points in the journey were marked by The Place of Decision (002), The Place of Doubt (003), and The Three Stars of Helpfulness (004).",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON Tewa 002",
+      "names": [{"english": "The Place of Decision"}],
+      "lines": [["* alf Gem", "* bet Gem"]],
+      "certainty": "The line figure is drawn in the source, and the two stars are identified.",
+      "description": "A step of the journey led by Long Sash (001) where the tribe took the decision to continue. It is said that even today, people look at these stars when making important decisions.",
+      "semantics": ["abstract"]
+    },
+    {
+      "id": "CON Tewa 003",
+      "names": [{"english": "The Place of Doubt"}],
+      "lines": [["* iot Cnc", "* gam Cnc", "* zet02 Cnc", "* bet Cnc", "* del Cnc", "* gam Cnc"], ["* del Cnc", "* alf Cnc"]],
+      "certainty": "The line figure is drawn in the source and matches Rey's naturalistic crab. However, the reason for this shape of the line figure is not explained in the source, so is probably a default to a Western figure.",
+      "description": "A step of the journey led by Long Sash (001) where Long Sash was doubtful and unsure which way to go; he asked for (and received) guidance from the above.",
+      "semantics": ["abstract"]
+    },
+    {
+      "id": "CON Tewa 004",
+      "names": [{"english": "The Three Stars of Helpfulness"}],
+      "lines": [["* alf Leo", "* bet Leo", "* gam01 Leo"]],
+      "certainty": "The line figure is drawn in the source and is located in IAU Leo, but the stars are only tentatively identified; they are the brightest in Leo, and they match the shape drawn. The shape represents a travois: an A-shaped frame structure that was used to drag loads over land.",
+      "description": "Towards the end of the journey led by Long Sash (001), the tribesmen became kinder to one another; some men made a travois (an A-shaped frame structure that was used to drag loads over land) to carry their own, as well as an old woman's belongings.",
+      "semantics": ["man-made object", "abstract"]
+    },
+    {
+      "id": "CON Tewa 005",
+      "names": [{"english": "Seven Corner"}],
+      "group": ["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa"],
+      "certainty": "Given the group (7 animals) semantic, this is not a line figure.",
+      "description": "In the story of Long Sash (001), seven animals (represented by the Big Dipper) each gave Long Sash and his tribe a sign about where they should settle.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Tewa 006",
+      "names": [{"english": "Long Tail"}, {"english": "Dog Tail"}, {"english": "Seven Tail"}, {"english": "Cradle"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* alf UMa", "* bet UMa", "* gam UMa", "* del UMa"]],
+      "certainty": "The line figure is not drawn in the source. Since the tail is said to refer to the handle only, it must be attached to the animal, so this represents the animal by closing the rectangle of the dipper.",
+      "description": "The tail refers to the handle of the Big Dipper.",
+      "semantics": ["mammal", "man-made object"],
+      "variant_of": ["CON Tewa 005"]
+    },
+    {
+      "id": "CON Tewa 007",
+      "names": [{"english": "In a Row"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "Identified as Orion's belt in the source, but not drawn, so the lining is uncertain. The row semantic motivates the line of three.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Tewa 008",
+      "names": [{"english": "Fawns"}],
+      "group": ["* del Ori", "* eps Ori", "* zet Ori"],
+      "certainty": "Identified as Orion's belt in the source, but is not drawn, so the lining is uncertain. The group semantic motivates the lack of lines.",
+      "semantics": ["group"],
+      "variant_of": ["CON Tewa 007"]
+    },
+    {
+      "id": "CON Tewa 009",
+      "names": [{"english": "Yoke"}],
+      "lines": [["* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi"]],
+      "certainty": "Identified as the bowl of the Little Dipper in the source, but not drawn, so the lining is uncertain. The yoke semantic motivates the shallow U shape.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Tewa 010",
+      "names": [{"english": "Belly of a Sling"}],
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del", "* del Del", "* bet Del"]],
+      "certainty": "Identified as IAU Del in the source, but not drawn, so the lining is uncertain. The slingshot semantic does match the standard IAU Del P-shape, so this is used.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Tewa 011",
+      "names": [{"english": "Meal-Drying Bowl"}],
+      "lines": [["* tet CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB"]],
+      "certainty": "Identified as IAU CrB in the source, but not drawn, so the number of stars used is uncertain. The bowl semantic does make the shape (an open curve) certain.",
+      "description": "Women would place a bowl (fired to a black colour) near a fire so that the meal in it would dry.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Tewa 012",
+      "names": [{"english": "Turkey Foot"}],
+      "lines": [["* alf Cyg", "* gam Cyg", "* eps Cyg"], ["* gam Cyg", "* eta Cyg"], ["* gam Cyg", "* del Cyg"]],
+      "certainty": "Not identified in the original source from 1916; suggested to be part of the Western asterism of the Northern Cross, based on its presence in the Pawnee culture, also as a Bird's Foot.",
+      "semantics": ["body part"]
+    }
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"english": "The Endless Trail", "description": "The path on which the journey led by Long Sash (001) took place, and encountered the various places and signs (002-005)."}, {"english": "Backbone of the Universe"}, {"english": "Sky Backbone"}, {"english": "Whitishness"}, {"english": "Arch Across the Sky"}],
+    "NAME Pleiades": [{"english": "In a Bunch"}, {"english": "Deer"}, {"english": "Jumbled"}, {"english": "Seven Stars"}],
+    "* alf Car": [{"english": "Gray-Haired Old Woman", "certainty": "Uncertain identification, made based on the star's rising time."}, {"english": "The Star in the South", "certainty": "Uncertain identification, made based on the star's rising time."}],
+    "NAME Venus": [{"english": "Bright Star", "description": "As morning star."}, {"english": "Dark Star Man", "description": "As morning star. Represents a male divinity."}, {"english": "Big Star", "native": "Agoyotsoyo", "description": "As morning star."}, {"english": "Asking or Prayer Star", "description": "As evening star."}, {"english": "Yellow-Going Old Woman", "description": "As evening star. Represents a female divinity whose hair falls over her face. In one story, the morning star continuously chases the evening star in the sky, which links to the theme of a man trying to follow his dead wife."}]
+  }
+}
