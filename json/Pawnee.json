@@ -1,0 +1,125 @@
+{
+  "id": "Pawnee",
+  "name": "Pawnee",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "period": "20th century research, based on an undated sky chart",
+  "place": "Nebraska",
+  "source": ["buckstaff1927stars", "chamberlain1982stars", "miller1997stars"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "culture": "The Pawnee are a tribe of the Great Plains culture area, and among the most extensively researched. By the mid-1600s, they lived in current-day Nebraska; today, they live in Oklahoma.",
+  "astronomy": "This is the cosmology of the Skidi Pawnee, the Pawnee band with the best preserved celestial traditions. To this tribe, the stars are important: they are said to have created the Earth, populated it, and provided ceremonial items and basic necessities. It is said that each tribe member is under the supervision of a star, and upon death becomes a star.",
+  "data summary": "Besides field work, the sources use an undated (pre-1906) sky chart in the collection of Pawnee material at the Field Museum of Natural History in Chicago. The chart is oval, made from tanned elk skin, and about 15 by 22 inches. The stars are represented by a four-pointed cross, in five sizes (presumably, magnitudes); there are no line figures, which are introduced by the authors of these sources. 12 constellations are identified with variable (but generally low) certainty (of which 11 with line figures), plus names for many sky objects. The data for 001-010 comes from pages 218-229 in the source [miller1997stars] which attributes it often [chamberlain1982stars] and other 20th-century sources. The data for 011-012 comes from [buckstaff1927stars]. Sky objects 001-002 (plus some individual stars) form a scene, 4 bright stars (alf Lyr, Sco, Aur, CMa) mark semi-cardinal points, and the planets (Venus and Mars) drive a creation story.",
+  "certainty": "The sources [miller1997stars, chamberlain1982stars] draw one line figure (001 and 002) and are vague on the others. The stars are usually identified by referring to a Western constellation. Other sky objects are named in [miller1997stars] but not identified with enough precision: Snake Not Real (perhaps IAU Ser), Kneeprint by the Water, Wind Ready to Give, Breathe (all three perhaps individual stars in IAU Per or Cep), Feather Headdress Star (perhaps the nebula in Orion's sword, or the sword itself), other animal constellations or stars, and names for other planets. The source [buckstaff1927stars] presents desk research which is very hypothetical, draws all line figures, but no names are given for the constellations. The most convincing two proposals (011-012) from this source are included here (out of 11); 3 other concur with the other sources.",
+  "constellations": [
+    {
+      "id": "CON Pawnee 001",
+      "names": [{"english": "Council of Chiefs"}],
+      "lines": [["* del Boo", "* eta CrB", "* bet CrB", "* alf CrB", "* gam CrB A", "* del CrB", "* eps CrB", "* iot CrB", "* rho CrB", "* kap CrB", "*   7 CrB A", "* mu.01 Boo", "* del Boo"]],
+      "description": "An additional star (002) sits in the middle of the circle of 001, to tend the fire and run errands for the chiefs.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Pawnee 002",
+      "names": [{"english": "Errand Man"}],
+      "group": ["* tet CrB"],
+      "description": "Sits in the middle of the circle of the council of chiefs (001), to tend the fire and run errands for the chiefs.",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON Pawnee 003",
+      "names": [{"english": "Big Stretcher"}],
+      "lines": [["* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* bet UMa", "* alf UMa", "* del UMa"]],
+      "certainty": "It is not clear whether Alcor should be included in the constellation (it isn't now). The line figure at the dipper handle is also not clear: here, the handle is lined and connected to the stretcher, but a separate line of 3 stars, or an unconnected group of 3 stars, may be more accurate.",
+      "description": "A stretcher (the bowl of the dipper) on which the stars carry an old man who fell ill. Three mourners (the medicine man, the wife, and the errand man) follow in a procession (including a dog represented by the faint star Alcor).",
+      "semantics": ["man-made object", "group"]
+    },
+    {
+      "id": "CON Pawnee 004",
+      "names": [{"english": "Little Stretcher"}],
+      "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi", "* zet UMi"]],
+      "certainty": "The line figure at the dipper handle is not clear: here, the handle is lined and connected to the stretcher, but a separate line of 3 stars, or an unconnected group of 3 stars, may be more accurate.",
+      "description": "A stretcher (the bowl of the dipper) on which the stars carry a young being who fell ill. The identity of the mourners is not explained.",
+      "semantics": ["man-made object", "group"]
+    },
+    {
+      "id": "CON Pawnee 005",
+      "names": [{"english": "Swimming Ducks"}],
+      "lines": [["* lam Sco", "* ups Sco"]],
+      "certainty": "Uncertain whether a line should be drawn at all. This could be a star group instead.",
+      "description": "Marks the beginning of spring.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Pawnee 006",
+      "names": [{"english": "Real Snake"}],
+      "lines": [["* del Sco", "* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco", "* eta Sco", "* tet Sco", "* iot01 Sco", "* kap Sco"]],
+      "certainty": "It is not clear whether there's a head to the snake (here, none: the figure is a long coiled line).",
+      "description": "Said to be a snake who protected Bright Star (Venus) during the creation story from Great Star (Mars). The latter passes through IAU Sco, and could be seen as slaying this serpent.",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Pawnee 007",
+      "names": [{"english": "Rabbit"}],
+      "lines": [["* bet Cas", "* alf Cas", "* gam Cas", "* del Cas", "* eps Cas"]],
+      "certainty": "Line figure not provided, but [miller1997stars, chamberlain1982stars] implies that it is the typical W shape.",
+      "description": "A rabbit seen from behind, with the bent legs forming the shape.",
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Pawnee 008",
+      "names": [{"english": "Deer"}],
+      "lines": [["* zet Ori", "* eps Ori", "* del Ori"]],
+      "certainty": "Uncertain star composition: said in [miller1997stars] to be a set of stars, likely Orion's belt, or that plus the sword and Betelgeuse. This is only the belt.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Pawnee 009",
+      "names": [{"english": "Bird's Foot"}, {"english": "Turkey's Foot"}],
+      "lines": [["* alf Cyg", "* gam Cyg", "* eps Cyg"], ["* gam Cyg", "* bet Cyg A"], ["* gam Cyg", "* del Cyg"]],
+      "certainty": "Uncertain; suggested to be the Western asterism of the Northern Cross.",
+      "description": "Drawn on the forehead of a warrior in certain rituals, when feathers are also placed on his head.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Pawnee 010",
+      "names": [{"english": "Bow"}],
+      "lines": [["* eps Del", "* bet Del", "* alf Del", "* gam02 Del"], ["* del Del", "* del Del"]],
+      "certainty": "Line figure not provided in the sources. This is a bow shape; the unconnected star del Del may also need to be connected somehow.",
+      "description": "Represents the bow that Great Star (Mars) gave the Skidi for hunting.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Pawnee 011",
+      "names": [{"english": "Unnamed 1"}],
+      "lines": [["* zet Tau", "* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* eps Tau", "* tau Tau"]],
+      "certainty": "The V shape in Taurus. Figure 1 on the Pawnee map, or bottom left on p. 281 in [buckstaff1927stars].",
+      "semantics": ["other"]
+    },
+    {
+      "id": "CON Pawnee 012",
+      "names": [{"english": "Unnamed 2"}],
+      "lines": [["* alf Ori", "* gam Ori", "* bet Ori", "* kap Ori", "* alf Ori"]],
+      "certainty": "The rectangle around Orion's belt. Figure 2 on the Pawnee map, or top left on p. 281 in [buckstaff1927stars].",
+      "semantics": ["other"]
+    }
+  ],
+  "common_names": {
+    "NAME Milky Way": [{"english": "Bright Light in a Long Stretch Across the Heavens", "description": "Spirits are said to move along this way after death, pushed by the wind towards the Spirit Star (alf Car), where they will stay."}],
+    "NAME Pleiades": [{"english": "The Seven Stars", "native": "Chaka", "description": "Signified unity and teaches people how to keep together."}],
+    "NAME Venus": [{"english": "Bright Star"}, {"english": "Evening Star"}, {"english": "Female White Star", "description": "The leading power in the western sky, said to be a beautiful woman who rebuffed her suitors. A courtship creation story links Venus as a female power with Mars as a male warrior, leading to the population of the earth. This may refer to a Mars-Venus conjunction. She births the daughter who will populate the earth, and gives the Skidi corn, bison, and their sacred bundle."}],
+    "NAME Mars": [{"english": "Great Star", "description": "A great warrior painted red, wearing a red downy feather on his head, and carrying a club. A courtship story links Venus as a female power with Mars as a male warrior, leading to the population of the earth. This may refer to a Mars-Venus conjunction."}, {"english": "Mighty Star of Fire"}, {"english": "Big Star"}, {"english": "Morning Star"}],
+    "* alf Lyr": [{"english": "Big Black Meteoric Star", "description": "One of the 4 stars assigned to semi-cardinal points (here, NE). It controls bison and other animals, and the arrival of the night. It is the patron of medicine men.", "certainty": "Identification not certain; this is a suggestion by an astronomer (1982)."}],
+    "* alf Sco": [{"english": "Red Star", "description": "One of the 4 stars assigned to semi-cardinal points (here, SE). It controls certain animals, and the arrival of the day.", "certainty": "Identification not certain; this is a suggestion by an astronomer (1982)."}],
+    "* alf Aur": [{"english": "Yellow Star", "description": "One of the 4 stars assigned to semi-cardinal points (here, NW).", "certainty": "Identification not certain; this is a suggestion by an astronomer (1982)."}],
+    "* alf CMa": [{"english": "White Star", "description": "One of the 4 stars assigned to semi-cardinal points (here, SW).", "certainty": "Identification not certain; this is a suggestion by an astronomer (1982)."}, {"english": "Coyote Star"}, {"english": "Wolf Star"}],
+    "* alf UMi": [{"english": "Star That Does Not Move", "description": "Is said to be the chief of the stars, leading them when they sit in council (001). It stays in one place so that the other stars do not get confused in their movements."}, {"english": "North Star"}],
+    "* alf Car": [{"english": "South Star", "description": "Is said to be the father of the North Star (alf UMi), appearing only briefly to check that he is at his station. Marks the beginning of winter, and is in charge of the land of the dead. The end of the world is said to be marked by the South Star, rising to the north.", "certainty": "Identification not certain."}, {"english": "Spirit Star"}, {"english": "Death Star"}, {"english": "Midway Star"}],
+    "* eta UMa": [{"english": "The Medicine Man"}], 
+    "* zet01 UMa": [{"english": "The Wife"}], 
+    "* g UMa": [{"english": "The Dog"}],
+    "* eps UMa": [{"english": "The Errand Man"}],
+    "* alf Cyg": [{"english": "Black Star"}]
+  }
+}

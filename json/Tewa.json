@@ -104,7 +104,8 @@
       "names": [{"english": "Turkey Foot"}],
       "lines": [["* alf Cyg", "* gam Cyg", "* eps Cyg"], ["* gam Cyg", "* eta Cyg"], ["* gam Cyg", "* del Cyg"]],
       "certainty": "Not identified in the original source from 1916; suggested to be part of the Western asterism of the Northern Cross, based on its presence in the Pawnee culture, also as a Bird's Foot.",
-      "semantics": ["body part"]
+      "semantics": ["body part"],
+      "variant_of": ["CON Pawnee 009"]
     }
   ],
   "common_names": {
