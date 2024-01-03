@@ -1,0 +1,85 @@
+{
+  "id": "Kiche",
+  "name": "K'iche'",
+  "region": "Americas",
+  "subregion": "Central America",
+  "period": "20th century",
+  "place": "Guatemala: Santa Lucía Utatlán, Momostenango, and others",
+  "source": ["tedlock1985hawks", "tedlock1999maya", "milbrath2000star", "sokol2022stargazers"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "culture": "The K'iche' are indigenous Maya peoples (previously written Quiché in Spanish) who form 11% of the Guatemalan population. The K'iche' language is from the Mayan language family. The highland K'iche' states in the pre-Columbian era were associated with the ancient Maya civilization, and reached the peak of their power and influence during the Mayan Postclassic period (c. 950–1539 AD). They are the authors of Popol Vuh (a 16th-century K'iche' text with strong ties to Classic Maya traditions). No formal astronomy survives now. There is a highland Maya colonial document called the K'iche' Codex, written in the Latin alphabet early in the 18th century somewhere in highland Guatemala, perhaps transcribed directly from a surviving pre-Columbian model [tedlock1999maya].",
+  "astronomy": "Constellations are used in the K'iche' agricultural calendar; the date for sowing is set by a combination of astronomy, altitude, and calendar. During field work in Momostenango, Guatemala (before 1992 [tedlock1999maya]), naked-eye astronomers observed and discussed the diurnal, monthly, and seasonal paths and positions of the Sun, Moon, and certain stars, using this to tell the time at night and of the year, for ritual and agricultural purposes.",
+  "data summary": "There are 8 constellations (of which 7 with line figures), and many names for other sky objects. Sources [tedlock1985hawks,milbrath2000star] use other primary sources from the 20th century for the K'iche'. Source [tedlock1999maya] did field work in Momostenango, Guatemala (before 1992). Source [sokol2022stargazers] talks about two unidentified constellations (deer, scorpion) and [tedlock1985hawks] also about a constellation encompassing Orion as a whole (whose exact composition is not identified), called 'Dispersed Fire'.",
+  "certainty": "There is good certainty for this surviving data. Acc. to [sokol2022stargazers], two more constellations are preserved since Maya times, but remain unidentified: a deer and a scorpion, but the illustrations in the Paris Codex don't come with patterns of dots to match with stars. Locals in the town of Santa Lucía Utatlán told that there was a deer in the night sky but didn’t recall where. they knew that the stars in IAU Sco are also thought of as a scorpion in the Guatemalan highlands today. It is not known whether this is an indigenous constellation, or is post-colonial. The deer constellation from the Paris Codex may be above the scorpion’s tail, in IAU Sgr. [tedlock1985hawks] also lists a constellation encompassing Orion as a whole (whose exact composition is not identified), called 'Dispersed Fire' (native: Je chi k'ak').",
+  "constellations": [
+    {
+      "id": "CON Kiche 001",
+      "names": [{"english": "Thieves' Cross (Wet Season)", "native": "Ripibal eläk'omab"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "description": "The name is explained: during Apr (the period when IAU Cru is most visible out of the sea and above the horizon) migrating Swainson's Hawks are carnivorous and prey on small mammals and reptiles.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Kiche 002",
+      "names": [{"english": "Thieves' Cross (Dry Season)"}],
+      "lines": [["* sig Sgr", "* phi Sgr", "* del Sgr", "* gam02 Sgr"], ["* lam Sgr", "* del Sgr", "* eps Sgr", "* eta Sgr"]],
+      "description": "Unlike Cru, this cross has been bent like corn plants before harvest (primary source from 1977).",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Kiche 003",
+      "names": [{"english": "Hawk", "native": "Xic"}],
+      "lines": [["* bet Aql", "* alf Aql", "* gam Aql", "* del Aql", "* lam Aql"], ["* del Aql", "* zet Aql"], ["* del Aql", "* eta Aql", "* tet Aql"], ["* eps Aql", "* zet Aql"], ["* lam Aql", "* i Aql"]],
+      "certainty": "[tedlock1985hawks] draws this explicitly.",
+      "semantics": ["bird"]
+    },
+    {
+      "id": "CON Kiche 004",
+      "names": [{"english": "Two Sparks", "native": "Quib pix"}, {"english": "Two Brilliant Ones", "native": "Kib' chuplinik"}],
+      "lines": [["* alf Gem", "* alf Gem"], ["* bet Gem", "* bet Gem"]],
+      "certainty": "Unlined, given the meaning.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Kiche 005",
+      "names": [{"english": "Stem of the Three Fire Lords", "native": "Je oxib' chi q'aq' ajaw"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "Lined, given the meaning.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Kiche 006",
+      "names": [{"english": "Three Hearthstones", "native": "Oxib' xk'ub'"}],
+      "lines": [["* zet Ori", "* bet Ori", "* kap Ori", "* zet Ori"]],
+      "certainty": "[tedlock1999maya] (Fig. 4, page 10) explicitly draws the triangle.",
+      "description": "These represent the three stones surrounding the indoor cooking fire. The stars enclose nebula M42, which is seen as a smoky fire. This Mayan asterism is in their creation story Popol Vuh, and is still recognized now.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Kiche 007",
+      "names": [{"english": "Handful (Big)", "native": "Pac'ab"}, {"english": "Seven Macaw", "native": "Vucub Caquix"}, {"english": "Bird"}],
+      "lines": [["* alf UMa", "* bet UMa", "* gam UMa", "* del UMa", "* eps UMa", "* zet01 UMa", "* eta UMa"]],
+      "certainty": "Lining not certain: this follows the ladle semantic.",
+      "description": "The ancient name for Big Dipper is 'Seven Macaw' (native: Vucub Caquix), found in some K'iche' dictionaries. In the Mayan creation story, Popol Vuh, this is a bird deity who climbs up a tree to proclaim himself the Sun, but is shot down by Hunahpu. Also called 'Bird', and the name of the bird incorporates the number seven.",
+      "semantics": ["man-made object", "bird"]
+    },
+    {
+      "id": "CON Kiche 008",
+      "names": [{"english": "Handful (Small)", "native": "Pac'ab"}],
+      "lines": [["* alf UMi", "* del UMi", "* eps UMi", "* zet UMi", "* eta UMi", "* gam UMi", "* bet UMi"]],
+      "certainty": "Lining not certain: this follows the ladle semantic.",
+      "description": "The name means 'ladle' or 'spoon'.",
+      "semantics": ["man-made object"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "Fistful", "native": "Mötz"}],
+    "NAME Hyades": [{"english": "Two Fistfuls", "native": "Quib mötz"}],
+    "* alf Leo": [{"english": "Single Star", "native": "Jun ch'umil"}],
+    "* alf UMi": [{"english": "Corner Star", "native": "Xucut ch'umil"}],
+    "* alf01 Cru": [{"english": "Corner Star", "native": "Xucut ch'umil", "description": "the same name as given to Polaris, in reference to its marking of the southern corner of the night sky."}],
+    "NAME Venus": [{"english": "Bringer of Day", "native": "As morning star; it is a positive sign."}],
+    "NAME Milky Way": [{"english": "White Road", "native": "Saqui b'e", "description": "The Milky Way is split into two halves. The undivided part is Saqui b'e (White Road), or Ub'e tew (Road of Ice). This part reaches its greatest prominence during the winter dry season, when frost occurs in the Guatemalan highlands; then, it spans the entire sky and arches directly overhead at around midnight."}, {"english": "Black Road", "native": "Q'eqa b'e", "description": "The Milky Way is split into two halves. The half of the Milky Way that is divided lengthwise by the dark cleft known as the Great Rift, and by other dark areas, is Q'eqa b'e (Black Road), or Ub'exib'alb'a (Road to Xibalba), the underworld. It reaches its greatest prominence during the summer wet season, when it spans the entire sky and arches directly overhead at around midnight."}]
+  }
+}
