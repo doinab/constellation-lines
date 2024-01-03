@@ -1,0 +1,92 @@
+{
+  "id": "Tzotzil",
+  "name": "Tzotzil",
+  "region": "Americas",
+  "subregion": "Central America",
+  "period": "20th century",
+  "place": "Zinacantán, in the southern Mexican state of Chiapas",
+  "source": ["vogt1997zinacanteco", "milbrath2000star"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "culture": "The Tzotzil are a modern, indigenous Maya people of the central Chiapas highlands in southern Mexico. As of 2000, they numbered under 300,000. The municipalities with the largest Tzotzil population are Chamula, San Cristóbal de las Casas, and Zinacantán (24,300), in the Mexican state of Chiapas.",
+  "astronomy": "The Zinacantecos don't differentiate among stars, planets, and constellations; all are called k'anal (yellowish one). They are much more informed about the southern (rather than northern) sky, because their view of the northern sky is blocked by the high escarpment and mountains to the north, often covered in clouds. They thus do not see Polaris. Constellations 001-003, 009, and the Pleiades are commonly recognised by the Tzotzil of Zinacantán. 004-008 are identified only by older, more knowledgeable people. The continuity from classic to the modern Maya astronomy is impressive, although the people have had no astronomers any more (as the Maya did). In the intervening 500 years, they also lost their written documents containing the complete zodiacal constellations. The elders still use constellations to accurately tell time at night. The people continue to believe that many celestial bodies are living beings, much as the Maya did. However, the names given to these gods come from 16th-century Spanish Catholicism; crosses were also important symbolism to the Maya though. Their narratives synthesise pre-colonial and Christian themes.",
+  "data summary": "The sources provide information on the astronomy of the Tzotzil of Zinacantán only, using other primary sources from the 20th century. The leading source is the paper [vogt1997zinacanteco], which covers the Tzotzil of Zinacantán. The book [milbrath2000star] has (on pages 37-40 and 260+) a summary of contemporary Maya constellations (of the Tzotzil of Zinacantán, and others); this is used to clarify some of the data. 9 constellations are identified (with line figures), plus names for many sky objects. Almost all form a coherent scene, with both natural and Christian themes.",
+  "certainty": "There is very good certainty for the stars, and clear descriptions of the geometry. Only the stars and line figure for the Scorpion (009) are uncertain. There is an unidentified constellation: the Shonob h'elek' (possibly IAU Del), the high-backed sandals of the demons who killed Christ.",
+  "constellations": [
+    {
+      "id": "CON Tzotzil 001",
+      "names": [{"english": "Cross", "native": "Krus k'anal"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "description": "This small constellation appears low in the southern sky but is clearly visible especially from the Zinacanteco hamlets located on the edge of the escarpment overlooking the Grijalva Valley to the south. According to some Zinacantecos the Cross (001) is thought to have been the cross on which Christ was crucified (which rose to the sky after his death), and the two Thieves' Crosses (006, 007) on each side of the Southern Cross are the crosses on which the two thieves were crucified.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Tzotzil 002",
+      "names": [{"english": "Three Together", "native": "'Osh-lot", "description": "Said to be the three people with Christ when he died (Mary and two others)."}, {"english": "Three Marys", "spanish": "Tres Marias"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori"]],
+      "description": "The Spanish name is used by Spanish speakers.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Tzotzil 003",
+      "names": [{"english": "Bent-over Back", "native": "Vuku-pat"}],
+      "lines": [["* eps Boo", "* gam Boo", "* eta UMa", "* zet01 UMa", "* eps UMa", "* del UMa", "* gam UMa", "* psi UMa", "* gam01 Leo", "* alf Leo"]],
+      "description": "This back is of a turtle or of an old man who stands and bends over with the hands reaching towards his toes. It is not the same as the Big Dipper.",
+      "semantics": ["body part"]
+    },
+    {
+      "id": "CON Tzotzil 004",
+      "names": [{"english": "Three-Together Thieves", "native": "'Osh-lot h'elek'"}],
+      "lines": [["* iot Ori", "* tet01 Ori C", "* c Ori"]],
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Tzotzil 005",
+      "names": [{"english": "Ladder", "native": "Smachal"}],
+      "lines": [["* gam TrA", "* alf Cir", "* alf Cen A", "* bet Cen"]],
+      "description": "Said to lead up to the Cross (001).",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Tzotzil 006",
+      "names": [{"english": "Thieves' Cross (West)", "native": "Krus h'elek'"}],
+      "lines": [["* del Vel", "* iot Car"], ["* kap Vel", "* eps Car"]],
+      "description": "The Western asterism False Cross. According to some Zinacantecos the Cross (001) is thought to have been the cross on which Christ was crucified, and the two Thieves' Crosses (006, 007) on each side of the Southern Cross are the crosses on which the two thieves were crucified.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Tzotzil 007",
+      "names": [{"english": "Thieves' Cross (East)", "native": "Krus h'elek'"}],
+      "lines": [["* bet Lup", "* pi. Lup", "* zet Lup"], ["* alf Lup", "* pi. Lup", "* eps Lup"]],
+      "certainty": "The star pi Lup makes a much straighter cross center than the kap Lup named in the source, so pi is used here.",
+      "description": "According to some Zinacantecos the Cross (001) is thought to have been the cross on which Christ was crucified, and the two Thieves' Crosses (006, 007) on each side of the Southern Cross are the crosses on which the two thieves were crucified.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Tzotzil 008",
+      "names": [{"english": "Basket", "native": "Moch k'anal"}],
+      "lines": [["* gam TrA", "* alf Cir", "* bet Cen", "* eps Cen", "* gam Cen", "* del Cen", "* pi. Cen", "* eta Car", "* tet Car", "* ome Car"]],
+      "description": "A basket or arch over the Cross (001). Like the arches of flowers erected over altars in the houses of the cargoholders in Zinacantán.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Tzotzil 009",
+      "names": [{"english": "Scorpion", "native": "Tsek k'anal"}],
+      "lines": [["* lam Sco", "* kap Sco", "* iot01 Sco", "* tet Sco", "* eta Sco", "* zet01 Sco", "* mu.01 Sco", "* eps Sco", "* tau Sco", "* alf Sco", "* del Sco"], ["* alf Sco", "* pi. Sco"], ["* alf Sco", "* bet01 Sco"]],
+      "certainty": "It is identified as IAU Sco, but without a description of the line geometry. The simplest geometry is used here: that of the Western Sco (the head is 3 rays, using only bright stars).",
+      "description": "This constellation is very distinctive in the southern sky at this tropical latitude. Antares is 'the heart of the scorpion'. The scorpion's tail is used for time measurements. Its position relative to the Milky Way predicts when it will rain.",
+      "semantics": ["arthropod"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "High-backed Ceremonial Sandals", "native": "Shonob", "description": "It is known to rise ahead of 'Osh-lot (002). Said to be the sandals Christ wore when he died."}, {"english": "High-backed Ceremonial Sandals", "native": "Chak shonobil", "description": "It is known to rise ahead of 'Osh-lot (002). Said to be the sandals Christ wore when he died."}, {"english": "Seven Female Goatherds", "spanish": "Siete Cabreras", "description": "The Spanish name is used by Spanish speakers."}, {"english": "Seven Goats", "spanish": "Siete Cabrillos", "description": "The Spanish name is used by Spanish speakers."}],
+    "* alf CMa": [{"english": "Easter Star", "native": "Paskwa k'anal", "certainty": "The identification of the star is uncertain."}, {"english": "Companion to 'Osh-lot", "description": "It travels behind Shonob (Pleiades) and 'Osh-lot (002), in line with the latter."}],
+    "* alf Boo": [{"english": "Red Star", "native": "Tsahal k'anal"}],
+    "* alf Lyr": [{"english": "Senior White Star", "native": "Bankilal sakil k'anal"}],
+    "* alf Aql": [{"english": "Junior White Star", "native": "'Its'inal sakil k'anal"}],
+    "* alf Sco": [{"english": "The Heart of the Scorpion"}, {"english": "Junior Elder Star", "native": "'Its'inal mol k'anal", "description": "This is paired with Venus, the senior Elder Star."}],
+    "NAME Venus": [{"english": "Large Yellowish One", "native": "Muk'ta k'anal"}, {"english": "Elder Yellowish One", "native": "Mol k'anal"}, {"english": "The Sweeper of the Path", "description": "As the Morning Star: a Chamula girl who precedes and is believed to sweep the path of the rising sun."}],
+    "NAME Mars": [{"english": "Red Star", "native": "Tsahal k'anal", "description": "Only some Zinacantecos identify this planet, which moves around and is sometimes not visible."}],
+    "NAME Milky Way": [{"english": "Road of Water", "native": "Be vo'", "description": "This is the name during the summer rainy season."}, {"english": "Road of Frost", "native": "Be taiv", "description": "This is the name during the winter dry season."}, {"english": "Road of Wind", "native": "Be ik'", "description": "This is the name when in vertical position."}]
+  }
+}
