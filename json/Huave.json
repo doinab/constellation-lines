@@ -1,0 +1,125 @@
+{
+  "id": "Huave",
+  "name": "Huave",
+  "region": "Americas",
+  "subregion": "Central America",
+  "period": "field work Nov 1979-Feb 1980",
+  "place": "San Mateo del Mar, Oaxaca, Mexico",
+  "source": ["lupo1981conoscenze"],
+  "licence": "CC BY-SA",
+  "phylogeny": "North America",
+  "culture": "The Huave are an indigenous people of Mexico (population under 30,000) who have inhabited the Isthmus of Tehuantepec for more than 3000 years, preceding the Zapotec people in settling the area. Today they inhabit several villages (San Mateo del Mar, in the Tehuantepec District, and Santa María del Mar, San Dionisio del Mar and San Francisco del Mar, in the Juchitán District). Many work as fishermen and farmers.",
+  "astronomy": "The Huave have no myth on the origin of sky objects, or other myth related to them. They use the stars to tell time during the night, with equal precision as during the day. For this, they use mostly equatorial constellations, which appear higher and for longer periods in the sky. The stars are believed to be real candles, which make the sky sacred, and the residence of both 'living gods' and the souls of the dead. The stars are in two categories. The bright ones (always visible) are mobile, were grouped into constellations, and were followed in their courses. The elderly say that, earlier, all mobile stars had names, but now they are lost. The numerous faint stars (which are only sometimes clearly visible) are not individually identified, and are considered part of the fixed, immobile background of the sky. The Huave don't seem aware of the anomalous motion of the planets; only Venus attracts some attention and has various names. The majority of constellations are named after animals. What is surprising is that, these being fishing people, there is a single fish, the seahorse (the rest are air and ground animals). The Huave say that this association constellation-animal is a convention: the two don't associate, there is only a resemblance in contour. The Scorpion, which is unusually large for this culture, is well embedded in local ritual, so may have indigenous origins, despite being identical to the Western figure. The remaining constellations are named after religious objects; clearly, the colonial presence has significantly modified the indigenous cosmology. Only the name of the Pleiades (šikip) has no meaning except the astronomical one. Constellation Candelabra (roob) may have pre-colonial origins: the same constellation is also Aztec, called The New Fire (mamalhuaztli).",
+  "data summary": "The source draws a precise chart with line figures on page 282.",
+  "certainty": "The identification is certain. The data cannot be considered complete though: completeness is impossible to achieve, given how much of the traditional astronomical knowledge was already lost. Some constellations are named, but could not be located in the sky, for two reasons: (1) the stay was too short, so the summer sky could not be studied, (2) the locals could only remember the name, and not the location. Since the Huave only observe the sky now in order to tell time (and for no other purpose), and for this only a subset of the constellations are useful (the equatorial), this lead to a great loss of knowledge, which only accelerates. In particular, the info on north polar constellations is contradictory: they attract no attentione because 'they're useless'. It is also the norm that Huave constellations group stars which are very close together. All this leads to Western constellations such as IAU UMa, Aur, Peg not appearing in the data. Many other constellations are named, but were not identified (native / Italian / English): areh okas / tre stelle / three stars, col / airone / heron, kwak / ragno / spider, lïw / giaguaro / jaguar, neoel / bambola / doll, omal wakïš / testa di toro / head of ox, pišaw / anatra / duck, wïil / volpe / fox, čïplïw / tarantola / tarantula.",
+  "constellations": [
+    {
+      "id": "CON Huave 001",
+      "names": [{"english": "Pelican", "native": "Mahcoy"}],
+      "lines": [["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau"]],
+      "semantics": ["bird"]
+    },
+    {
+      "id": "CON Huave 002",
+      "names": [{"english": "Candelabra", "native": "Roob"}],
+      "lines": [["* del Ori", "* eps Ori", "* zet Ori", "* eta Ori", "* del Ori"], ["* tet01 Ori C", "* del Ori"]],
+      "certainty": "M42 is also said to be part of this constellation, but is not included here. The line figure is also reconnected such that all lines end in stars (which is not the case in the source for one line).",
+      "description": "This represents a ceremonial object used in dance ceremonies: a baton with a red feather at one end, symbolising fire. This may have pre-colonial origins: the same constellation is also Aztec, called The New Fire (mamalhuaztli). A newwer meaning is that of the candelabra: a triangular light lit in church.",
+      "semantics": ["man-made object"]
+    },
+    {
+      "id": "CON Huave 003",
+      "names": [{"english": "Pair of Oxes", "native": "Mankwerna"}],
+      "lines": [["* alf Gem", "* bet Gem"]],
+      "description": "Has post-colonial origins.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Huave 004",
+      "names": [{"english": "Large Crab", "native": "Kïnč"}],
+      "lines": [["* eps Hya", "* del Hya", "* sig Hya", "* eta Hya", "* rho Hya"]],
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON Huave 005",
+      "names": [{"english": "Small Crab", "native": "Pilaw"}],
+      "lines": [["* del Cnc", "* eps Cnc", "* gam Cnc"]],
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON Huave 006",
+      "names": [{"english": "Hunter", "native": "Nepep"}],
+      "lines": [["* alf Leo", "* eta Leo", "* gam01 Leo", "* zet Leo", "* mu. Leo", "* eps Leo", "* eta Leo"]],
+      "description": "Probably a hunter figure from pre-colonial times, adapted at the time when fire arms were introduced.",
+      "semantics": ["humanoid"]
+    },
+    {
+      "id": "CON Huave 007",
+      "names": [{"english": "Marquee", "native": "Markesand"}],
+      "lines": [["* del Crv", "* gam Crv", "* eps Crv", "* bet Crv", "* del Crv"]],
+      "description": "A marquee made out of wood and paper which decorates a domestic altar during religious events.",
+      "semantics": ["architecture"]
+    },
+    {
+      "id": "CON Huave 008",
+      "names": [{"english": "Scorpion", "native": "Napip"}],
+      "lines": [["* del Sco", "* sig Sco", "* alf Sco", "* tau Sco", "* eps Sco", "* mu.01 Sco", "* zet02 Sco", "* eta Sco", "* tet Sco", "* iot01 Sco", "* kap Sco", "* lam Sco", "* ups Sco"], ["* nu. Sco", "* bet01 Sco", "* del Sco", "* pi. Sco", "* rho Sco"]],
+      "description": "Said to be the same as the Western constellation. It is not clear whether it is a native or imported constellation; in any case, it is very well embedded in the Huave traditions.",
+      "semantics": ["arthropod"]
+    },
+    {
+      "id": "CON Huave 009",
+      "names": [{"english": "Deer", "native": "Šikwïw"}],
+      "lines": [["* eps Sgr", "* del Sgr", "* lam Sgr", "* phi Sgr", "* zet Sgr", "* eps Sgr"]],
+      "semantics": ["mammal"]
+    },
+    {
+      "id": "CON Huave 010",
+      "names": [{"english": "Cross of Stars", "native": "Krus Okas"}],
+      "lines": [["* alf01 Cru", "* gam Cru"], ["* bet Cru", "* del Cru"]],
+      "description": "Represents the cross on which Christ died.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Huave 011",
+      "names": [{"english": "Devil's Cross", "native": "Krus Nimeeč"}],
+      "lines": [["* bet Car", "* del Vel"], ["* iot Car", "* eps Car"]],
+      "description": "Called this way because it has an irregular, oblique form.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Huave 012",
+      "names": [{"english": "Stairs", "native": "Eskalera"}],
+      "lines": [["* alf Cen A", "* bet Cen"]],
+      "description": "Said to be the stairs used to crucify Christ.",
+      "semantics": ["architecture"]
+    },
+    {
+      "id": "CON Huave 013",
+      "names": [{"english": "Snake", "native": "Ndïik"}],
+      "lines": [["* gam Cas", "* eta Cas", "* alf Cas", "* bet Cas", "* gam Cas", "* del Cas", "* eta Per", "* gam Per", "* alf Per", "* del Per", "* nu. Per", "* eps Per", "* ksi Per", "* zet Per"]],
+      "certainty": "In Cas, it was clearly meant eta Cas not eps Cas, acc. the chart in the source.",
+      "semantics": ["reptile"]
+    },
+    {
+      "id": "CON Huave 014",
+      "names": [{"english": "Northern Cross of Stars", "native": "Krus Okas am Kalïy"}],
+      "lines": [["* alf UMi", "* gam UMi"], ["* bet UMi", "* eta UMi"]],
+      "description": "This cross rotates around Polaris. It is not linked to any belief, and is not used to measure time, because of its northern latitude.",
+      "semantics": ["geometric"]
+    },
+    {
+      "id": "CON Huave 015",
+      "names": [{"english": "Seahorse", "native": "Pilmïik"}],
+      "lines": [["* omi UMa", "* h UMa", "* ups UMa", "* phi UMa", "* tet UMa", "* iot UMa", "*  10 UMa", "*  38 Lyn", "* alf Lyn", "*  21 LMi", "*  38 Lyn"]],
+      "certainty": "Inserted 10 UMa into the figure, because it's clearly needed acc. the chart in the source.",
+      "semantics": ["fish"]
+    }
+  ],
+  "common_names": {
+    "NAME Pleiades": [{"english": "", "native": "šikip", "description": ""}],
+    "* alf CMa": [{"english": "Tail of Candelabra", "native": "miwiïl roob", "description": ""}],
+    "NAME Venus": [{"english": "Big Star", "native": "šeec okas", "description": "Venus as morning star."}, {"english": "Big Laziness", "native": "šeeč anč", "description": "Venus as morning star. Named like this because it follows the sun, and never follows the other stars' trajectory."}, {"english": "Toasted Corn", "native": "nerimb os", "description": "Venus as morning star. Named like this because of the practical activities which take place at its rising time: women wake up to toast the corn for the first meal of the day."}],
+    "NAME Milky Way": [{"english": "Sleep of the Devil", "native": "nimeeč ameay", "description": "Called this way because the Huave consider the sky still, and see the Milky Way keep changing position through the night, like people who are tormented and cannot find peace in their sleep. Shows the coexistence of indigenous and European belief."}]
+  }
+}
