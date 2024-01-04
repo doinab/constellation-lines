@@ -1,0 +1,71 @@
+{
+  "id": "Wichi",
+  "name": "Wichí",
+  "region": "Americas",
+  "subregion": "South America",
+  "period": "20th century",
+  "place": "informants (1921-) originally from Salta Province, Argentina; some interviewed in Ledesma or Orán, Argentina, where indigenous tribes worked during the harvest",
+  "source": ["mariani2017look", "metraux1939matako", "lehmann1923matacos"],
+  "licence": "CC BY-SA",
+  "phylogeny": "South America",
+  "culture": "The Wichí (also widely known as the Mataco) are hunter-gatherers from the Mataco-Maká language family (together with the Chorote, Maká, Nivaclé); the population is 40-50,000. They live in Argentina (provinces Salta, Formosa, and Chaco) and Bolivia (Gran Chaco province), neighbouring the Toba in the Pilcomayo River area. Since the beginning of the 20th century, many are Christians, having been much more receptive to the new religion than the Toba.",
+  "astronomy": "The Wichí say that, formerly, sky and earth were connected by a big tree, so hunters were able to climb the tree and go hunting in the world above --- until an old man burned the tree, and the hunters remained stranded in the sky as the Pleiades. The inhabitants of the sky are non-human powerful beings in a mythical time, with whom a balanced relationship is essential for Wichí survival. This now applies also to spirits introduced by Christianity. Celestial objects are significant in the Wichí world view. The Moon (male) and Venus (female) are said to be married, and the parents of the stars. Similarly to Mocoví traditions, stars (native: kates or katäs) are generally seen as women, whom terrestrial women descend from. The first mothers of the Wichí descended from the stars, so the stars are associated with human fertility, as well as plant (see Pleiades). Some stars which are important for other tribes have no significance for the Wichí (for example, alf-bet Cen).",
+  "data summary": "There are 5 constellations (of which 3 with line figures) and many names for other sky objects. Scenes are formed by 001 and the Coalsack Nebula, by 002, the Milky Way, and the Magellanic Clouds, by 003-004 and the Coalsack Nebula. Primary sources in [mariani2017look] from throughout the 20th century. These primary sources include [metraux1939matako,lehmann1923matacos] which provide much of the information.",
+  "certainty": "There is little and inconsistent astronomical data. Native names (variants and spellings) vary widely between authors and even between informants to the same author. Not identified: [metraux1939matako myth 12] Near the Ostrich (the Constellation of the Ostriches or the Pleiades) there is a leg in the sky. The Pleiades patseLai are the people who formerly inhabited the earth and who now live in the heavens. They warm themselves round a log which is constantly burning in the sky. The fire runs lengthwise along the log and never goes out. If any one should touch that log it would explode. It is of palo santo wood and therefore burns very slowly. The ashes fall on the ground and constitute frost. Also, a corral: [lehmann1923matacos] This is similar to the corrals of the Ava Guaraní, but it is not clear which sky location this is. It is also not clear what other meanings IAU Cru has (there appear to be some).",
+  "constellations": [
+    {
+      "id": "CON Wichi 001",
+      "names": [{"english": "The Grandchildren", "native": "Tej'yäs"}],
+      "group": ["* zet01 Sco", "* zet02 Sco"],
+      "description": "[lehmann1923matacos] These stars represents two children (brothers). They might be hunting a cosmic rhea.",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Wichi 002",
+      "names": [{"english": "Beach", "native": "Huolii"}],
+      "lines": [["* alf01 Cru", "* bet Cru", "* gam Cru", "* del Cru", "* alf01 Cru"]],
+      "certainty": "The lining is hypothetical; due to the beach semantic, lined as a simple polygon.",
+      "description": "[lehmann1923matacos] Connected in a scene with the Milky Way as a River, and the Coalsack Nebula: this is a (sandy) beach. In alternative myths (less clear atm), this star group (probably in another lining) forms a (group of) rhea, or another creature.",
+      "semantics": ["landscape"]
+    },
+    {
+      "id": "CON Wichi 003",
+      "names": [{"english": "Female Rhea", "native": "Súri Hembra"}],
+      "lines": [["* kap Sco", "* tet Sco", "* alf Ara"], ["* kap Sco", "* iot01 Sco"], ["* kap Sco", "* lam Sco"], ["* kap Sco", "* ups Sco"], ["* kap Sco", "* G Sco"]],
+      "certainty": "Stars are identified, and line figure is drawn explicitly.",
+      "description": "[lehmann1923matacos] These stars of the Sco and Ara constellations form the female rhea. (The Coalsack Nebula is the male rhea.)",
+      "semantics": ["bird"]
+    },
+    {
+      "id": "CON Wichi 004",
+      "names": [{"english": "Rhea Chicks"}],
+      "group": ["* eps Sgr", "* gam02 Sgr", "* del Sgr", "* eta Sgr"],
+      "description": "[lehmann1923matacos] These stars of Sgr form the 4 chicks of the female rhea (003) and the male rhea (the Coalsack Nebula).",
+      "semantics": ["group"]
+    },
+    {
+      "id": "CON Wichi 005",
+      "names": [{"english": "The Great Yulo", "native": "Potzáj"}],
+      "lines": [["* eta Tau", "* eps Tau"], ["* alf Tau", "* tet02 Tau", "* gam Tau", "* del Tau", "* del03 Tau", "* eps Tau"], ["* alf Tau", "* gam Ori", "* del Ori", "* eps Ori", "* zet Ori"]],
+      "certainty": "It is uncertain, but put together by [lehmann1923matacos] from bits of information and the meaning of the names of individual parts. On the other hand, later researchers claim that they have found no trace of this asterism.",
+      "description": "[lehmann1923matacos] The Great Yulo is a mythological bird, the master of the rain, which has an asterism composed of the Pleiades (head, represented by eta Tau alone --- BUT should be the entire Pleiades), the Hyades (body), gam Ori (heels), and Orion's belt (feet). In another narrative (primary sources 1973-1988), this asterism is formed when some corzuela deer flee to the sky to escape their murderous jaguar grandfather. The deer retreat to safety in the sky forming the Patsezlai, the Pleiades; the deer's mother also climbs to the sky as IAU Cru. This myth shows Wichí kinship rules.",
+      "semantics": ["bird"]
+    }
+  ],
+  "common_names": {
+    "NAME Venus": [{"native": "Ihwála wú", "english": "It Makes Day", "description": "As morning star."}, {"native": "Huäla yäjuá", "english": "Wide of the Moon", "description": "As evening star. Venus is female, and thought to be the wife of the male Moon. The stars are their children."}, {"native": "Katés Lukwetáh", "english": "Potbellied Star", "description": "As evening star."}, {"english": "The Star-Woman", "description": "As evening star. There is a star-woman myth [metraux1939matako myths 17-18 and other later sources]: a Wichí man, who had initially been despised by his community, has a love relationship with this Star-Woman, and thus the man becomes attractive for the other women. Also, thanks to the star-woman's knowledge, harvests abound. The relationship ends tragically because: the Star-Woman escapes to the sky, the man pursues her and dies, since the sky is not a place to live for men."}],
+    "NAME Coalsack Nebula": [{"native": "Súri", "spanish": "Súri Macho", "english": "Male Rhea", "description": "[lehmann1923matacos] 003 is the female rhea and 004 the chicks."}, {"native": "Ij'nót", "spanish": "Hay Barro", "english": "Muddy Place", "description": "[lehmann1923matacos] Connected in a scene with the Milky Way as a River, and 002 as the beach: this is a place on the side of the river with mud."}],
+    "NAME Milky Way": [{"native": "Noiij", "english": "Path", "description": "[lehmann1923matacos]. The Magellanic Clouds are lumps of soil."}, {"native": "Täúk", "english": "River", "description": "[lehmann1923matacos] Connected with the Bermejo River in the Gran Chaco region. Stars inside the river are seen as sand, as is 002."}, {"english": "Smoke", "description": "[mariani2017look] Conceived as the smoke remaining after a portion of the sky was burnt to open up a straight path. What is currently seen across the sky are the ashes and the smoke left in the way behind the fire."}],
+    "NAME Large Magellanic Cloud": [{"native": "Tsātaj", "spanish": "Terron", "english": "Lump of Soil", "description": "[lehmann1923matacos]. On the side of the Milky Way as a Path."}],
+    "NAME Small Magellanic Cloud": [{"native": "Tsātaj", "spanish": "Terron", "english": "Lump of Soil", "description": "[lehmann1923matacos]. On the side of the Milky Way as a Path."}],
+    "NAME Pleiades": [{"native": "Patsezlai", "english": "The Head of the Great Yulo", "description": "See 005."}, {"english": "Stellar Family", "description": "[mariani2017look] The Moon is the father and Venus, the mother. As the young siblings grow up, they move to the border of the asterism. When mature, they fall down to Earth, where they impregnate the soil to favour plant development and the provision of honey (key staples in the Wichí diet). The shamans have to undertake an annual journey to the Pleiades to encourage this union."}, {"native": "", "english": "Hunters", "description": "[mariani2017look] They represent hunters that remained marooned in the sky after offending an old man/woman who decided on this revenge."}],
+    "NAME Hyades": [{"english": "The Body of the Great Yulo", "description": "See 005."}],
+    "* gam Ori": [{"english": "The Heels of the Great Yulo", "description": "See 005."}],
+    "* zet Ori": [{"english": "The Feet of the Great Yulo", "description": "This should be the entire Orion's belt. See 005."}],
+    "* alf Ara": [{"english": "The Head of the Female Rhea", "description": "See 003."}],
+    "* lam Sco": [{"english": "A Wing of the Female Rhea", "description": "See 003."}],
+    "* ups Sco": [{"english": "A Wing of the Female Rhea", "description": "See 003."}],
+    "* iot01 Sco": [{"english": "A Foot of the Female Rhea", "description": "See 003."}],
+    "* G Sco": [{"english": "A Foot of the Female Rhea", "description": "See 003."}]
+  }
+}
