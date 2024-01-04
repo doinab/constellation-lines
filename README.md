@@ -17,4 +17,5 @@ Analyses of this data:
 
 The map of the 82 sky cultures is below. The .json format currently has 40 (this number is growing). The number in parentheses counts constellations with line figures, but the data contains many other unlined star groups, and names for stars and other sky objects.
 
-![culture_map_compact](https://github.com/doinab/constellation-lines/assets/3672108/a29780d4-09ec-42de-8c7e-20df331a5c25)
+![culture_map_compact](https://github.com/doinab/constellation-lines/assets/3672108/2bcd9e23-0acf-49cd-ade2-475c5c7e7b8c)
+
